@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2023-10-14T12:39:14.055Z
+date: 2023-10-14T12:39:49.890Z
 tags: home, ru
 editor: markdown
 dateCreated: 2023-10-08T13:50:47.539Z
@@ -17,7 +17,7 @@ dateCreated: 2023-10-08T13:50:47.539Z
 Здесь собрана основная информация об игре
 
 - [:information_source: Системные требования *Узнай на сколько твой пк устарел для этой игры*](/ru/install/requirements)
-- [:scroll: Гайд по установке *Инструкция для установки сервера*](/ru/install)
+- [:scroll: Гайд по установке *Инструкция по установки игры и сервера*](/ru/install)
 - [:boom: Баги и их исправления *Солянка всех багов игры и их фиксы*](/ru/troubleshooting)
 {.links-list}
 
