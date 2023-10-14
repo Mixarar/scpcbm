@@ -2,31 +2,31 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-14T15:29:35.933Z
+date: 2023-10-14T16:02:19.421Z
 tags: it
 editor: markdown
 dateCreated: 2023-10-14T15:29:35.933Z
 ---
 
-**SCP: Coalition** wiki home page.
-> This wiki is being actively worked on
+**SCP: Coalition** Wiki pagina principale.
+> Questo wiki è in fase di lavorazione.
 {.is-info}
 
 
-# General
-General stuff that you need to know.
+# Generale
+Roba generale che dovresti sapere.
 
-- [:information_source: Requirements *Computer specs requirements.*](/en/install/requirements)
-- [:scroll: Installation Guide *Installation instructions for server and game.*](/en/install)
-- [:boom: Troubleshooting *A guide for all common errors*](/en/troubleshooting)
+- [:information_source: Requisiti *Requisiti per il sistema.*](/en/install/requirements)
+- [:scroll: Guida d'installazione *Istruzioni per l'installazione dei server o del gioco.*](/en/install)
+- [:boom: Troubleshooting *Una guida per tutti gli errori comuni.*](/en/troubleshooting)
 {.links-list}
 
-# Game Wiki
+# Wiki del Gioco
 
-Wiki about the game itself, everything you might want to check out.
-###### **Might contain spoilers.**
-- [:bookmark_tabs: Info *General info about the setting of the game and other.*](/en/game)
-- [:books: Plot *Plot of the game itself. What, where, how and why.*](/en/game/plot)
+Un wiki sul gioco stesso, tutto quello che devi sapere.
+###### **Potrebbero contenere spoiler.**
+- [:bookmark_tabs: Info *Info generale riguardante l'atmosfera del gioco e altro.*](/en/game)
+- [:books: Plot *Scopo del gioco stesso. Cosa, dove, come e perché.*](/en/game/plot)
 {.links-list}
 ---
 
