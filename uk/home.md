@@ -2,7 +2,7 @@
 title: Домашная страница
 description: 123123
 published: true
-date: 2023-10-14T15:31:03.295Z
+date: 2023-10-14T15:32:19.075Z
 tags: home, ua
 editor: markdown
 dateCreated: 2023-10-14T15:04:57.448Z
@@ -13,7 +13,7 @@ dateCreated: 2023-10-14T15:04:57.448Z
 {.is-info}
 
 
-# Основная информация
+# Основна інформація
 Тут зібрана основна інформація про цю гру
 
 - [:information_source: Системні вимоги *Дізнайся на скільки твій пк застарів для цієї гри*](/uk/install/requirements)
