@@ -1,8 +1,8 @@
 ---
 title: D-Класс
-description: Объяснение лора D-класса и то, что они должны делать в игре.
+description: Объяснение лора D-класса и его предназначение.
 published: true
-date: 2023-10-14T11:58:49.416Z
+date: 2023-10-14T12:02:11.169Z
 tags: ru, d-класс
 editor: markdown
 dateCreated: 2023-10-14T11:55:13.441Z
