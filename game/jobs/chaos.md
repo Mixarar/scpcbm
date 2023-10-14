@@ -2,7 +2,7 @@
 title: Chaos
 description: Chaos lore and use in the game.
 published: true
-date: 2023-10-14T14:38:05.307Z
+date: 2023-10-14T14:43:19.571Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:37:53.990Z
@@ -11,6 +11,7 @@ dateCreated: 2023-10-08T23:37:53.990Z
 - [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs)
 {.links-list}
 # Chaos
+
 **Name**: `Chaos Soldier`
 **Category**: `D-Class/Chaos`
 **Health**: `150`
