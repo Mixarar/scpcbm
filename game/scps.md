@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-14T15:37:37.628Z
+date: 2023-10-14T16:05:21.804Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -20,3 +20,11 @@ dateCreated: 2023-10-12T19:24:17.893Z
 - SCP-860-2
 - SCP-939
 - SCP-966
+
+## SCP-035
+
+something here
+
+## SCP-049
+
+something sdioiwejfiowjef
