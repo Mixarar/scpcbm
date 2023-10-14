@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-12T19:29:57.190Z
+date: 2023-10-14T15:10:08.641Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -34,4 +34,11 @@ Wiki about the game itself, everything you might want to check out.
 - [:construction_worker: Roles *People's jobs and everything about them.*](/en/game/jobs)
 - [:warning: SCPs *Everything known about SCPs*](/en/game/scps)
 - [:door: Rooms *Just about rooms and locations.*](/en/game/rooms)
+{.links-list}
+
+# Server Wiki
+
+Everything that hosters might need for their server.
+###### **Might contain spoilers.**
+- [:warning:*Work In Progress.*](/en/game)
 {.links-list}
