@@ -2,7 +2,7 @@
 title: MTF
 description: MTF lore and use in game.
 published: true
-date: 2023-10-14T14:23:31.510Z
+date: 2023-10-14T14:26:59.137Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:35:51.658Z
@@ -11,6 +11,7 @@ dateCreated: 2023-10-08T23:35:51.658Z
 [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs)
 {.links-list}
 # MTF
+![ezgif.com-webp-to-png-removebg-preview.png](/ezgif.com-webp-to-png-removebg-preview.png)
 **Name**: `MTF`
 **Category**: `SCP Foundation`
 **Health**: `150`
