@@ -2,7 +2,7 @@
 title: Гайд із встановлення
 description: 
 published: true
-date: 2023-10-14T15:57:34.261Z
+date: 2023-10-14T15:59:22.673Z
 tags: ua
 editor: markdown
 dateCreated: 2023-10-14T15:57:34.261Z
@@ -15,7 +15,7 @@ dateCreated: 2023-10-14T15:57:34.261Z
 #### **Требуется**:
 - Steam аккаунт
 - Рабочее устройство
-- [Минимальные требования](/ru/install/requirements) устройства или выше
+- [Минимальные требования](/uk/install/requirements) устройства или выше
 
 #### **Необязательно**:
 - [Рекомендованные требования](/ru/install/requirements) устройства или выше
