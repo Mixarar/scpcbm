@@ -2,7 +2,7 @@
 title: SCPs
 description: SCP lore and use in the game.
 published: true
-date: 2023-10-14T15:58:10.543Z
+date: 2023-10-14T15:59:28.020Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:46:39.758Z
