@@ -2,7 +2,7 @@
 title: Гайд із встановлення
 description: 
 published: true
-date: 2023-10-14T16:14:22.462Z
+date: 2023-10-14T16:16:48.341Z
 tags: ua
 editor: markdown
 dateCreated: 2023-10-14T15:57:34.261Z
@@ -17,10 +17,10 @@ dateCreated: 2023-10-14T15:57:34.261Z
 - Робочий пристрій
 - [Мінімальні вимоги](/uk/install/requirements) пристроя або вище
 
-#### **Необязательно**:
+#### **Не обов'язково**:
 - [Рекомендовані вимоги](/uk/install/requirements) пристроя або вище
 
-## Шаги по установке игры:
+## Кроки для встановлення гри:
 1. Відкрийте ваш [**додаток Steam**](https://store.steampowered.com/about/).
 2. Введіть [SCP: CBM](https://store.steampowered.com/app/1782380/SCP_Containment_Breach_Multiplayer/) або [SCP: Coalition](https://wiki.scpcbm.com) у рядку пошуку
 3. Натисніть «Завантажити/грати» на сторінці магазину та насолоджуйтесь!
