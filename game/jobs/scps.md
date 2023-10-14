@@ -2,7 +2,7 @@
 title: SCPs
 description: SCP lore and use in the game.
 published: true
-date: 2023-10-14T14:52:28.629Z
+date: 2023-10-14T15:32:38.833Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:46:39.758Z
@@ -57,3 +57,8 @@ SCP-049 Spawns In "HEAVY CONTAINMENT ZONE" He is the most basic SCP in this game
 **Items**: `Level 5 Key Card`
 ## Lore
 ## In Game
+# SCP-860-2
+**Name**: `The Forest Beast`
+**Category**: `SCP`
+**Health**: `3000`
+**Items** `Level 5 Key Card`
