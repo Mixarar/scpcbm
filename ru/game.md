@@ -2,11 +2,14 @@
 title: Игра
 description: Общая информация об игре
 published: true
-date: 2023-10-14T10:31:41.890Z
+date: 2023-10-14T11:43:26.471Z
 tags: ru, информация, особенности
 editor: markdown
 dateCreated: 2023-10-14T10:31:37.331Z
 ---
+
+- [:arrow_backward: Назад *Вернуться на главную страницу.*](/ru/home)
+{.links-list}
 
 # SCP: Coalition
 ###### Aka: SCP: CBM
