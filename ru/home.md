@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2023-10-14T12:45:54.574Z
+date: 2023-10-14T13:02:53.653Z
 tags: home, ru
 editor: markdown
 dateCreated: 2023-10-08T13:50:47.539Z
@@ -38,3 +38,7 @@ dateCreated: 2023-10-08T13:50:47.539Z
 - [:warning: Объекты SCP *Здесь собрана вся информация об объектах находящихся в фонде*](/ru/game/scps)
 - [:construction_worker: Роли *Здесь собрана вся информация об ролях в фонде*](/ru/game/jobs)
 {.links-list}
+
+# Благодарность
+Здесь находятся те кто переводил и редактировал эту и другие страницы.
+- [:construction_worker: Редакторы *Список редакторов и переводчиков Wiki*](/ru/thanks)
