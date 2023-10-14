@@ -2,13 +2,13 @@
 title: Мобильная Оперативная Группа
 description:  Cпециальная группа агентов, назначенная Фондом SCP для выполнения различных операций.
 published: true
-date: 2023-10-14T16:24:19.969Z
+date: 2023-10-14T16:39:49.845Z
 tags: ru
 editor: markdown
 dateCreated: 2023-10-14T13:58:24.877Z
 ---
 
-<p><span class="text-huge">Мобильные Оперативные Группа Nine-Tailed Fox</span></p>
+<p><span class="text-huge">Мобильная Оперативная Группа Nine-Tailed Fox</span></p>
 <hr>
 <blockquote>
   <p>Роль: <i>MTF</i><br><i>Команда: Безопасности</i><br><i>Здоровье: 150</i><br><i>Стартовые предметы: </i>M4A1, Desert Eagle, Omni Card, Handcuffs, Radio</p>
