@@ -2,7 +2,7 @@
 title: D-Class
 description: Explains the D-Class lore and what they are supposed to do in the game.
 published: true
-date: 2023-10-14T09:54:33.063Z
+date: 2023-10-14T13:40:37.114Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T16:25:35.714Z
@@ -12,14 +12,14 @@ dateCreated: 2023-10-08T16:25:35.714Z
 {.links-list}
 # D-Class 
 ![items.png](/images/roles/imageedit_1_4230581360.png)
-**Name**: `D-Class`
+**Name**: `Class-D`
 **Category**: `D-Class/Chaos`
 **Health**: `100`
 **Items**: `None`
 ## Lore
-Before, they were death row inmates, now D-Class that are used for experimental tests for SCPs. The D-Class first take amnestics when going to the SCP Foundation to lose their past experiences, which helps the SCP Foundation worry less about what they might do to escape or other deviant choices. 
+D-Class, short for "Disposable Class," are typically personnel recruited from prisons, asylums, D-Class personnel are often individuals with criminal backgrounds, varying from minor offenses to heinous crimes. They are usually given a choice between serving a life sentence or participating in potentially life-threatening experiments for the SCP Foundation. In some cases, individuals on death row may have their sentences commuted to D-Class duty. They are giving "Amnestic CLASS-B" before Becoming An CLASS-D personal.
 ## In Game
-D-Class during the game, have the goal to escape the facility while being provided with no items, and they must find a way to get keycards or use weapons to snatch keycards from other roles, such as a janitor would be the easiest to steal from. 
+The D-class personal must escape the Facility In gate-A, they Spawn in Light containment zone  without any Items, in most Servers they spawn with an Knife or an Level-1 Keycard, They are Helped by Chaos Insurgent Agents, When they Escape they become an Chaos insurgency agent.
 
-When you are approaching to the end of entrance zone as D-Class, the best way to escape would be to go to Gate A with the Chaos to become one yourself, rather than Gate B, because that is where the MTF are and are ordered to shoot you on sight.
+D-CLASS personal Can escape while being cuffed by the enemy Ntf, Guard Class. They must avode them any other class exept the Chaos insurgency.
 
