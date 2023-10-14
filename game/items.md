@@ -2,7 +2,7 @@
 title: Items
 description: Items page
 published: true
-date: 2023-10-14T18:23:27.296Z
+date: 2023-10-14T18:24:01.013Z
 tags: en, game, item
 editor: markdown
 dateCreated: 2023-10-08T15:34:31.889Z
@@ -15,5 +15,5 @@ In SCP: Contaiment Breach Multiplayer, there are different types of items which 
 
 ---
 - [:credit_card: Keycards *Level 1 through 5 keycards including omni.*](/en/game/items/Keycards)
-- [:arrow_backward: Gas Mask *All Gas Mask variants.*](/en/game/items/gas-mask)
+- [:arrow_backward: Gas Mask *All Gas Mask variants.*](/en/game/Items/gas-mask)
 {.links-list}
