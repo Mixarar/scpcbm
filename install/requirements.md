@@ -2,7 +2,7 @@
 title: Requirements
 description: Page about requirements
 published: true
-date: 2023-10-14T14:37:42.243Z
+date: 2023-10-14T14:38:48.537Z
 tags: en, install
 editor: markdown
 dateCreated: 2023-10-08T21:22:59.565Z
@@ -21,9 +21,9 @@ Intel Pentium E2160 / AMD C-50 1GHz
 ##### GPU
 NVIDIA Geforce GT 9600 / AMD RADEON 6250HD
 ##### RAM
-4 GB
+4 GB RAM
 ##### Storage
-500mb
+500mb available disk space
 
 # Server Requirements
 To be added
