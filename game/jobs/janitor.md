@@ -2,13 +2,14 @@
 title: Janitor
 description: Janitor lore and use in the game.
 published: true
-date: 2023-10-14T13:49:51.622Z
+date: 2023-10-14T13:53:32.372Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T16:58:38.037Z
 ---
 
 # Janitor
+![download-removebg-preview.png](/download-removebg-preview.png)
 **Name**: `Janitor`
 **Category**: `SCP Foundation`
 **Health**: `100`
