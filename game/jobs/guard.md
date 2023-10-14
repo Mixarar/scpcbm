@@ -2,7 +2,7 @@
 title: Guard
 description: Guard lore and use in the game.
 published: true
-date: 2023-10-09T16:15:58.736Z
+date: 2023-10-14T14:14:05.417Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:32:44.396Z
@@ -16,8 +16,6 @@ dateCreated: 2023-10-08T23:32:44.396Z
 **Health**: `120`
 **Items**: `FN-P90/MP5-SD, USP Pistol, Level 5 Key Card, Handcuffs, Radio`
 ## Lore 
-The Guards are the protectors of the SCP Foundation's facilities and make sure the facility is guarded at all cost. They are ordered to guard scientists and escort Class-Ds to their contaiment chambers and cells and they also are ordered to keep watch over SCPs.
+The guards are esseintal part of the SCP-Facility They are Low tier MOBILE TASK FORCE units, they are usually escort Class-D personal Or Be overwatch for Testing, In a Containment breach They need to recointain the Scps (they die in the first 5 minutes in singleplayer lmao) in a Keter level containment breach that they cant handle they wait for Heavier units (nine tailed fox)
 ## In Game
-Guards are spawned at either Gate A or Gate B when the contaiment breach has started. They are ordered to gather any surviving scientists that they can find during the contaiment breach.
-
-When going to the other zones, the guards will need to be on constant watch on nearby SCPs, in order to survive successfully.
+Guard are spawned in a Evacution Shelter or Gate A, GATE B , Theyr mission is to Escort Research and Janitorial Workers, They must Exucute the Class-D personal On sight. Guards ingame must shoot the SCPS to Win, Chaos insurgency is the biggest threat to Guards.
