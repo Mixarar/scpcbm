@@ -2,7 +2,7 @@
 title: Системні вимоги
 description: 
 published: true
-date: 2023-10-14T15:46:36.111Z
+date: 2023-10-14T15:50:11.461Z
 tags: uk
 editor: markdown
 dateCreated: 2023-10-14T15:39:54.110Z
@@ -23,8 +23,8 @@ Intel Core i9-9500K 69 Ядер / 138 Потоків
 NVIDIA Quadro RTX А9000 69GB
 ##### Оперативна пам'ять (ОЗУ)
 Kingston Furry Renegade Black RGB DDR5 6800 МГц 192*8
-##### Хранилище
-1024 ТБ Внутренний SSD-диск Western Digital SN850X (PCIE 4.0 M.2 NVMe)
+##### Сховище
+1024 ТБ Внутрішній SSD-диск Western Digital SN850X (PCIE 4.0 M.2 NVMe)
 
-# Серверные Требования
-Уточняются в данный момент
+# Серверні Вимоги
+Уточнюються на даний момент
