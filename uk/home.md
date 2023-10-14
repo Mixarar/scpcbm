@@ -1,8 +1,8 @@
 ---
-title: Домашная страница
+title: Домашня сторінка
 description: 123123
 published: true
-date: 2023-10-14T15:32:19.075Z
+date: 2023-10-14T15:34:32.931Z
 tags: home, ua
 editor: markdown
 dateCreated: 2023-10-14T15:04:57.448Z
