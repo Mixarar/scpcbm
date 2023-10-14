@@ -2,7 +2,7 @@
 title: Домашная страница
 description: 123123
 published: true
-date: 2023-10-14T15:19:54.443Z
+date: 2023-10-14T15:20:41.381Z
 tags: home, ua
 editor: markdown
 dateCreated: 2023-10-14T15:04:57.448Z
@@ -29,7 +29,7 @@ dateCreated: 2023-10-14T15:04:57.448Z
 - [:books: Сюжет *Сюжет игры*](/ru/game/plot)
 {.links-list}
 
-# Журнал фонда SCP
+# Журнал фонду SCP
 
 Тут знаходится уся інформація про фонд SCP! 
 Починаючи від кожної кімнати до повних описів всіх SCP об'єктів
