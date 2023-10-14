@@ -2,7 +2,7 @@
 title: Chaos
 description: Chaos lore and use in the game.
 published: true
-date: 2023-10-12T19:18:57.713Z
+date: 2023-10-14T14:38:05.307Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:37:53.990Z
@@ -30,3 +30,6 @@ In the midst of chaos, communication is paramount. Thus, each Chaos Soldier carr
 
 The lore of the Chaos Insurgency is one of rebellion, of individuals who have looked into the abyss and chosen to wield its power. It is a story of those who have turned their back on the Foundation, seeking to rewrite the rules of this enigmatic universe. In the end, whether they are agents of anarchy or harbingers of change, the Chaos Soldiers are a force that cannot be ignored. They are the embodiment of chaos, a living, breathing testament to the unpredictability of the SCP universe.
 ## In Game
+The Chaos Soilders spawn In surface Level of GATE-A their mission is to Kill every Scientist and Guards!  their Biggest nemesis is the NTF units, The must Kill everyone exept the Inmates inside the facility! (please Know that u can Handcuff Scientists and janitors and make them an Chaos soilder) 
+
+You can avoid Scps cuz your not Any target for them.
