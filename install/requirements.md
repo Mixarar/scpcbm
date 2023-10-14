@@ -2,7 +2,7 @@
 title: Requirements
 description: Page about requirements
 published: true
-date: 2023-10-08T21:23:55.244Z
+date: 2023-10-14T14:37:42.243Z
 tags: en, install
 editor: markdown
 dateCreated: 2023-10-08T21:22:59.565Z
@@ -17,13 +17,13 @@ dateCreated: 2023-10-08T21:22:59.565Z
 ## Minium
 Minium specs required to run the game barely.
 ##### CPU
-69 Core Intel Core i9 69500K
+Intel Pentium E2160 / AMD C-50 1GHz
 ##### GPU
-Quadro RTX 9000
+NVIDIA Geforce GT 9600 / AMD RADEON 6250HD
 ##### RAM
-1.5TB of DDR5 5000mhz
+4 GB
 ##### Storage
-1Exabyte of free SSD
+500mb
 
 # Server Requirements
 To be added
