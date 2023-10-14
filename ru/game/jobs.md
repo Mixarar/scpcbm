@@ -2,7 +2,7 @@
 title: Роли
 description: На этой странице описаны типы команд, с которыми вы можете столкнуться на протяжении всей игры.
 published: true
-date: 2023-10-14T12:11:58.820Z
+date: 2023-10-14T12:19:19.036Z
 tags: ru, роли, геймплей
 editor: markdown
 dateCreated: 2023-10-14T11:42:53.951Z
@@ -17,7 +17,7 @@ dateCreated: 2023-10-14T11:42:53.951Z
 
 - [:arrow_backward: Персонал D-класса *Роль D-класса.*](/ru/game/jobs/dclass)
 - [:arrow_backward: Уборщик *Роль уборщика.*](/ru/game/jobs/janitor)
-- [:arrow_backward: Научный сотрудник *Роль научного сотрудника.*](/ru/game/jobs/scientists)
+- [:arrow_backward: Научный сотрудник *Роль научного сотрудника.*](/ru/game/jobs/scientist)
 - [:arrow_backward: Охрана *Роль охраны.*](/ru/game/jobs/guard)
 - [:arrow_backward: МОГ *Роль мобильной оперативной группы.*](/ru/game/jobs/mtf)
 - [:arrow_backward: Повстанец хаоса *Роль повстанцев хаоса.*](/ru/game/jobs/chaos)
