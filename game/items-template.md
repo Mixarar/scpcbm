@@ -2,13 +2,13 @@
 title: ITEMNAME page
 description: A short description about the item
 published: true
-date: 2023-10-14T09:53:52.428Z
+date: 2023-10-14T13:55:41.934Z
 tags: en, game, item
 editor: markdown
 dateCreated: 2023-10-08T15:08:17.529Z
 ---
 
-- [:arrow_backward: Back *Go back to the items page.*](/en/items)
+- [:arrow_backward: Back *Go back to the items page.*](/en/game/items)
 {.links-list}
 # SCP 1000
 ###### Aka: The weirdest SCP ever
