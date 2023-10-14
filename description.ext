@@ -1,0 +1,38 @@
+
+class Header
+{
+ gameType = Coop;
+ minPlayers = 1;
+ maxPlayers = 2;
+};
+
+respawn=3;
+respawnDelay=5;
+respawnOnStart=-1;
+
+
+showCompass = 1;
+showMap = 1;
+showGPS = 1;
+showWatch = 1;
+showPad = 1;
+showRadio = 1;
+
+author = "Mixarar";
+onLoadName = "Ukraine";
+loadScreen = "r3.jpg";
+onLoadMission = "RISING TENSIONS";
+overviewText = "TRAIN AND PREPARE";
+overviewPicture = "r3.jpg";
+
+
+class CfgSounds
+{
+	class intro
+	{
+		name = "intro"; // Name for mission editor
+		sound[] = {\sound\intro.ogg, 3, 1.0};
+		titles[] = {0, ""};
+	
+	};
+};
