@@ -2,7 +2,7 @@
 title: Гайд із встановлення
 description: 
 published: true
-date: 2023-10-14T16:14:01.456Z
+date: 2023-10-14T16:14:22.462Z
 tags: ua
 editor: markdown
 dateCreated: 2023-10-14T15:57:34.261Z
@@ -10,7 +10,7 @@ dateCreated: 2023-10-14T15:57:34.261Z
 
 - [:arrow_backward: Назад *Повернутись на головну сторінку.*](/uk/home)
 {.links-list}
-# :video_game: Встановлення Ігри
+# :video_game: Встановлення Гри
 Встановлюємо гру як справжні чемпіони.
 #### **Потрібно**:
 - Steam акаунт
