@@ -1,8 +1,8 @@
 ---
 title: Informações do Jogo
 description: Informações gerais sobre o jogo e o universo SCP
-published: false
-date: 2023-10-08T17:39:22.349Z
+published: true
+date: 2023-10-14T14:39:29.824Z
 tags: game, info, pt-br
 editor: markdown
 dateCreated: 2023-10-08T17:17:27.779Z
