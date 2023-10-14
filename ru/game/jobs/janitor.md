@@ -2,13 +2,13 @@
 title: Уборщик
 description: Объяснение лора уборщика и его предназначение.
 published: true
-date: 2023-10-14T12:06:31.550Z
+date: 2023-10-14T12:07:39.545Z
 tags: ru, лор, уборщик
 editor: markdown
 dateCreated: 2023-10-14T12:06:31.550Z
 ---
 
-- [:arrow_backward: Назад *Вернуться на главную страницу ролей*](/ru/game/jobs)
+- [:arrow_backward: Назад *Вернуться на главную страницу с ролями*](/ru/game/jobs)
 {.links-list}
 # Уборщик
 **Роль**: `Уборщик`
