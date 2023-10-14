@@ -2,7 +2,7 @@
 title: Wiki
 description: 
 published: true
-date: 2023-10-14T10:48:28.238Z
+date: 2023-10-14T12:18:35.847Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T13:50:47.539Z
@@ -33,5 +33,5 @@ dateCreated: 2023-10-08T13:50:47.539Z
 - [:pizza: Предметы *Здесь собрана вся информация об предметах*](/ru/game/items)
 - [:door: Локации *Здесь собрана вся информация об локация фонда*](/ru/game/rooms)
 - [:warning: Объекты SCP *Здесь собрана вся информация об объектах находящихся в фонде*](/ru/game/scps)
-- [:construction_worker: Должности *Здесь собрана вся информация об должностях в фонде*](/ru/game/jobs)
+- [:construction_worker: Роли *Здесь собрана вся информация об ролях в фонде*](/ru/game/jobs)
 {.links-list}
