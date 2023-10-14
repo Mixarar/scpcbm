@@ -2,14 +2,14 @@
 title: Системні вимоги
 description: 
 published: true
-date: 2023-10-14T15:39:54.110Z
+date: 2023-10-14T15:44:05.743Z
 tags: uk
 editor: markdown
 dateCreated: 2023-10-14T15:39:54.110Z
 ---
 
-# Header
-- [:arrow_backward: Назад *Вернуться на главную страницу.*](/ru/home)
+
+- [:arrow_backward: Назад *Вернуться на главную страницу.*](/uk/home)
 {.links-list}
 # Системные Требования
 > Требования могут измениться с обновлениями.
