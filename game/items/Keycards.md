@@ -2,12 +2,14 @@
 title: Keycards
 description: all keycards from game
 published: true
-date: 2023-10-14T17:59:30.191Z
+date: 2023-10-14T18:07:16.941Z
 tags: en, game, item, keycards
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
 ---
 
+- [:arrow_backward: Back *Go back to the item page.*](/en/game/items)
+{.links-list}
 # Keycards
 ![all_keycards.png](/images/items/all_keycards.png){.align-left}**Name**: `Keycards`
 **Category**: `Items`
