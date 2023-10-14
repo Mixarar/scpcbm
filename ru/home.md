@@ -1,9 +1,9 @@
 ---
-title: Wiki
+title: Главная страница
 description: 
 published: true
-date: 2023-10-14T12:18:35.847Z
-tags: 
+date: 2023-10-14T12:39:14.055Z
+tags: home, ru
 editor: markdown
 dateCreated: 2023-10-08T13:50:47.539Z
 ---
