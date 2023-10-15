@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-15T13:27:10.907Z
+date: 2023-10-15T13:28:13.555Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -49,9 +49,9 @@ Everything that hosters might need for their server.
 {.links-list}
 
 # Credits
-- [:man_teacher:Developers](/en/credits/devs)
+- [:man_teacher:Developers*People from Fusion Creators Studio*](/en/credits/devs)
 {.links-list}
-- [:man_office_worker:Wiki-Editors](/en/credits/edits)
+- [:man_office_worker:Wiki-Editors*People Who Worked On Wiki*](/en/credits/edits)
 ### GAME CREDITS
 *Lead Developer:* **ItsXandromeda**
 
