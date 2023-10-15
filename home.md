@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-15T13:39:47.062Z
+date: 2023-10-15T15:25:35.372Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -45,7 +45,7 @@ Wiki about the game itself, everything you might want to check out.
 
 Everything that hosters might need for their server.
 
-- [:warning:*Work In Progress.*](/en/game)
+- [:warning:*Work In Progress.*](/en/home#server-wiki)
 {.links-list}
 
 # Credits
