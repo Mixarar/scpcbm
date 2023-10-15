@@ -2,7 +2,7 @@
 title: Guard
 description: Guard lore and use in the game.
 published: true
-date: 2023-10-15T09:17:24.410Z
+date: 2023-10-15T09:31:14.313Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:32:44.396Z
@@ -11,6 +11,7 @@ dateCreated: 2023-10-08T23:32:44.396Z
 [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs)
 {.links-list}
 # Guard
+![guard.png](/images/roles/guard.png)
 **Name**: `Guard`
 **Category**: `SCP Foundation`
 **Health**: `120`
