@@ -2,12 +2,14 @@
 title: Janitor
 description: Janitor lore and use in the game.
 published: true
-date: 2023-10-15T09:27:28.629Z
+date: 2023-10-15T15:19:35.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T16:58:38.037Z
 ---
 
+- [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs#roles)
+{.links-list}
 # Janitor
 ![janitor.png](/images/roles/janitor.png)
 **Name**: `Janitor`
