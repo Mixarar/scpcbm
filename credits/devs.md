@@ -2,7 +2,7 @@
 title: Developers
 description: guys who creating game
 published: true
-date: 2023-10-15T13:13:03.413Z
+date: 2023-10-15T13:13:38.080Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
@@ -10,7 +10,7 @@ dateCreated: 2023-10-15T11:52:10.637Z
 
 - [:arrow_backward: Back *Go back to the home page.*](/en/home)
 {.links-list}
-# The Developers Of Game
+# The Developers Team
 ##### All Guys from Fusion Creators Studio
 ## LEAD DEVELOPER
 - **Xandromeda** *(@itsxandromeda)*
