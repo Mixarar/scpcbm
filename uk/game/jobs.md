@@ -2,7 +2,7 @@
 title: Ролі
 description: Ця сторінка пояснює типи команд, з якими ви можете бути/зустрічатися протягом гри.
 published: true
-date: 2023-10-15T17:09:40.040Z
+date: 2023-10-15T17:20:08.332Z
 tags: ua, scps
 editor: markdown
 dateCreated: 2023-10-15T17:07:35.921Z
@@ -15,7 +15,7 @@ SCP: Containment Breach Multiplayer має багато типів ролей, �
 
 ---
 
-- [:arrow_backward: D-Class *D-Class role.*](/uk/game/jobs/dclass)
+- [:arrow_backward: D-Клас *D-Клас роль.*](/uk/game/jobs/dclass)
 - [:arrow_backward: Двірник *Роль двірника.*](/uk/game/jobs/janitor)
 - [:arrow_backward: Вчені *Роль вчених.*](/uk/game/jobs/scientists)
 - [:arrow_backward: Охоронці *Роль охоронців.*](/uk/game/jobs/guard)
