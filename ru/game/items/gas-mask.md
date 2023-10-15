@@ -2,7 +2,7 @@
 title: Противогаз
 description: Объясняет, для чего нужен противогаз и его многочисленные виды в игре
 published: true
-date: 2023-10-15T14:26:20.190Z
+date: 2023-10-15T15:03:49.670Z
 tags: ru, противогаз, экипируемый
 editor: markdown
 dateCreated: 2023-10-15T14:24:37.724Z
@@ -21,6 +21,8 @@ dateCreated: 2023-10-15T14:24:37.724Z
 
 ⠀
 ⠀
+
+⠀
 ## Улучшенный противогаз
 ![gasmask.super.wiki.fixed.png](/images/items/gasmask.super.wiki.fixed.png){.align-left}**Название**: `Улучшенный противогаз`
 **Тип**: `ЭКИПИРУЕМЫЙ`
@@ -31,6 +33,8 @@ dateCreated: 2023-10-15T14:24:37.724Z
 ⠀
 ⠀
 ⠀
+⠀
+
 ⠀
 ## Тяжёлый противогаз
 ![gasmask.heavy.wiki.png](/images/items/gasmask.heavy.wiki.png){.align-left}**Название**: `Тяжелый противогаз`
