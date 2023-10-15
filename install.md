@@ -2,13 +2,13 @@
 title: Installation Guide
 description: An installation guide for dummies.
 published: true
-date: 2023-10-09T16:24:16.577Z
+date: 2023-10-15T15:10:05.206Z
 tags: en, install
 editor: markdown
 dateCreated: 2023-10-08T21:51:10.223Z
 ---
 
-- [:arrow_backward: Back *Go back to the home page.*](/en/home)
+- [:arrow_backward: Back *Go back to the home page.*](/en/home#general)
 {.links-list}
 # :video_game: Install the Game
 Installing the game like true champs.
