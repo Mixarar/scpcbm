@@ -2,7 +2,7 @@
 title: Розробники
 description: 
 published: true
-date: 2023-10-15T14:24:13.942Z
+date: 2023-10-15T18:18:23.610Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T14:21:31.767Z
@@ -20,7 +20,7 @@ dateCreated: 2023-10-15T14:21:31.767Z
 - **itzslain**
 ### КЕРІВНИК ПРОЕКТУ
 - **Saitama** *(@skaneprime)*
-## Основний розробник
+## Основні розробники
 - **Андерс** *(@anders_25706)*
 - **GrOm_Amg**
 - **lanylow**
