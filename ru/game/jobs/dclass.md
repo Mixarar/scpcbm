@@ -2,7 +2,7 @@
 title: D-Класс
 description: Объяснение лора D-класса и его предназначение.
 published: true
-date: 2023-10-14T16:58:35.372Z
+date: 2023-10-15T09:09:48.141Z
 tags: ru, d-класс
 editor: markdown
 dateCreated: 2023-10-14T11:55:13.441Z
@@ -11,7 +11,7 @@ dateCreated: 2023-10-14T11:55:13.441Z
 - [:arrow_backward: Назад *Вернуться на главную страницу ролей*](/ru/game/jobs)
 {.links-list}
 # D-Класс
-![items.png](/images/roles/imageedit_1_4230581360.png)
+![classd.png](/images/roles/classd.png)
 **Роль**: `D-Класс`
 **Команда**: `D-Класс/Хаос`
 **Здоровье**: `100`
