@@ -2,13 +2,13 @@
 title: Двірник
 description: Знання двірника та використання в грі.
 published: true
-date: 2023-10-15T17:25:22.586Z
+date: 2023-10-15T17:25:48.278Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T17:15:00.749Z
 ---
 
-- [:arrow_backward: Назад *Повернутися на домашню сторінку ролей.*](/uk/game/)
+- [:arrow_backward: Назад *Повернутися на домашню сторінку ролей.*](/uk/game/jobs)
 {.links-list}
 # Двірник
 ![janitor.png](/images/roles/janitor.png)
