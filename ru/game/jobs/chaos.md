@@ -2,14 +2,17 @@
 title: Повстанцы Хаоса
 description: Объяснение лора повстанцев хаоса и их предназначение.
 published: true
-date: 2023-10-15T17:22:54.615Z
+date: 2023-10-15T18:28:58.522Z
 tags: ru, хаос
 editor: markdown
 dateCreated: 2023-10-14T18:14:16.647Z
 ---
 
   
-#  Повстанцы хаоса
+#  Повстанцы хаоса
+- [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs#roles)
+{.links-list}
+![chaos_load_screen.jpg](/images/roles/chaos_load_screen.jpg)   
 **Роль:** `Повстанцы Хаоса`
 **Команда:** `D-Класс/Хаос`
 **Здоровье:** `150`
