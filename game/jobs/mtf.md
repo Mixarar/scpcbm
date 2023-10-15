@@ -2,13 +2,13 @@
 title: MTF
 description: MTF lore and use in game.
 published: true
-date: 2023-10-15T09:33:37.654Z
+date: 2023-10-15T15:20:56.499Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:35:51.658Z
 ---
 
-[:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs)
+- [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs#roles)
 {.links-list}
 # MTF
 ![ntf_gun_up.png](/images/roles/ntf_gun_up.png)
