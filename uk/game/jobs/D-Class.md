@@ -2,8 +2,8 @@
 title: D-Клас
 description: 
 published: true
-date: 2023-10-15T10:56:58.976Z
-tags: 
+date: 2023-10-15T10:57:57.848Z
+tags: game, ua
 editor: markdown
 dateCreated: 2023-10-15T10:54:16.735Z
 ---
