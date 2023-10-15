@@ -2,13 +2,13 @@
 title: SCPs
 description: SCP lore and use in the game.
 published: true
-date: 2023-10-15T09:51:37.857Z
+date: 2023-10-15T15:21:57.083Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:46:39.758Z
 ---
 
-- [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs)
+- [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs#roles)
 {.links-list}
 
 Note: May be changed to individual links.
