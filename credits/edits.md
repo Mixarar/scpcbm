@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: all slaves who making this wiki
 published: true
-date: 2023-10-15T16:30:09.990Z
+date: 2023-10-15T16:30:20.884Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -14,7 +14,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 ## English Wiki Editors
 - **Griefer** *(@6i9u)*
 - **Db478**
-- **Sparky** *(@dr.sparkrosalene)*~~useless woman~~
+- **Sparky** *(@dr.sparkrosalene)*~~woman~~
 - **ItzSlain**
 - **Mixarar**
 - **Mr. Kennedy** *(@mr.kennedy4231)*
