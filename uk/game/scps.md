@@ -2,13 +2,14 @@
 title: Список SCP
 description: 
 published: true
-date: 2023-10-15T09:51:29.022Z
+date: 2023-10-15T09:52:20.524Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T09:49:17.485Z
 ---
 
-
+- [:arrow_backward: Back *Go back to the home page.*](/en/home)
+{.links-list}
 ---
 
 - SCP-035
