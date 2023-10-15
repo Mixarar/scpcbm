@@ -2,13 +2,13 @@
 title: Items
 description: Items page
 published: true
-date: 2023-10-15T13:03:30.088Z
+date: 2023-10-15T15:12:13.907Z
 tags: en, game, item
 editor: markdown
 dateCreated: 2023-10-08T15:34:31.889Z
 ---
 
-- [:arrow_backward: Back *Go back to the home page.*](/en/home)
+- [:arrow_backward: Back *Go back to the home page.*](/en/home#single-playerco-op)
 {.links-list}
 # Items
 In SCP: Contaiment Breach Multiplayer, there are different types of items which you can be/encounter throughout the game. In this page, you will see links to each item, and you'll be able to see what they can do.
