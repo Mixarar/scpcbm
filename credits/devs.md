@@ -2,7 +2,7 @@
 title: Developers
 description: guys who creating game
 published: true
-date: 2023-10-15T13:25:41.895Z
+date: 2023-10-15T13:28:31.960Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
@@ -37,19 +37,3 @@ dateCreated: 2023-10-15T11:52:10.637Z
 - **XtrithX**
 ### PRODUCTION DESIGNER
 - **Vin** *(@vin_oficial)*
-
-# GAME CREDITS
-*Lead Developer:* **ItsXandromeda**
-
-*Developers:* **Anders**
-⠀⠀⠀⠀⠀⠀⠀⠀**Deepfried Chips**
-⠀⠀⠀⠀⠀⠀⠀⠀**Mixarar**
-*Game Designer:* **XtrithX**
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Dailuz24**
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**ItzSlain**
-*Production Designer:* **Vin_Official**
-
-*Special Thanks to:* **Jabka**
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Virtual**
-*Inspired to:* **SCP: Contaiment Breach - Regalis,Undertow Games
-⠀⠀⠀⠀⠀⠀⠀⠀SCP: Unity - Aerie Gaming Studios, Nixon Interactive**
