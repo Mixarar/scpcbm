@@ -2,7 +2,7 @@
 title: Предметы
 description: Страница предметов
 published: true
-date: 2023-10-15T13:53:44.882Z
+date: 2023-10-15T14:56:16.956Z
 tags: ru, игра, предмет
 editor: markdown
 dateCreated: 2023-10-15T13:53:44.882Z
@@ -18,3 +18,6 @@ dateCreated: 2023-10-15T13:53:44.882Z
 - [:mask: Противогаз *Все виды противогазов*](/ru/game/items/gas-mask)
 - [:hospital: Аптечка *Все виды аптечек*](/ru/game/items/first-aid-kit)
 {.links-list}
+
+> Примечание: Эта страница недостаточно проработана и может быть полностью изменена, как и другие страницы.
+{.is-warning}
