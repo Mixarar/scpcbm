@@ -2,13 +2,13 @@
 title: First Aid Kit
 description: Explains the First Aid Kit and its many variants what they are supposed to do in the game.
 published: true
-date: 2023-10-15T13:04:33.499Z
+date: 2023-10-15T15:28:18.168Z
 tags: first aid kit, medkit, consumable, healing, heal
 editor: markdown
 dateCreated: 2023-10-15T12:54:14.275Z
 ---
 
-- [:arrow_backward: Back *Go back to the items page.*](/en/game/items)
+- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
 {.links-list}
 # First Aid Kit
 ![firstaid.wiki.png](/images/items/firstaid.wiki.png){.align-left}**Name**: `First Aid Kit`
