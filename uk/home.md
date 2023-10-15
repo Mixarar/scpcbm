@@ -2,7 +2,7 @@
 title: Домашня сторінка
 description: 123123
 published: true
-date: 2023-10-14T15:57:41.179Z
+date: 2023-10-15T17:05:14.972Z
 tags: home, ua
 editor: markdown
 dateCreated: 2023-10-14T15:04:57.448Z
