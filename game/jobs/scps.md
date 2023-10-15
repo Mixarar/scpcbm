@@ -2,7 +2,7 @@
 title: SCPs
 description: SCP lore and use in the game.
 published: true
-date: 2023-10-14T16:05:11.319Z
+date: 2023-10-15T09:07:01.040Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:46:39.758Z
@@ -21,7 +21,7 @@ Note: May be changed to individual links.
 ## Lore
 SCP-049 is a tall figure standing at 1.9 meters (approximately 6 feet 3 inches) in height. It wears a black robe, a traditional plague doctor's mask, and leather gloves. SCP-049 speaks in a refined and articulate manner, suggesting intelligence and a deep understanding of medical practices. The entity also carries a black satchel containing a variety of medical instruments, which it uses for its "treatments."SCP-049 claims to be a doctor, with its primary goal being the "treatment" of individuals it believes are infected with a pestilence that it refers to as the "Great Pestilence." It does so by attempting to perform surgeries and procedures on its subjects, which often result in the death of the patient.SCP-049 has displayed the ability to reanimate deceased bodies, referred to as "SCP-049-2 instances." These reanimated entities are typically in a zombie-like state and will follow SCP-049's orders. SCP-049 believes that it is "curing" people by reanimating them in this manner.The true origins of SCP-049 remain shrouded in mystery. The entity appears to possess knowledge of medieval medical practices and the concept of "The Pestilence," which it believes plagues humanity. The SCP Foundation has been unable to verify its claims about this pestilence.
 ## In Game
-SCP-049 Spawns In "HEAVY CONTAINMENT ZONE" He is the most basic SCP in this game, when he touches an human class it instanly becomas an SCP-049-2, SCP-049 is also the biggest bird <3
+SCP-049 Spawns in "HEAVY CONTAINMENT ZONE" in his Very own chamber with 2 lifts, SCP-049 walks the same speed as an any human class but He cannot run, SCP-049 Can touch Human classes and make them turn into SCP-049-2 Making him your very own Soilder.
 # SCP-096
 removebg-preview.png)
 **Name**: `The Shy Guy`
@@ -31,7 +31,7 @@ removebg-preview.png)
 ## Lore
 SCP-096 is a hairless, pale, and emaciated humanoid standing approximately 2.38 meters (7 feet 10 inches) tall. It has abnormally long arms and a mouth filled with sharp teeth. What sets SCP-096 apart is its reaction to anyone who views its face, whether directly or through photographs or video recordings. Upon being viewed, SCP-096 enters a state of extreme distress and rage and will immediately pursue and terminate the individual who saw its face.When a person views SCP-096's face, even accidentally, SCP-096 becomes extremely agitated and will engage in a high-speed pursuit of the viewer, displaying incredible strength and resilience in the process. It will not stop until the person who viewed its face is terminated, or it is physically prevented from reaching the target.
 ## In Game
-SCP-096 Spawns in "HEAVY CONTAINMENT ZONE". When a Human class see his Face SCP-096 will charge up and it will br angered, SCP-096 will see where is the poeple that looked in his face and it can kill them in 1 hit, He is kinda Overpowered.
+SCP-096 Spawns in "HEAVY CONTAINMENT ZONE" He walks Slowers than any scp, When an any human class sees his "FACE" It will be In his Charged state, SCP-096 can  Break any doors when hes angered and he will have an Red dot Leading where his Targets are.
 # SCP-106
 
 **Name**: `The Old Man`
@@ -52,7 +52,7 @@ SCP-173 is a humanoid statue composed of concrete and rebar. It stands approxima
 
 
 ## In Game
-SCP-173 will Not move when an Human class sees 173. SCP-173 will move 2 rooms when a person blinks, You can 1 click kill him by snapping  his neck.
+SCP-173 will Not move when an Human class sees 173. SCP-173 will move 2 rooms when a person blinks, You can 1 click kill him by snapping  his neck, SCP-173 Can Move Super fast if nobody is seeing him.
 # SCP-939
 **Name**: `With Many Voices`
 **Category**: `SCP`
@@ -67,7 +67,7 @@ Feeding Behavior: SCP-939 are carnivorous predators that primarily hunt by lurin
 
 Containment: SCP-939 are contained in specialized containment units that allow them to be observed and studied safely. Personnel interacting with them must use voice-print and visual recognition equipment to ensure that they are not deceived by the creatures' vocal mimicry.
 ## In Game
-SCP-939 will not see players if they are not moving, SCP-939 can Run faster than every human class, His Running Is run out fast, He can also talk to Human classes.
+SCP-939 will not see players if they are not moving, SCP-939 can Run faster than every human class, His Running Meter will depleed Super fast, SCP-939 Can also talk to Human Classes.
 # SCP-966
 **Name**: `The Sleep Killer`
 **Category**: `SCP`
@@ -76,7 +76,22 @@ SCP-939 will not see players if they are not moving, SCP-939 can Run faster than
 ## Lore
 SCP-966 are small, predatory creatures resembling hairless, quadrupedal, and bioluminescent organisms. They typically measure about 1.2 meters in length and weigh around 16 kilograms. Their bodies are adapted for a nocturnal lifestyle, featuring large, reflective, and sensitive eyes.Invisibility: One of the most distinctive features of SCP-966 is their ability to become almost completely invisible to the naked eye. They achieve this by dampening the light that strikes their skin, effectively making them blend into their surroundings in low light conditions.Aggressive Behavior: SCP-966 are carnivorous and highly aggressive creatures. They prey on humans and other large mammals by infiltrating their sleeping areas and attacking them while they are at rest. They use their sharp claws to incapacitate their victims. The attacks are often described as extremely painful due to the creatures' bites and claws.
 ## In Game
-SCP-966 Is almost the most annoying SCP in the game, Human classes Cannot see SCP-966 without an NIGHT VISION GOGGLES, When a NTF OR CHAOS wave Happens NTF AND CHAOS will spawn with NVG (this only occurs if SCP-966 is in the round.)
+SCP-966 is the Secend Slowest class in the game, People cannot see SCP-966 without an "night vision goggles" 
 
-# SCP-860
-**name** 
+"note" he is very annoying :sob:
+
+# SCP-860-2
+**Name**: `The Sculpture`
+**Catergory**: `SCP` 
+**Health**:`3000` 
+**items**: `Level 5 Key Card`
+## Lore
+SCP-860-2, also known as "The Sculpture," is a hostile entity and a part of the lore in the SCP Foundation universe. Its primary depiction and backstory are consistent with SCP-860, the blue key.
+
+In the SCP Foundation lore, SCP-860 is a blue key that can be used to unlock any door with a lock that requires a key, regardless of the door's age, complexity, or original key. However, when the key is used on a door and opened, it leads to an extradimensional forest, which is referred to as SCP-860-2.
+
+SCP-860-2 is a mysterious and dangerous forest that exists in a separate dimension. It is characterized by thick, ancient trees and is inhabited by various hostile entities, with The Sculpture (SCP-860-2) being one of them. The Sculpture is a shadowy, humanoid figure that lurks within the forest, and when someone enters SCP-860-2, it begins to pursue them relentlessly.
+
+The exact nature and origins of SCP-860-2 and The Sculpture are not fully explained in SCP Foundation documentation, which is intentional as part of the organization's lore. SCP-860-2 and The Sculpture serve as a dangerous and enigmatic aspect of the SCP universe, providing a sense of mystery and danger to those who encounter them.
+## In Game
+SCP-860 Spawns in "ENTRANCE ZONE" Inside his Chamber, He needs to Find a door To Escape, When he is Out He will need to Find the Heavy checkpoint Doors, He is has the same Speed as SCP-939 And Has the same Run Depleeshing 
