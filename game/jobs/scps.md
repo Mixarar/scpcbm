@@ -2,7 +2,7 @@
 title: SCPs
 description: SCP lore and use in the game.
 published: true
-date: 2023-10-15T09:11:24.587Z
+date: 2023-10-15T09:12:29.833Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:46:39.758Z
@@ -76,7 +76,7 @@ SCP-939 will not see players if they are not moving, SCP-939 can Run faster than
 ## Lore
 SCP-966 are small, predatory creatures resembling hairless, quadrupedal, and bioluminescent organisms. They typically measure about 1.2 meters in length and weigh around 16 kilograms. Their bodies are adapted for a nocturnal lifestyle, featuring large, reflective, and sensitive eyes.Invisibility: One of the most distinctive features of SCP-966 is their ability to become almost completely invisible to the naked eye. They achieve this by dampening the light that strikes their skin, effectively making them blend into their surroundings in low light conditions.Aggressive Behavior: SCP-966 are carnivorous and highly aggressive creatures. They prey on humans and other large mammals by infiltrating their sleeping areas and attacking them while they are at rest. They use their sharp claws to incapacitate their victims. The attacks are often described as extremely painful due to the creatures' bites and claws.
 ## In Game
-SCP-966 is the Second Slowest class in the game, People cannot see SCP-966 without an "night vision goggles" 
+SCP-966 is the Second Slowest class in the game, People cannot see SCP-966 without an "night vision goggles" he Spawns in "HEAVY CONTAINMENT ZONE" In his very own Chamber. 
 
 "note" he is very annoying :sob:
 
