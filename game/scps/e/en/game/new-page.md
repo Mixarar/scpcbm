@@ -2,7 +2,7 @@
 title: SCP-096
 description: Description of SCP-096
 published: true
-date: 2023-10-15T13:43:29.306Z
+date: 2023-10-15T14:42:15.509Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T13:43:29.306Z
