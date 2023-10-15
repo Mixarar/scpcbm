@@ -1,9 +1,9 @@
 ---
 title: SCP-173
-description: SCP-173 Descritption
+description: Aka "sculpture"
 published: true
-date: 2023-10-15T13:37:23.377Z
-tags: 
+date: 2023-10-15T16:03:55.252Z
+tags: en, game, scp, 173
 editor: markdown
 dateCreated: 2023-10-15T13:25:32.080Z
 ---
