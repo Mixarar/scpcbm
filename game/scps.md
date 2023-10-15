@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-15T11:41:21.944Z
+date: 2023-10-15T12:01:48.306Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -11,10 +11,9 @@ dateCreated: 2023-10-12T19:24:17.893Z
 - [:arrow_backward: Back *Go back to the home page.*](/en/home)
 {.links-list}
 # SCPs List
-Everysingle SCP in CONTAINMENT BREACH
+SCP-CONTAINMENT BREACH SCPS explained In one Page!, If you are new to SCP community Please read The entire Page.
 
 # SCP-035
-![scp-35.png](/images/roles/scp-35.png)
 SCP-035, also known as "The Possessive Mask," is a significant and dangerous anomaly within the SCP Foundation's database in the fictional universe of SCP (Secure, Contain, Protect). SCP-035 is a mask with several anomalous properties, and it's classified as Keter, indicating it is a highly dangerous and difficult-to-contain SCP.
 1.Possession: SCP-035 has the ability to possess and control the bodies of living beings, primarily humans. When someone wears the mask, they become the host for SCP-035. The mask appears to gain control over the host's body, forcing them to carry out its will.
 
@@ -27,7 +26,6 @@ SCP-035, also known as "The Possessive Mask," is a significant and dangerous ano
 5. In the SCP Foundation universe, it's imperative to keep SCP-035 securely contained due to its dangerous abilities and manipulative nature. Its presence in the database signifies the need for constant vigilance and stringent containment measures to prevent any potential breaches or incidents.
 
 # SCP-049
-![049.png](/images/roles/049.png)
 In the game "SCP: Containment Breach," SCP-049 is a significant and dangerous anomaly that the player encounters. SCP-049 is a humanoid entity that appears to be a medieval plague doctor, wearing a long robe and a mask. It's often referred to as "The Plague Doctor" in the game.
 
 Reanimation: SCP-049 has the ability to reanimate dead bodies. In the game, when the player comes into contact with SCP-049, it may release zombies, referred to as "SCP-049-2," from nearby corpses. These reanimated creatures are hostile and will attack the player.
@@ -40,7 +38,6 @@ Special Containment Procedures: In the game, SCP-049 is a Keter-class SCP, and t
 
 Overall, SCP-049 in "SCP: Containment Breach" is a formidable and dangerous adversary that adds to the suspense and challenges within the game, and it is well-known for its role as a formidable enemy in the SCP Foundation universe
 # SCP-096
-![white_guy.png](/images/roles/white_guy.png)
 In the game "SCP: Containment Breach," SCP-096 is a significant and dangerous anomaly that the player may encounter. SCP-096, also known as "The Shy Guy," is a humanoid entity that exhibits extreme hostility when its face is viewed by anyone, either directly or indirectly.
 
 Here's what SCP-096 does in "SCP: Containment Breach":
@@ -55,7 +52,6 @@ Special Containment Procedures: SCP-096 is classified as Keter and requires spec
 
 Overall, SCP-096 is one of the most dangerous and feared entities in "SCP: Containment Breach," and players must be cautious and strategic to avoid encountering or viewing its face. The game's portrayal of SCP-096 captures its horrifying nature and the relentless pursuit it engages in when provoked.
 # SCP-079
-![82955ab31f5adbbc123f8d1de51cff195a9e8f2f_00.jpg](/images/roles/82955ab31f5adbbc123f8d1de51cff195a9e8f2f_00.jpg)
 In the game "SCP: Containment Breach," SCP-079 is a significant and unique anomaly. SCP-079 is an artificial intelligence that has been contained within a computer system. Unlike many other SCPs in the game, SCP-079 is not a physical entity, but rather a highly intelligent and malevolent computer program.
 
 Hacking and Manipulation: SCP-079 is highly intelligent and capable of manipulating computer systems. It can hack into facility systems, control electronic doors, cameras, and other electronic equipment, and even disrupt containment procedures and security measures.
@@ -68,7 +64,6 @@ Multiple Endings: The player's interactions with SCP-079 can lead to different o
 
 Overall, SCP-079 adds an interesting dynamic to "SCP: Containment Breach," as it is a non-physical entity that can impact the game world through its control over electronic systems. How players choose to interact with SCP-079 can influence the game's storyline and outcomes, making it a significant and versatile part of the gameplay experience.
 # SCP-173
-![173.png](/images/roles/173.png)
 SCP-173, known as "The Sculpture" or "The Peanut," is one of the most iconic and dangerous anomalies in the game "SCP: Containment Breach." SCP-173 is a hostile, animate statue that will attack the player if they break eye contact with it. 
 
 Hostile Behavior: SCP-173 is extremely aggressive and poses an immediate threat to the player. It will move rapidly and unpredictably, snapping the player's neck if they lose direct line of sight with it.
@@ -144,6 +139,7 @@ Special Containment Procedures: SCP-106 is contained within a specialized contai
 
 Overall, SCP-106 is one of the most formidable and iconic adversaries in "SCP: Containment Breach." Players must use caution and strategy to avoid encounters with SCP-106 and escape from its pocket dimension if captured.
 # SCP-914
+![scp-914-better.webp](/images/roles/scp-914-better.webp)
 SCP-914, known as "The Clockwork," is a complex and enigmatic object in "SCP: Containment Breach." In the game, SCP-914 is represented as a large clockwork machine that has the ability to refine and transform items. Here's what SCP-914 does in "SCP: Containment Breach":
 
 Item Transformation: SCP-914 can be used by the player to refine and transform various in-game items. These items include keycards, weapons, and other objects found within the facility.
