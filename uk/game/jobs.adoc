@@ -7,7 +7,7 @@ SCP: Containment Breach Multiplayer має багато типів ролей, �
 
 ---
 
-- [:arrow_backward: D-Class *D-Class role.*](/en/game/jobs/dclass)
+- [:arrow_backward: D-Class *D-Class role.*](/uk/game/jobs/D-клас)
 - [:arrow_backward: Двірник *Роль двірника.*](/en/game/jobs/janitor)
 - [:arrow_backward: Вчені *Роль вчених.*](/en/game/jobs/scientists)
 - [:arrow_backward: Охоронці *Роль охоронців.*](/en/game/jobs/guard)
