@@ -2,7 +2,7 @@
 title: First Aid Kit
 description: Explains the First Aid Kit and its many variants what they are supposed to do in the game.
 published: true
-date: 2023-10-15T12:56:00.468Z
+date: 2023-10-15T13:04:33.499Z
 tags: first aid kit, medkit, consumable, healing, heal
 editor: markdown
 dateCreated: 2023-10-15T12:54:14.275Z
@@ -13,7 +13,8 @@ dateCreated: 2023-10-15T12:54:14.275Z
 # First Aid Kit
 ![firstaid.wiki.png](/images/items/firstaid.wiki.png){.align-left}**Name**: `First Aid Kit`
 **Category**: `CONSUMABLE`
-The first aid kit is a consumable item that can be found around the facility. When used, the player will crouch and start patching themselves up which roughly takes **7 seconds**. It will always heal the 
+The first aid kit is a consumable item that can be found around the facility. When used, the player will 
+crouch and start patching themselves up which roughly takes **7 seconds**. It will always heal the 
 player back up to **100 hp** but depending on how severe the injury is it wont always stop the bleeding. 
 ⠀
 ⠀
