@@ -2,8 +2,8 @@
 title: Вікі-редактори
 description: 
 published: true
-date: 2023-10-15T14:30:50.227Z
-tags: ua, credit
+date: 2023-10-15T14:31:03.837Z
+tags: ua, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T14:30:11.479Z
 ---
