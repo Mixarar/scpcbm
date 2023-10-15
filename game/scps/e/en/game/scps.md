@@ -2,11 +2,33 @@
 title: SCP-173
 description: SCP-173 Descritption
 published: true
-date: 2023-10-15T13:25:32.080Z
+date: 2023-10-15T13:28:08.664Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T13:25:32.080Z
 ---
 
+- [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs)
+{.links-list}
+
 # SCP-173
-i am test
+![173.png](/images/roles/173.png)
+SCP-173 is a fictional entity and one of the most well-known and iconic objects (or SCPs) in the SCP Foundation's collaborative creative writing project. The SCP Foundation is a fictional organization that, in this context, is responsible for identifying, capturing, and containing anomalous and often dangerous objects and entities.
+
+SCP-173 is described as follows:
+
+Item #: SCP-173
+
+Object Class: Euclid
+
+Special Containment Procedures:
+SCP-173 is to be kept in a locked container at all times. When personnel enter the containment chamber, they must remain at least 5 meters (16 feet) away from SCP-173 at all times. Two persons must maintain direct eye contact with SCP-173 until all personnel have vacated and relocked the container.
+
+Description:
+SCP-173 is a humanoid statue composed of concrete and rebar. It is approximately 2 meters (6.5 feet) tall and exhibits signs of significant damage and wear. It is animate and extremely hostile. SCP-173 is known for its ability to move at incredibly high speeds when not in direct line of sight.
+
+The primary anomaly associated with SCP-173 is that it becomes highly aggressive when not observed. If personnel break eye contact with SCP-173, it will quickly move towards them and attack, typically snapping the neck of its victim. However, when it is observed, SCP-173 remains immobile. This has led to containment procedures requiring constant surveillance.
+
+SCP-173 has led to the development of the well-known phrase within the SCP Foundation: "The Statue" or "The Sculpture." To prevent containment breaches and harm to personnel, multiple individuals must maintain direct eye contact while in its presence.
+
+SCP-173's origin and the reason for its behavior are largely unknown, and its containment procedures are designed to ensure that it is always observed by at least two individuals. Its mysterious and lethal nature is part of what makes SCP-173 a memorable and iconic entity within the SCP Foundation's extensive lore.
