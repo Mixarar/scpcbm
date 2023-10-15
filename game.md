@@ -2,13 +2,13 @@
 title: Game
 description: The general info about the game.
 published: true
-date: 2023-10-15T13:44:24.125Z
+date: 2023-10-15T14:09:22.809Z
 tags: en, game, info
 editor: markdown
 dateCreated: 2023-10-08T13:52:57.702Z
 ---
 
-- [:arrow_backward: Back *Go back to the home page.*](/en/home)
+- [:arrow_backward: Back *Go back to the home page.*](/en/home/game-wiki)
 {.links-list}
 
 # SCP: Coalition
