@@ -2,7 +2,7 @@
 title: Chaos Insurgency
 description: Chaos lore and use in the game.
 published: true
-date: 2023-10-15T09:35:51.436Z
+date: 2023-10-15T09:36:44.712Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:37:53.990Z
@@ -15,7 +15,7 @@ dateCreated: 2023-10-08T23:37:53.990Z
 **Name**: `Chaos Soldier`
 **Category**: `D-Class/Chaos`
 **Health**: `150`
-**Items**: `Forgot, Desert Eagle, Level 5 Key Card, Handcuffs, Radio`
+**Items**: `HK, MP5,m4a4,Beretta,Small medkit,Radio, Desert Eagle, Level 5 Key Card, Handcuffs, Radio`
 ## Lore
 In the shadowy underbelly of the SCP Foundation's vast and enigmatic world, the Chaos Insurgency emerges as a force to be reckoned with. Operating in the shadows, they are a formidable adversary, driven by their own motives and a disdain for the Foundation's methods.
 
