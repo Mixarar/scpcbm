@@ -2,13 +2,13 @@
 title: Roles
 description: This page explains the types of teams you might be/encounter throughout the game.
 published: true
-date: 2023-10-12T19:05:53.878Z
+date: 2023-10-15T15:15:40.189Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T15:40:59.741Z
 ---
 
-- [:arrow_backward: Back *Go back to the home page.*](/en/home)
+- [:arrow_backward: Back *Go back to the home page.*](/en/home#breach-modemultiplayer)
 {.links-list}
 # Roles
 SCP: Contaiment Breach Multiplayer has many types of roles that you may be or encounter throughout the game. In this page, we'll be talking about each role and what they are supposed to do providing the links below.
