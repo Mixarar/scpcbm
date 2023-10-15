@@ -2,7 +2,7 @@
 title: Охрана
 description: Объяснение лора охраны и его предназначение.
 published: false
-date: 2023-10-14T16:28:01.555Z
+date: 2023-10-14T16:28:06.034Z
 tags: сотрудник фонда
 editor: markdown
 dateCreated: 2023-10-14T15:41:28.910Z

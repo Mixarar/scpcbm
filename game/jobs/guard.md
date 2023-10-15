@@ -2,7 +2,7 @@
 title: Guard
 description: Guard lore and use in the game.
 published: true
-date: 2023-10-14T14:14:05.417Z
+date: 2023-10-14T14:14:10.016Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:32:44.396Z

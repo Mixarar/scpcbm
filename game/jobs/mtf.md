@@ -2,7 +2,7 @@
 title: MTF
 description: MTF lore and use in game.
 published: true
-date: 2023-10-14T14:31:27.541Z
+date: 2023-10-14T14:31:32.061Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:35:51.658Z

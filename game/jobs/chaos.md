@@ -2,7 +2,7 @@
 title: Chaos
 description: Chaos lore and use in the game.
 published: true
-date: 2023-10-14T14:43:19.571Z
+date: 2023-10-14T14:43:24.117Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:37:53.990Z
