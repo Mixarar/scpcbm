@@ -2,7 +2,7 @@
 title: Команда разработчиков.
 description: 
 published: true
-date: 2023-10-15T14:32:51.418Z
+date: 2023-10-15T14:33:46.788Z
 tags: команда, разработчиков, команда разработчиков, scp cbm
 editor: markdown
 dateCreated: 2023-10-15T14:12:32.990Z
