@@ -2,7 +2,7 @@
 title: Início
 description: Página inicial da wiki
 published: true
-date: 2023-10-15T16:55:15.986Z
+date: 2023-10-15T16:56:19.751Z
 tags: home, inicio, pt-br
 editor: markdown
 dateCreated: 2023-10-08T16:42:29.437Z
@@ -45,7 +45,7 @@ Informações sobre o jogo em si, tudo que você pode querer saber.
 
 Tudo que os donos de servidores podem precisar.
 
-- [:warning:*Trabalho em progresso.*](/home#server-wiki)
+- [:warning:*Trabalho em progresso.*](/home#wiki-do-servidor)
 {.links-list}
 
 # Créditos
