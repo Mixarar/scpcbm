@@ -2,13 +2,13 @@
 title: D-Клас
 description: 
 published: true
-date: 2023-10-15T10:54:16.735Z
+date: 2023-10-15T10:56:58.976Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T10:54:16.735Z
 ---
 
-#- [:arrow_backward: Назад *Повернутися на домашню сторінку ролей.*](/uk/game/jobs)
+- [:arrow_backward: Назад *Повернутися на домашню сторінку ролей.*](/uk/game/jobs)
 {.links-list}
 # D-клас
 
