@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: all slaves who making this wiki
 published: true
-date: 2023-10-15T16:31:34.753Z
+date: 2023-10-15T16:32:25.587Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -10,7 +10,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 
 - [:arrow_backward: Back *Go back to the home page.*](/en/home#credits)
 {.links-list}
-# The Editors of Wiki
+# Editors of Wiki
 ## English Wiki Editors
 - **Griefer** *(@6i9u)*
 - **Db478**
@@ -19,7 +19,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 - **Mixarar**
 - **Mr. Kennedy** *(@mr.kennedy4231)*
 - **Zav** *(@yullisummary)*
-## Russian Wiki Translaters
+## Russian Wiki Editors
 - **begugla** *(@begugla_game228)*
 - **! ! 𝕏𝕕𝕚-𝔽𝕚𝕫𝕏⫸** *(@di_fiz_1936)*
 - **itzslain**
