@@ -2,7 +2,7 @@
 title: Game
 description: The general info about the game.
 published: true
-date: 2023-10-08T14:21:07.442Z
+date: 2023-10-15T13:42:15.984Z
 tags: en, game, info
 editor: markdown
 dateCreated: 2023-10-08T13:52:57.702Z
@@ -36,3 +36,18 @@ The multiplayer aspect adds a layer of unpredictability and excitement, as playe
 - ***Based on SCP Foundation lore***: Experience the chilling universe of the SCP Foundation.
 
 This game offers an exciting multiplayer experience that fans of survival horror games will surely enjoy. It captures the essence of the SCP Foundation universe while providing its own unique gameplay mechanics. Whether you’re a fan of the SCP lore or just looking for a thrilling multiplayer game, SCP: Containment Breach Multiplayer is worth checking out.
+## GAME CREDITS
+*Lead Developer:* **ItsXandromeda**
+
+*Developers:* **Anders**
+⠀⠀⠀⠀⠀⠀⠀⠀**Deepfried Chips**
+⠀⠀⠀⠀⠀⠀⠀⠀**Mixarar**
+*Game Designer:* **XtrithX**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Dailuz24**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**ItzSlain**
+*Production Designer:* **Vin_Official**
+
+*Special Thanks to:* **Jabka**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Virtual**
+*Inspired to:* **SCP: Contaiment Breach - Regalis,Undertow Games
+⠀⠀⠀⠀⠀⠀⠀⠀SCP: Unity - Aerie Gaming Studios, Nixon Interactive**
