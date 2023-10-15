@@ -2,13 +2,13 @@
 title: Вчені
 description: Наукові знання та використання в грі.
 published: true
-date: 2023-10-15T17:17:30.464Z
+date: 2023-10-15T17:27:15.712Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T17:16:55.839Z
 ---
 
-- [:arrow_backward: Назад *Повернутися на домашню сторінку ролей.*](/uk/game/jobs/roles)
+- [:arrow_backward: Назад *Повернутися на домашню сторінку ролей.*](/uk/game/jobs)
 {.links-list}
 # Вчений
 ![scientist.png](/images/roles/scientist.png)
