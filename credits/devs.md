@@ -2,7 +2,7 @@
 title: Developers
 description: guys who creating game
 published: true
-date: 2023-10-15T11:56:24.891Z
+date: 2023-10-15T13:13:03.413Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
@@ -11,6 +11,29 @@ dateCreated: 2023-10-15T11:52:10.637Z
 - [:arrow_backward: Back *Go back to the home page.*](/en/home)
 {.links-list}
 # The Developers Of Game
-###### negawatt
->  Page is not completed and gonna be finished soon
-{.is-warning}
+##### All Guys from Fusion Creators Studio
+## LEAD DEVELOPER
+- **Xandromeda** *(@itsxandromeda)*
+## COMMUNITY MANAGER
+- **Anders** *(@anders_25706)*
+- **Deepfried Chips** *(@chipsproto)*
+- **itzslain**
+### PROJECT MANAGER
+- **Saitama** *(@skaneprime)*
+## CORE DEVELOPER
+- **Anders** *(@anders_25706)*
+- **GrOm_Amg**
+- **lanylow**
+- **mixarar**
+- **thelifeworm**
+- **Wendy's** *(@wendys.com)*
+- **Xandromeda** *(@itsxadromeda)*
+### NETWORK ENGINEER
+- **Deepfried Chips** *(@chipsproto)*
+- **Recon Cuddly** *(@penguinehis)*
+## GAME DESIGNER
+- **Dailuz24**
+- **itzslain**
+- **XtrithX**
+### PRODUCTION DESIGNER
+- **Vin** *(@vin_oficial)*
