@@ -2,16 +2,16 @@
 title: Мобильная Оперативная Группа
 description:  Cпециальная группа агентов, назначенная Фондом SCP для выполнения различных операций.
 published: true
-date: 2023-10-14T19:48:03.425Z
+date: 2023-10-15T17:23:58.887Z
 tags: ru, мобильная оперативная группа
 editor: markdown
 dateCreated: 2023-10-14T13:58:24.877Z
 ---
 
-![81px-new_mtf_model.png](/roles/81px-new_mtf_model.png)<p><span class="text-huge">Мобильная Оперативная Группа</span></p>
+![81px-new_mtf_model.png](/roles/81px-new_mtf_model.png)<p><span class="text-huge">Мобильная Оперативная Группа (МТФ)</span></p>
 <hr>
 <blockquote>
-  <p>Роль: <i>MTF</i><br><i>Команда: Безопасности</i><br><i>Здоровье: 150</i><br><i>Стартовые предметы: </i>M4A1, Desert Eagle, Omni Card, Handcuffs, Radio</p>
+  <p>Роль: <i>MTF/МТФ</i><br><i>Команда: Безопасности</i><br><i>Здоровье: 150</i><br><i>Стартовые предметы: </i>M4A1, Desert Eagle, Карта Омни, Наручники, Радио, Маленькая Аптечка, MP5SD, P-90</p>
   <p>&nbsp;</p>
 </blockquote>
 <p><span class="text-big">Лор</span></p>
