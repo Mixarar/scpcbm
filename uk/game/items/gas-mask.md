@@ -2,13 +2,13 @@
 title: Протигаз
 description: 
 published: true
-date: 2023-10-15T10:32:34.155Z
+date: 2023-10-15T10:33:12.965Z
 tags: game, ua, gas mask
 editor: markdown
 dateCreated: 2023-10-15T10:28:30.698Z
 ---
 
-# Gas Mask
+# Протигаз
 
 - ![gasmask.heavy.wiki.png](/images/items/gasmask.heavy.wiki.png)
 **Назва**: `Протигаз`
