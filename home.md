@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-15T11:47:34.496Z
+date: 2023-10-15T13:27:10.907Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -52,3 +52,18 @@ Everything that hosters might need for their server.
 - [:man_teacher:Developers](/en/credits/devs)
 {.links-list}
 - [:man_office_worker:Wiki-Editors](/en/credits/edits)
+### GAME CREDITS
+*Lead Developer:* **ItsXandromeda**
+
+*Developers:* **Anders**
+⠀⠀⠀⠀⠀⠀⠀⠀**Deepfried Chips**
+⠀⠀⠀⠀⠀⠀⠀⠀**Mixarar**
+*Game Designer:* **XtrithX**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Dailuz24**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**ItzSlain**
+*Production Designer:* **Vin_Official**
+
+*Special Thanks to:* **Jabka**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Virtual**
+*Inspired to:* **SCP: Contaiment Breach - Regalis,Undertow Games
+⠀⠀⠀⠀⠀⠀⠀⠀SCP: Unity - Aerie Gaming Studios, Nixon Interactive**
