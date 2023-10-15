@@ -2,7 +2,7 @@
 title: SCP-096
 description: SCP-096 Description
 published: true
-date: 2023-10-15T15:04:15.391Z
+date: 2023-10-15T15:06:01.932Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T15:02:03.013Z
@@ -27,7 +27,6 @@ Emotional Response: Despite its aggression, SCP-096 is often portrayed as seemin
 Regeneration: SCP-096 has shown remarkable regenerative abilities, able to heal quickly from injuries. It's almost indestructible, making it difficult to terminate.
 
 The SCP-096 article is a popular and well-known entry in the SCP Foundation database, and it has inspired various forms of media, including stories, art, and even video games, all within the context of the SCP Foundation's fictional universe. The character's distinctive blend of unstoppable aggression and apparent emotional vulnerability has made it a memorable and iconic part of the SCP mythos.
-
 
 
 
