@@ -2,7 +2,7 @@
 title: Список SCP
 description: 
 published: true
-date: 2023-10-15T14:01:03.086Z
+date: 2023-10-15T14:01:29.004Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T09:49:17.485Z
@@ -12,5 +12,5 @@ dateCreated: 2023-10-15T09:49:17.485Z
 {.links-list}
 # СПИСКИ SCP
 У SCP CONTAINMENT BREACH є багато SCPS всередині закладу! ось " деякі з Scps
-- [SCP-173](/uk/game/scp-173)
+- [SCP-173](/uk/game/scps/scp-173)
 {.links-list}
