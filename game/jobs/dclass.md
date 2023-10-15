@@ -2,14 +2,14 @@
 title: D-Class
 description: Explains the D-Class lore and what they are supposed to do in the game.
 published: true
-date: 2023-10-15T09:01:40.742Z
+date: 2023-10-15T09:04:37.513Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T16:25:35.714Z
 ---
 
 - [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs)
-{}
+{.links-list}
 # D-Class
 
 ![](/images/roles/classd.png)
