@@ -2,13 +2,13 @@
 title: Desenvolvedores
 description: Lista dos criadores do jogo
 published: true
-date: 2023-10-15T17:23:00.047Z
+date: 2023-10-15T17:23:45.747Z
 tags: game, pt-br, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T17:22:26.128Z
 ---
 
-- [:arrow_backward: Voltar *Voltar para a página inicial.*](/home#credits)
+- [:arrow_backward: Voltar *Voltar para a página inicial.*](/home#créditos)
 {.links-list}
 # O Time de Desenvolvedores
 ## DESENVOLVEDOR-CHEFE
