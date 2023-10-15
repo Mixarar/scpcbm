@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: all slaves who making this wiki
 published: true
-date: 2023-10-15T14:06:11.634Z
+date: 2023-10-15T16:30:09.990Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -26,7 +26,6 @@ dateCreated: 2023-10-15T11:54:53.780Z
 - **⫷𝕂𝕒𝕫𝕒𝕙-𝕋𝕖𝕝𝕖𝕜𝕠𝕞⫸** *@kazahtelekom*
 - **I am MasterFighter** *@masterfighter.*
 - **Чуказябра** *@mirakiru*
-- **[RUS] Sigma** *@officalstudiorufusgames*
 - **thelifeworm**
 - **ivaiva** *@wyrxcc*
 - **зевуля[astro3]** *@zevulya*
