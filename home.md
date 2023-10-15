@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-15T11:22:15.391Z
+date: 2023-10-15T11:25:56.843Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -14,7 +14,7 @@ dateCreated: 2023-10-08T12:37:51.212Z
 
 
 # General
-General stuff that you need to know.
+General stuff that you need to know. **Might contain spoilers.**
 
 - [:information_source: Requirements *Computer specs requirements.*](/en/install/requirements)
 - [:scroll: Installation Guide *Installation instructions for server and game.*](/en/install)
@@ -44,6 +44,6 @@ Wiki about the game itself, everything you might want to check out.
 # Server Wiki
 
 Everything that hosters might need for their server.
-###### **Might contain spoilers.**
+
 - [:warning:*Work In Progress.*](/en/game)
 {.links-list}
