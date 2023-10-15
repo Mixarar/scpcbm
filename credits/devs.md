@@ -2,13 +2,13 @@
 title: Developers
 description: guys who creating game
 published: true
-date: 2023-10-15T13:28:57.830Z
+date: 2023-10-15T13:35:00.277Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
 ---
 
-- [:arrow_backward: Back *Go back to the home page.*](/en/home)
+- [:arrow_backward: Back *Go back to the home page.*](/en/home#credits)
 {.links-list}
 # The Developers Team
 ## LEAD DEVELOPER
