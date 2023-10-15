@@ -2,13 +2,13 @@
 title: МОГ
 description: Знання MTF і використання в грі.
 published: true
-date: 2023-10-15T17:23:18.220Z
+date: 2023-10-15T17:23:59.168Z
 tags: game, ua, rol
 editor: markdown
 dateCreated: 2023-10-15T17:22:18.802Z
 ---
 
-- [:arrow_backward: Назад *Повернутися на домашню сторінку ролей.*](/uk/game/jobs/roles)
+- [:arrow_backward: Назад *Повернутися на домашню сторінку ролей.*](/uk/game/jobs)
 {.links-list}
 # МОГ
 ![ntf_gun_up.png](/images/roles/ntf_gun_up.png)
