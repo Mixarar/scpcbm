@@ -2,7 +2,7 @@
 title: Chaos Insurgency
 description: Chaos lore and use in the game.
 published: true
-date: 2023-10-15T09:24:20.058Z
+date: 2023-10-15T09:35:51.436Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:37:53.990Z
@@ -11,7 +11,7 @@ dateCreated: 2023-10-08T23:37:53.990Z
 - [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs)
 {.links-list}
 # Chaos
-
+![chaos_load_screen.jpg](/images/roles/chaos_load_screen.jpg)
 **Name**: `Chaos Soldier`
 **Category**: `D-Class/Chaos`
 **Health**: `150`
