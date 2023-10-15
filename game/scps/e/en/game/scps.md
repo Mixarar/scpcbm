@@ -2,19 +2,18 @@
 title: SCP-173
 description: SCP-173 Descritption
 published: true
-date: 2023-10-15T13:28:08.664Z
+date: 2023-10-15T13:37:23.377Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T13:25:32.080Z
 ---
 
-- [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs)
+- [:arrow_backward: Back *Go back to the home page.*](/en/home)
 {.links-list}
 
 # SCP-173
-![173.png](/images/roles/173.png)
+![173.png](/images/roles/173.png){.align-left}
 SCP-173 is a fictional entity and one of the most well-known and iconic objects (or SCPs) in the SCP Foundation's collaborative creative writing project. The SCP Foundation is a fictional organization that, in this context, is responsible for identifying, capturing, and containing anomalous and often dangerous objects and entities.
-
 SCP-173 is described as follows:
 
 Item #: SCP-173
