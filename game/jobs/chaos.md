@@ -2,13 +2,13 @@
 title: Chaos Insurgency
 description: Chaos lore and use in the game.
 published: true
-date: 2023-10-15T09:36:56.106Z
+date: 2023-10-15T15:21:28.260Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:37:53.990Z
 ---
 
-- [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs)
+- [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs#roles)
 {.links-list}
 # Chaos
 ![chaos_load_screen.jpg](/images/roles/chaos_load_screen.jpg)
