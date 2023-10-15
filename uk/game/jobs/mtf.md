@@ -1,8 +1,8 @@
 ---
-title: MTF
+title: МОГ
 description: Знання MTF і використання в грі.
 published: true
-date: 2023-10-15T17:22:18.802Z
+date: 2023-10-15T17:22:49.685Z
 tags: game, ua, rol
 editor: markdown
 dateCreated: 2023-10-15T17:22:18.802Z
