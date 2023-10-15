@@ -1,8 +1,8 @@
 ---
 title: Домашня сторінка
-description: 123123
+description: Домашня сторінка вікі
 published: true
-date: 2023-10-15T19:37:57.807Z
+date: 2023-10-15T19:38:47.415Z
 tags: home, ua
 editor: markdown
 dateCreated: 2023-10-14T15:04:57.448Z
