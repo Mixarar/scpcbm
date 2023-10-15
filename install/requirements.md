@@ -2,13 +2,13 @@
 title: Requirements
 description: Page about requirements
 published: true
-date: 2023-10-14T14:38:53.090Z
+date: 2023-10-15T14:07:40.642Z
 tags: en, install
 editor: markdown
 dateCreated: 2023-10-08T21:22:59.565Z
 ---
 
-- [:arrow_backward: Back *Go back to the home page.*](/en/home)
+- [:arrow_backward: Back *Go back to the home page.*](/en/home#General)
 {.links-list}
 # Game Requirements
 > Requirements might change with updates.
