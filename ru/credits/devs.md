@@ -1,8 +1,8 @@
 ---
-title: Команда разработчиков.
-description: 
+title: Команда разработчиков
+description: Люди, создающие игру
 published: true
-date: 2023-10-15T14:33:46.788Z
+date: 2023-10-15T14:36:28.076Z
 tags: команда, разработчиков, команда разработчиков, scp cbm
 editor: markdown
 dateCreated: 2023-10-15T14:12:32.990Z
