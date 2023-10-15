@@ -1,8 +1,8 @@
 ---
 title: Сюжет
-description: Wiki page about the game plot, mostly summarised
+description: Вікі-сторінка про сюжет гри, здебільшого коротко
 published: true
-date: 2023-10-15T17:06:42.421Z
+date: 2023-10-15T17:07:04.949Z
 tags: ua
 editor: markdown
 dateCreated: 2023-10-15T10:05:50.913Z
