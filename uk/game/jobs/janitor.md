@@ -2,7 +2,7 @@
 title: Двірник
 description: Знання двірника та використання в грі.
 published: true
-date: 2023-10-15T17:25:48.278Z
+date: 2023-10-15T17:26:47.544Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T17:15:00.749Z
