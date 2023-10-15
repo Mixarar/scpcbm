@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-15T11:22:16.789Z
+date: 2023-10-15T11:36:01.971Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -384,6 +384,9 @@ Safe Return: To return to the normal dimension, the individual simply removes SC
 Safety Measures: SCP-1499 is classified as Safe because it poses no direct threat when not in use. It is contained in a secure locker, and its use is subject to strict containment protocols.
 
 SCP-1499 is known for its ability to transport individuals to a nightmarish alternate reality, and it offers an intriguing and dangerous concept within the SCP Foundation universe. Its use and containment procedures are designed to minimize the risks associated with dimensional travel.
+
+
+`my hands hurt -Zav`
 
 
 
