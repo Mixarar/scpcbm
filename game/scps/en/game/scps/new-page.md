@@ -2,13 +2,13 @@
 title: SCP-096
 description: SCP-096 Description
 published: true
-date: 2023-10-15T15:03:39.025Z
+date: 2023-10-15T15:04:15.391Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T15:02:03.013Z
 ---
 
-# SCP-096
+## SCP-096
 ![white_guy.png](/images/roles/white_guy.png){.align-left}
 SCP-096, also known as "The Shy Guy," is a fictional character from the collaborative creative writing project known as the SCP Foundation. The SCP Foundation is a fictional organization that catalogues and contains anomalous entities, objects, and phenomena to protect the world from potential threats.
 
