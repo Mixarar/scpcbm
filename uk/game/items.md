@@ -2,8 +2,8 @@
 title: Предмети
 description: 
 published: true
-date: 2023-10-15T10:31:20.151Z
-tags: 
+date: 2023-10-15T10:35:01.012Z
+tags: game, ua
 editor: markdown
 dateCreated: 2023-10-15T10:19:56.739Z
 ---
