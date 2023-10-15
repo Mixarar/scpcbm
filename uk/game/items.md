@@ -1,8 +1,8 @@
 ---
-title: Предмети
+title: Предмети Сторінка предметів
 description: 
 published: true
-date: 2023-10-15T10:45:54.123Z
+date: 2023-10-15T10:47:30.789Z
 tags: game, ua
 editor: markdown
 dateCreated: 2023-10-15T10:19:56.739Z
