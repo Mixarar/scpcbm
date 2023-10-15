@@ -1,2 +1,19 @@
 
-s
+-[:arrow_backward: Назад *Повернутися на домашню сторінку.*](/uk/home)
+{.links-list}
+
+# Ролі
+SCP: Containment Breach Multiplayer має багато типів ролей, якими ви можете бути або зустрітися протягом гри. На цій сторінці ми поговоримо про кожну роль і те, що вони повинні робити, надавши посилання нижче.
+
+---
+
+- [:arrow_backward: D-Class *D-Class role.*](/en/game/jobs/dclass)
+- [:arrow_backward: Двірник *Роль двірника.*](/en/game/jobs/janitor)
+- [:arrow_backward: Вчені *Роль вчених.*](/en/game/jobs/scientists)
+- [:arrow_backward: Охоронці *Роль охоронців.*](/en/game/jobs/guard)
+- [:arrow_backward: MTF *Mobile Task Force.*](/en/game/jobs/mtf)
+- [:arrow_backward: Хаос *Роль Хаосу.*](/en/game/jobs/chaos)
+- [:arrow_backward: SCP *роль SCP.*](/en/game/jobs/scps)
+{.links-list}
+
+Примітка: ця сторінка недостатньо розроблена і може бути повністю змінена, як і інші сторінки.
