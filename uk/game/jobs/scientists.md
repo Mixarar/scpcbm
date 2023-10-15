@@ -1,8 +1,8 @@
 ---
-title: Науковці
+title: Вчені
 description: Наукові знання та використання в грі.
 published: true
-date: 2023-10-15T17:16:55.839Z
+date: 2023-10-15T17:17:30.464Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T17:16:55.839Z
