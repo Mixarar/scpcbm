@@ -2,13 +2,13 @@
 title: Scientist
 description: Scientist lore and use in the game.
 published: true
-date: 2023-10-15T09:28:58.871Z
+date: 2023-10-15T15:20:19.456Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:27:58.154Z
 ---
 
-[:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs)
+- [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs#roles)
 {.links-list}
 # Scientist
 ![scientist.png](/images/roles/scientist.png)
