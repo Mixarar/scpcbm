@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-15T16:04:28.230Z
+date: 2023-10-15T16:06:47.243Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -14,4 +14,8 @@ dateCreated: 2023-10-12T19:24:17.893Z
 In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are some of the **SCP's**
 
 - [SCP-173 *The Sculpture.* ](/en/game/scps/173)
+{.links-list}
+- [SCP-096 *The Shy-Guy.* ](/en/game/scps/096)
+{.links-list}
+- [SCP-049 *The Plague Doctor.* ](/en/game/scps/049)
 {.links-list}
