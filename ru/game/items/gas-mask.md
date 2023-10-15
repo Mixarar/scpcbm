@@ -2,13 +2,13 @@
 title: Противогаз
 description: Объясняет, для чего нужен противогаз и его многочисленные виды в игре
 published: true
-date: 2023-10-15T14:25:13.085Z
+date: 2023-10-15T14:26:20.190Z
 tags: ru, противогаз, экипируемый
 editor: markdown
 dateCreated: 2023-10-15T14:24:37.724Z
 ---
 
-- [:arrow_backward: Назад *Назад на страницу предметов*](/ru/game/items)
+- [:arrow_backward: Назад *Вернуться на страницу предметов*](/ru/game/items)
 {.links-list}
 # Противогаз
 ![gasmask.wiki.fixed.png](/items/gasmask.wiki.fixed.png){.align-left}**Название**: `Противогаз`
