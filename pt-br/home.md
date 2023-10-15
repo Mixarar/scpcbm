@@ -2,7 +2,7 @@
 title: Início
 description: Página inicial da wiki
 published: true
-date: 2023-10-15T17:24:08.263Z
+date: 2023-10-15T17:25:51.098Z
 tags: home, inicio, pt-br
 editor: markdown
 dateCreated: 2023-10-08T16:42:29.437Z
@@ -36,7 +36,7 @@ Informações sobre o jogo em si, tudo que você pode querer saber.
 {.links-list}
 
 
-## Modo Brecha/Multijogador
+## Modo Breach/Multijogador
 
 - [:construction_worker: Cargos *Os trabalhos das pessoas, os SCPs jogáveis e tudo sobre eles.*](/game/jobs)
 {.links-list}
