@@ -2,13 +2,13 @@
 title: Список SCP
 description: 
 published: true
-date: 2023-10-15T09:52:20.524Z
+date: 2023-10-15T09:54:22.315Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T09:49:17.485Z
 ---
 
-- [:arrow_backward: Back *Go back to the home page.*](/en/home)
+- [:arrow_backward: Назад *Повернутися на головну сторінку*](/en/home)
 {.links-list}
 ---
 
