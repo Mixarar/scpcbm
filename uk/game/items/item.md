@@ -2,8 +2,8 @@
 title: Ключ-карти
 description: 
 published: true
-date: 2023-10-15T10:38:46.178Z
-tags: 
+date: 2023-10-15T10:39:15.652Z
+tags: item, ua, keycard
 editor: markdown
 dateCreated: 2023-10-15T10:23:17.510Z
 ---
