@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: all slaves who making this wiki
 published: true
-date: 2023-10-16T19:59:05.687Z
+date: 2023-10-16T20:05:57.766Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -31,3 +31,5 @@ dateCreated: 2023-10-15T11:54:53.780Z
 - **зевуля[astro3]** *(@zevulya)*
 ## Ukrainian Wiki Editors
 - **Contrast** *(contrast0899)*
+## Portuguese-BR Wiki Editors
+- **Felpopos**
