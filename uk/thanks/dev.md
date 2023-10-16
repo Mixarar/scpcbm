@@ -2,7 +2,7 @@
 title: Розробники
 description: 
 published: true
-date: 2023-10-16T20:17:59.902Z
+date: 2023-10-16T20:18:37.384Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T14:21:31.767Z
