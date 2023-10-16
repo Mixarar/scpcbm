@@ -2,13 +2,13 @@
 title: Розробники
 description: 
 published: true
-date: 2023-10-15T14:20:08.138Z
+date: 2023-10-16T20:21:24.303Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T14:17:12.126Z
 ---
 
-[:arrow_backward: Назад *Повернутися на домашню сторінку.*](/uk/home)
+- [:arrow_backward: Назад *Повернутися на домашню сторінку.*](/uk/home)
 {.links-list}
 # Команда розробників
 ## ПРОВІДНИЙ РОЗРОБНИК
