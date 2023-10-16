@@ -2,13 +2,13 @@
 title: Вікі-редактори
 description: 
 published: true
-date: 2023-10-15T14:31:03.837Z
+date: 2023-10-16T20:03:54.240Z
 tags: ua, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T14:30:11.479Z
 ---
 
-- [:arrow_backward: Назад *Повернутися на домашню сторінку.*](/uk/home)
+- [:arrow_backward: Назад *Повернутися на домашню сторінку.*](/uk/credits/edits)
 {.links-list}
 
 # Редактори Wiki
