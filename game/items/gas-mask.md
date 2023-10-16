@@ -2,7 +2,7 @@
 title: Gas Mask
 description: Explains the Gas Mask and its many variants what they are supposed to do in the game.
 published: true
-date: 2023-10-15T15:27:47.670Z
+date: 2023-10-16T20:15:35.552Z
 tags: item, gas mask, equippable
 editor: markdown
 dateCreated: 2023-10-14T16:12:32.142Z
@@ -18,9 +18,6 @@ facility. Putting it on bypasses the decontamination gas and its
 debuffs like coughing and faster blinking but it mayorly obscures 
 your vision.
 ⠀
-⠀
-⠀
-
 ⠀
 ⠀
 
