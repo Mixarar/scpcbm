@@ -2,7 +2,7 @@
 title: Gas Mask
 description: Explains the Gas Mask and its many variants what they are supposed to do in the game.
 published: true
-date: 2023-10-16T20:15:35.552Z
+date: 2023-10-16T20:34:55.520Z
 tags: item, gas mask, equippable
 editor: markdown
 dateCreated: 2023-10-14T16:12:32.142Z
@@ -11,7 +11,7 @@ dateCreated: 2023-10-14T16:12:32.142Z
 - [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
 {.links-list}
 # Gas Mask
-![gasmask.wiki.fixed.png](/items/gasmask.wiki.fixed.png){.align-left}**Name**: `Gas Mask`
+![gasmask.png](/images/items/gasmask.png){.align-left}**Name**: `Gas Mask`
 **Category**: `EQUIPPABLE`
 The gas mask is a equippable item that can be found around the
 facility. Putting it on bypasses the decontamination gas and its 
