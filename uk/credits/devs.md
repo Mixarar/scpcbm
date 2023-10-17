@@ -2,7 +2,7 @@
 title: Розробники
 description: Команда Fusion Creators Studio.
 published: true
-date: 2023-10-17T17:43:57.651Z
+date: 2023-10-17T17:45:42.015Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T14:17:12.126Z
@@ -39,7 +39,7 @@ dateCreated: 2023-10-15T14:17:12.126Z
 
 - **Vin** *(@vin_oficial)*
 
-## ІГРОВІ КРЕДИТИ
+## <font color="#ceb120">ІГРОВІ КРЕДИТИ</font>
 *Провідний розробник:* **ItsXandromeda**
 
 *Розробники:* **Anders**
