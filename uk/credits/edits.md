@@ -2,7 +2,7 @@
 title: Вікі-редактори
 description: Люди, які створювали цю вікі.
 published: true
-date: 2023-10-17T17:11:50.085Z
+date: 2023-10-17T17:17:40.293Z
 tags: ua, wikiedtior
 editor: markdown
 dateCreated: 2023-10-16T18:07:13.031Z
@@ -44,6 +44,7 @@ dateCreated: 2023-10-16T18:07:13.031Z
 
 
 
-## Вікі-редактори португальською мовою
+## <font color="#086b08">Вікі редактори</font> <font color="#ffff08">португальською</font> <font color="#ff0808">мовою</font>
 
 - **Felpopos**
+
