@@ -2,7 +2,7 @@
 title: Developers
 description: guys who creating game
 published: true
-date: 2023-10-15T13:45:53.213Z
+date: 2023-10-17T15:06:34.092Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
@@ -10,16 +10,16 @@ dateCreated: 2023-10-15T11:52:10.637Z
 
 - [:arrow_backward: Back *Go back to the home page.*](/en/home#credits)
 {.links-list}
-# The Developers Team
-## LEAD DEVELOPER
+# <font color="#050812">FCS Developer Team</font>
+## <font color="#3498db">LEAD DEVELOPER</font>
 - **Xandromeda** *(@itsxandromeda)*
-## COMMUNITY MANAGER
+## <font color="#256dff">COMMUNITY MANAGER</font>
 - **Anders** *(@anders_25706)*
 - **Deepfried Chips** *(@chipsproto)*
 - **itzslain**
-### PROJECT MANAGER
+## <font color="#6c5dff">PROJECT MANAGER</font>
 - **Saitama** *(@skaneprime)*
-## CORE DEVELOPER
+## <font color="#1c61f3">CORE DEVELOPER</font>
 - **Anders** *(@anders_25706)*
 - **GrOm_Amg**
 - **lanylow**
@@ -27,17 +27,17 @@ dateCreated: 2023-10-15T11:52:10.637Z
 - **thelifeworm**
 - **Wendy's** *(@wendys.com)*
 - **Xandromeda** *(@itsxadromeda)*
-### NETWORK ENGINEER
+## <font color="#206694">NETWORK ENGINEER</font>
 - **Deepfried Chips** *(@chipsproto)*
 - **Recon Cuddly** *(@penguinehis)*
-## GAME DESIGNER
+## <font color="#006dff">GAME DESIGNER</font>
 - **Dailuz24**
 - **itzslain**
 - **XtrithX**
-### PRODUCTION DESIGNER
+## <font color="#a940f2">PRODUCTION DESIGNER</font>
 - **Vin** *(@vin_oficial)*
 
-## GAME CREDITS
+## <font color="#ceb120">GAME CREDITS</font>
 *Lead Developer:* **ItsXandromeda**
 
 *Developers:* **Anders**
