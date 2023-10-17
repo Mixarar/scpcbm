@@ -1,8 +1,8 @@
 ---
 title: Розробники
-description: 
+description: Команда Fusion Creators Studio.
 published: true
-date: 2023-10-16T20:21:24.303Z
+date: 2023-10-17T16:42:19.896Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T14:17:12.126Z
