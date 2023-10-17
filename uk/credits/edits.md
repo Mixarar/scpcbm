@@ -2,7 +2,7 @@
 title: Вікі-редактори
 description: Люди, які створювали цю вікі.
 published: true
-date: 2023-10-17T17:08:52.765Z
+date: 2023-10-17T17:11:50.085Z
 tags: ua, wikiedtior
 editor: markdown
 dateCreated: 2023-10-16T18:07:13.031Z
@@ -36,7 +36,7 @@ dateCreated: 2023-10-16T18:07:13.031Z
 - **thelifeworm**
 - **ivaiva** *(@wyrxcc)*
 - **зевуля[astro3]** *(@zevulya)*
-## <font color="#0402b6">Українські редак</font><font color="#fce100">тори Wiki</font>
+## <font color="#0402b6">Українські ред</font><font color="#fce100">актори Wiki</font>
 
 - **Contrast** *(@contrast0899)*
 
