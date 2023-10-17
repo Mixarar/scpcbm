@@ -2,7 +2,7 @@
 title: Предмети 
 description: 
 published: true
-date: 2023-10-15T14:35:30.252Z
+date: 2023-10-17T19:07:12.857Z
 tags: game, ua
 editor: markdown
 dateCreated: 2023-10-15T10:19:56.739Z
@@ -19,3 +19,14 @@ dateCreated: 2023-10-15T10:19:56.739Z
 {.links-list}
 - [:hospital: Аптечка *Усі варіанти аптечок.*](/uk/game/items/first-aid-kit)
 {.links-list}
+
+>  В даний момент, сторінка ще допрацьовується, може чогось не вистачати як на інших сторінках...
+> 
+{.is-warning}
+
+
+
+
+
+
+
