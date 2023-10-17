@@ -2,7 +2,7 @@
 title: Keycards
 description: all keycards from game
 published: true
-date: 2023-10-17T19:22:51.177Z
+date: 2023-10-17T19:25:43.478Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -61,15 +61,19 @@ The level 1 keycard is the lowest level card. **It can open:** *the first door t
 
 **The keycard can be created** by putting a level 3 keycard into SCP-914 on the "Fine" setting with small chance.
 ###### LEVEL 5 KEYCARD
-![keycard5.png](/images/items/keycard5.png){.align-left}The level 5 keycard is the highest keycard that can be obtained. Both this, and the Omni card, can access any rooms requiring a keycard.
+![keycard5.png](/images/items/keycard5.png){.align-left}**Name**: `Level 5 keycard`
+**Location**: `SCP-106's chamber.`
+The level 5 keycard is the highest keycard that can be obtained. Both this, and the Omni card, can access any rooms requiring a keycard.
 
 **Level 5 keycards can be used to exclusively open:**
 
-- SCP-035's chamber
-- The door to the elevator leading to the warhead room as well as the door leading into the small control room inside.
-- The checkpoint room between the Heavy Containment Zone and Entrance Zone.
-- The blast door to reach Gate A.
+- *SCP-035's chamber.*
+- *The door to the elevator leading to the warhead room as well as the door leading into the small control room inside.*
+- *The checkpoint room between the Heavy Containment Zone and Entrance Zone.*
+- *The blast door to reach Gate A.*
 
-**The keycard can be found** in SCP-106's chamber under a shelf beside the controls and in the head office or can be created by putting a level 4 keycard into SCP-914 on the "Fine" setting.
+**The keycard can be created** by putting a level 4 keycard into SCP-914 on the "Fine" setting.
 ###### OMNI KEYCARD
-![keycard6.png](/images/items/keycard6.png){.align-left}The Omni keycard is a blue and white keycard with no text in the  centre of the keycard unlike the levels 1 to 5 keycard and**can access anything requiring a keycard**, making it equivalent to a level 5 keycard. The **Omni keycard can only be obtained via placing a level 5 keycard into SCP-914** on the "Fine" setting or with any level keycard on the "Very Fine" setting, though this has a chance of creating a MasterCard instead.
+![keycard6.png](/images/items/keycard6.png){.align-left}**Name**: `Omni Keycard`
+**Location**: `none`
+The Omni keycard is a blue and white keycard with no text in the  centre of the keycard unlike the levels 1 to 5 keycard and **can access anything requiring a keycard**, *making it equivalent to a level 5 keycard.* The **Omni keycard can only be obtained via placing a level 5 keycard into SCP-914** on the "Fine" setting or with any level keycard on the "Very Fine" setting, though this has a chance of creating a MasterCard instead.
