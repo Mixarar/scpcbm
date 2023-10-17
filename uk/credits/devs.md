@@ -2,7 +2,7 @@
 title: Розробники
 description: Команда Fusion Creators Studio.
 published: true
-date: 2023-10-17T17:36:11.022Z
+date: 2023-10-17T17:38:59.501Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T14:17:12.126Z
@@ -27,7 +27,8 @@ dateCreated: 2023-10-15T14:17:12.126Z
 - **thelifeworm**
 - **Wendy's** *(@wendys.com)*
 - **Xandromeda** *(@itsxadromeda)*
-### ІНЖЕНЕР МЕРЕЖ
+## <font color="#206694">ІНЖЕНЕРИ МЕРЕЖ</font>
+
 - **Deepfried Chips** *(@chipsproto)*
 - **Recon Cuddly** *(@penguinehis)*
 ## ГЕЙМ ДИЗАЙНЕР
