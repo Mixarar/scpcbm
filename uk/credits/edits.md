@@ -2,7 +2,7 @@
 title: Вікі-редактори
 description: Люди, які створювали цю вікі.
 published: true
-date: 2023-10-17T17:01:29.509Z
+date: 2023-10-17T17:04:13.887Z
 tags: ua, wikiedtior
 editor: markdown
 dateCreated: 2023-10-16T18:07:13.031Z
@@ -26,7 +26,7 @@ dateCreated: 2023-10-16T18:07:13.031Z
 - **Mixarar**
 - **Mr. Kennedy** *(@mr.kennedy4231)*
 - **Zav** *(@yullisummary)*
-## Російські редактори Wiki
+## <font color="#ececec">Російські</font> <font color="#08249f">редактори</font> <font color="#d01303">Wiki</font>
 - **begugla** *(@begugla_game228)*
 - **! ! 𝕏𝕕𝕚-𝔽𝕚𝕫𝕏⫸** *(@di_fiz_1936)*
 - **itzslain**
