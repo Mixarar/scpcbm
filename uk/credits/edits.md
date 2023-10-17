@@ -2,7 +2,7 @@
 title: Вікі-редактори
 description: Люди, які створювали цю вікі.
 published: true
-date: 2023-10-16T20:31:57.559Z
+date: 2023-10-17T17:01:29.509Z
 tags: ua, wikiedtior
 editor: markdown
 dateCreated: 2023-10-16T18:07:13.031Z
@@ -11,7 +11,14 @@ dateCreated: 2023-10-16T18:07:13.031Z
 - [:arrow_backward: Назад *Повернутися на головну сторінку.*](/uk/home)
 {.links-list}
 # Редактори Wiki
-## Вікі-редактори англійською мовою
+## </font><font color="#ffffff"></font> <font color="#d1132c">Вікі-редактори</font> <font color="#ffffff">англійською </font><font color="#08249f"></font><font color="#00247d">мовою</font>
+- **Griefer** *(@6i9u)*
+- **Db478**
+
+
+- **Griefer** *(@6i9u)*
+
+- **Db478**
 - **Griefer** *(@6i9u)*
 - **Db478**
 - **Sparky** *(@dr.sparkrosalene)*~~woman~~
