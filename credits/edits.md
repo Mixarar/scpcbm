@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: all slaves who making this wiki
 published: true
-date: 2023-10-17T15:35:06.847Z
+date: 2023-10-17T15:37:35.845Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -31,5 +31,5 @@ dateCreated: 2023-10-15T11:54:53.780Z
 - **зевуля[astro3]** *(@zevulya)*
 ## <font color="#0402b6">Ukrainian Wi</font><font color="#fce100">ki Editors</font>
 - **Contrast** *(@contrast0899)*:pig:
-## Portuguese-BR Wiki Editors
+## <font color="#086b08">Portuguese-BR</font> <font color="#ffff08">Wiki</font> <font color="#ff0808">Editors</font>
 - **Felpopos**
