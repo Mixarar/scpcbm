@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: all slaves who making this wiki
 published: true
-date: 2023-10-16T20:05:57.766Z
+date: 2023-10-17T15:34:36.078Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -19,7 +19,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 - **Mixarar**
 - **Mr. Kennedy** *(@mr.kennedy4231)*
 - **Zav** *(@yullisummary)*
-## Russian Wiki Editors
+## <font color="#ececec">Russian</font> <font color="#08249f">Wiki</font> <font color="#d01303">Editors</font>
 - **begugla** *(@begugla_game228)*
 - **! ! 𝕏𝕕𝕚-𝔽𝕚𝕫𝕏⫸** *(@di_fiz_1936)*
 - **itzslain**
@@ -29,7 +29,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 - **thelifeworm**
 - **ivaiva** *(@wyrxcc)*
 - **зевуля[astro3]** *(@zevulya)*
-## Ukrainian Wiki Editors
+## <font color="#0402b6">Ukrainian Wi</font><font color="#fce100">ki Editors</font>
 - **Contrast** *(contrast0899)*
 ## Portuguese-BR Wiki Editors
 - **Felpopos**
