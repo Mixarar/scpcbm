@@ -2,7 +2,7 @@
 title: Розробники
 description: Команда Fusion Creators Studio.
 published: true
-date: 2023-10-17T17:19:09.300Z
+date: 2023-10-17T17:21:14.344Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T14:17:12.126Z
@@ -11,7 +11,7 @@ dateCreated: 2023-10-15T14:17:12.126Z
 - [:arrow_backward: Назад *Повернутися на домашню сторінку.*](/uk/home)
 {.links-list}
 # <font color="#050812">FCS Developer Team</font>
-## ПРОВІДНИЙ РОЗРОБНИК
+## <font color="#3498db">Провідний розробник</font>
 - **Xandromeda** *(@itsxandromeda)*
 ## КОМЮНІТІ МЕНЕДЖЕР
 - **Anders** *(@anders_25706)*
