@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: all slaves who making this wiki
 published: true
-date: 2023-10-17T15:44:03.435Z
+date: 2023-10-17T15:44:27.242Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -11,7 +11,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 - [:arrow_backward: Back *Go back to the home page.*](/en/home#credits)
 {.links-list}
 # Editors of Wiki
-## <font color="#00247d">Eng</font><font color="#ffffff">lish</font> <font color="#d1132c">Wiki</font> <font color="#ffffff">Edit</font><font color="#08249f"></font><font color="#00287e">ors</font>
+## <font color="#00247d">Eng</font><font color="#ffffff">lish</font> <font color="#d1132c">Wiki</font> <font color="#ffffff">Edit</font><font color="#08249f"></font><font color="#00247d">ors</font>
 - **Griefer** *(@6i9u)*
 - **Db478**
 - **Sparky** *(@dr.sparkrosalene)*~~woman~~
