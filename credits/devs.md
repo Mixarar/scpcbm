@@ -1,8 +1,8 @@
 ---
 title: Developers
-description: guys who creating game
+description: Fusion Creators Studio Team
 published: true
-date: 2023-10-17T15:08:29.185Z
+date: 2023-10-17T15:10:06.900Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
