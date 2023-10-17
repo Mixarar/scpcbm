@@ -2,7 +2,7 @@
 title: Домашня сторінка
 description: Домашня сторінка вікі
 published: true
-date: 2023-10-17T16:28:59.793Z
+date: 2023-10-17T16:30:19.646Z
 tags: home, ua
 editor: markdown
 dateCreated: 2023-10-14T15:04:57.448Z
@@ -43,7 +43,7 @@ dateCreated: 2023-10-14T15:04:57.448Z
 
 Все, що може знадобитися хостерам для їхнього сервера.
 
-- [:warning:*В роботі.(/uk/home/server-wiki)
+- [:warning:*В роботі.(/uk/home)
 {.links-list}
 
 # Подяка
