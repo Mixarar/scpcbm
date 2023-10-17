@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-15T15:25:35.372Z
+date: 2023-10-17T15:45:41.676Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -51,4 +51,4 @@ Everything that hosters might need for their server.
 # Credits
 - [:man_teacher:Developers*People from Fusion Creators Studio*](/en/credits/devs)
 {.links-list}
-- [:man_office_worker:Wiki-Editors*People Who Worked On Wiki*](/en/credits/edits)
+- [:man_office_worker:Wiki-Editors*People that making Wiki*](/en/credits/edits)
