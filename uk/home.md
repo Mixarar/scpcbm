@@ -2,7 +2,7 @@
 title: Домашня сторінка
 description: Домашня сторінка вікі
 published: true
-date: 2023-10-17T16:24:09.704Z
+date: 2023-10-17T16:28:59.793Z
 tags: home, ua
 editor: markdown
 dateCreated: 2023-10-14T15:04:57.448Z
@@ -37,6 +37,13 @@ dateCreated: 2023-10-14T15:04:57.448Z
 - [:door: Локації *Тут зібрана вся інформація про локацію фонду*](/uk/game/rooms)
 - [:warning: Об'єкти SCP *Тут зібрана вся інформація про об'єкти, що знаходяться у фонді*](/uk/game/scps)
 - [:construction_worker: Ролі *Тут зібрана вся інформація про ролі у фонді*](/uk/game/jobs)
+{.links-list}
+
+# Вікі-сервер
+
+Все, що може знадобитися хостерам для їхнього сервера.
+
+- [:warning:*В роботі.(/uk/home/server-wiki)
 {.links-list}
 
 # Подяка
