@@ -2,7 +2,7 @@
 title: Keycards
 description: all keycards from game
 published: true
-date: 2023-10-17T19:02:21.745Z
+date: 2023-10-17T19:10:40.447Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -18,16 +18,16 @@ dateCreated: 2023-10-14T17:59:30.191Z
  ⠀
 **Detailed description**:Keycards are a major and necessary element of the game, as being the only item in-game that can open doors with a keycard slot. Keycards can be found in various places. There are six keycard levels, from 1 to 5 including Omni.
 ###### LEVEL 1 KEYCARD
-![keycard1.png](/images/items/keycard1.png){.align-left}
-The level 1 keycard is the lowest level card. **It can open** the first door to the small testing chamber
-**The keycard can be found in:**
-- The storeroom.
-- A storage room affected by SCP-970.
-- The 2-level office, next to a computer.
+![keycard1.png](/images/items/keycard1.png){.align-left}**Name**: `Level 1 keycard`
+**Category**: `Items`
+**Location**: `The storeroom;SCP-970 Room;2-level office next to a computer.`
 
+The level 1 keycard is the lowest level card. **It can open** the first door to the small testing chamber
 **The keycard can also be created by putting** a quarter into SCP-914 on the "Fine" setting.
 ###### LEVEL 2 KEYCARD
-![keycard2.png](/images/items/keycard2.png){.align-left}**Level 2 keycards can be used to open the doors** to SCP-895's  chamber and SCP-914's chamber.
+![keycard2.png](/images/items/keycard2.png){.align-left}**Name**: `Level 2 keycard`
+**Category**: `Items`
+**Location**: `.`**Level 2 keycards can be used to open the doors** to SCP-895's  chamber and SCP-914's chamber.
 **The keycard can be found in:**
 - The basic office.
 - The small testing room.
