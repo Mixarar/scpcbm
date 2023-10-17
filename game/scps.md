@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-17T16:30:02.828Z
+date: 2023-10-17T16:34:07.000Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -22,3 +22,4 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 - [SCP-106 *The old man.* ](/en/game/scps/106)
 {.links-list}
 - [SCP-966 *The sleep killers.*](/en/game/scps/966)
+{.links-list}
