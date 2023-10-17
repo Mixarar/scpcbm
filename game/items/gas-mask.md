@@ -2,7 +2,7 @@
 title: Gas Mask
 description: Explains the Gas Mask and its many variants what they are supposed to do in the game.
 published: true
-date: 2023-10-17T18:13:54.252Z
+date: 2023-10-17T18:14:26.367Z
 tags: item, gas mask, equippable
 editor: markdown
 dateCreated: 2023-10-14T16:12:32.142Z
@@ -20,7 +20,7 @@ your vision.
 ⠀
 ⠀
 ⠀
-
+⠀
 ## Super Gas Mask
 ![gasmask.super.wiki.fixed.png](/images/items/gasmask.super.wiki.fixed.png){.align-left}**Name**: `Super Gas Mask`
 **Category**: `EQUIPPABLE`
