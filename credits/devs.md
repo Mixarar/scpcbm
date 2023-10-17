@@ -2,7 +2,7 @@
 title: Developers
 description: guys who creating game
 published: true
-date: 2023-10-17T15:06:34.092Z
+date: 2023-10-17T15:08:29.185Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
@@ -42,7 +42,7 @@ dateCreated: 2023-10-15T11:52:10.637Z
 
 *Developers:* **Anders**
 ⠀⠀⠀⠀⠀⠀⠀⠀**Deepfried Chips**
-⠀⠀⠀⠀⠀⠀⠀⠀**Mixarar**
+⠀ ⠀⠀⠀⠀⠀⠀⠀**Mixarar**
 *Game Designer:* **XtrithX**
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Dailuz24**
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**ItzSlain**
