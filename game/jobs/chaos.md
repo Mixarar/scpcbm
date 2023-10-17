@@ -2,7 +2,7 @@
 title: Chaos Insurgency
 description: Chaos lore and use in the game.
 published: true
-date: 2023-10-15T15:24:52.858Z
+date: 2023-10-17T16:45:03.284Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:37:53.990Z
@@ -31,6 +31,4 @@ In the midst of chaos, communication is paramount. Thus, each Chaos Soldier carr
 
 The lore of the Chaos Insurgency is one of rebellion, of individuals who have looked into the abyss and chosen to wield its power. It is a story of those who have turned their back on the Foundation, seeking to rewrite the rules of this enigmatic universe. In the end, whether they are agents of anarchy or harbingers of change, the Chaos Soldiers are a force that cannot be ignored. They are the embodiment of chaos, a living, breathing testament to the unpredictability of the SCP universe.
 ## In Game
-The Chaos Soldiers spawn In surface Level of GATE-A their mission is to Kill every Scientist and Guards!  their Biggest nemesis is the NTF units, The must Kill everyone except the Inmates inside the facility! (please Know that u can Handcuff Scientists and janitors and make them an Chaos soldier
-
-You can avoid SCPS Reason Because Youre Not a Target, This doesnt mean You dont Have to shoot.
+Chaos Soldiers Spawn IN Surface zone Of "GATE-A" Their Soul porpuse is to Escort Class-D personal out And take over the Facility, CHAOS Soldiers Are not Targets For the SCPS, You need to take down any Foundation Civilians and Militias Such as, NINE TAILED FOX, SCIENTIST, JANITORS, SECURITY GUARDS.
