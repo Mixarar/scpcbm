@@ -2,7 +2,7 @@
 title: Developers
 description: Fusion Creators Studio Team
 published: true
-date: 2023-10-17T15:10:06.900Z
+date: 2023-10-17T15:22:01.619Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
@@ -38,8 +38,29 @@ dateCreated: 2023-10-15T11:52:10.637Z
 - **Vin** *(@vin_oficial)*
 
 ## <font color="#ceb120">GAME CREDITS</font>
-*Lead Developer:* **ItsXandromeda**
-
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Линия слева от текста</title>
+  <style>
+   .callout { 
+    border-left: 4px solid red; /* Параметры линии */ 
+    padding: 10px; /* Расстояние от линии до текста */
+		background: black;
+   }
+   .info { border-color: black; background: #dff0d8; }
+   .alert { border-color: red; background: #f2dede; }
+   .warning { border-color: orange; background: #fcf8e3; }
+  </style> 
+ </head> 
+ <body> 
+  <p class="callout">Просто текст с линией</p>
+  <p class="callout info">Всё в порядке, просто сообщаем об этом</p>
+  <p class="callout warning">Кажется, что-то пошло не так</p>
+  <p class="callout alert">Ой-ой, всё плохо!</p>
+ </body>
+</html>
 *Developers:* **Anders**
 ⠀⠀⠀⠀⠀⠀⠀⠀**Deepfried Chips**
 ⠀ ⠀⠀⠀⠀⠀⠀⠀**Mixarar**
