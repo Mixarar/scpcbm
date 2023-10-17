@@ -2,7 +2,7 @@
 title: First Aid Kit
 description: Explains the First Aid Kit and its many variants what they are supposed to do in the game.
 published: true
-date: 2023-10-15T15:28:18.168Z
+date: 2023-10-17T18:30:42.467Z
 tags: first aid kit, medkit, consumable, healing, heal
 editor: markdown
 dateCreated: 2023-10-15T12:54:14.275Z
@@ -36,7 +36,7 @@ of stopping the bleeding depending on how severe the injury is.
 ⠀
 ⠀
 ⠀
-## Small First Aid Kit
+## Blue First Aid Kit
 ![firstaid.blue.wiki.png](/images/items/firstaid.blue.wiki.png){.align-left}**Name**: `Blue First Aid Kit`
 **Category**: `CONSUMABLE`
 The blue first aid kit item that is exclusive to SCP 914. It can be crafted in 914 by putting a regular 
