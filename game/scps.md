@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-18T03:42:39.194Z
+date: 2023-10-18T03:57:13.463Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -36,4 +36,6 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 - [SCP-079 *The PC.*](/en/game/scps/079)
 {.links-list}
 - [SCP-205 *The Lamp.*](/en/game/scps/205)
+{.links-list}
+- [SCP-294 *The The Coffee Machine.*](/en/game/scps/294)
 {.links-list}
