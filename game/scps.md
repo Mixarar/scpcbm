@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-18T16:47:29.991Z
+date: 2023-10-18T16:53:28.237Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -25,7 +25,7 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 {.links-list}
 - [:nauseated_face:SCP-372 *The Peripheral Jumper.*](/en/game/scps/372)
 {.links-list}
-- [:knot:SCP-066 *Erics Toy.*](/en/game/scps/066)
+- [SCP-066 *Erics Toy.*](/en/game/scps/066)
 {.links-list}
 - [SCP-106 *The old man.* ](/en/game/scps/106)
 {.links-list}
@@ -70,4 +70,3 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 
 ~ made by Zav
 ~ Edited by Griefer
-:microbe:
