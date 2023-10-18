@@ -2,7 +2,7 @@
 title: Keycards
 description: All levels keycards
 published: true
-date: 2023-10-18T09:11:09.990Z
+date: 2023-10-18T14:18:36.925Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -30,6 +30,7 @@ dateCreated: 2023-10-14T17:59:30.191Z
 **Level 2 keycards can be used to open the doors:** *to SCP-895's  chamber and SCP-914's chamber.*
 
 **The Keycard can be created** *using SCP-914 by putting a level 1 keycard in it on the "Fine" setting, or a master card or quarter on the "Very Fine" setting.*
+
 ###### <font color="#985901">LEVEL</font> <font color="#9a9a9a">3</font> <font color="#985901">KEYCARD</font>
 ![keycard3.png](/images/items/key3.png =175x){.align-left}**Name**: `Level 3 keycard`
 **Location**: `SCP-895'S chamber.`
