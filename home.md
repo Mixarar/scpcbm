@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-18T15:39:34.481Z
+date: 2023-10-18T15:52:25.462Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -37,7 +37,7 @@ Wiki about the game itself, everything you might want to check out.
 {.links-list}
 
 ## Breach Mode/Multiplayer
-
+- [:construction_worker: Weapons *Most Weapons from multiplayer and SCP-914 Crafts.*](/en/game/weapons)
 - [:construction_worker: Roles *People's jobs, playable SCPs and everything about them.*](/en/game/jobs)
 {.links-list}
 
