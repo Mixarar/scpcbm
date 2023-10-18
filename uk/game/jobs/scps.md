@@ -2,7 +2,7 @@
 title: SCP
 description: Знання SCP і використання в грі.
 published: true
-date: 2023-10-15T17:34:47.614Z
+date: 2023-10-15T17:34:52.563Z
 tags: ua, scps
 editor: markdown
 dateCreated: 2023-10-15T17:34:47.614Z

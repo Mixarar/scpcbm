@@ -2,7 +2,7 @@
 title: Аптечка
 description: 
 published: true
-date: 2023-10-15T14:36:52.807Z
+date: 2023-10-15T14:36:57.503Z
 tags: game, item, ua, medkit
 editor: markdown
 dateCreated: 2023-10-15T14:36:52.807Z

@@ -2,7 +2,7 @@
 title: Requisitos
 description: Página sobre os requisitos de sistema
 published: true
-date: 2023-10-15T17:01:41.222Z
+date: 2023-10-15T17:01:45.762Z
 tags: pt-br, install
 editor: markdown
 dateCreated: 2023-10-15T17:01:02.347Z

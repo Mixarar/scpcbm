@@ -2,7 +2,7 @@
 title: Хаос
 description: Знання хаосу та використання в грі.
 published: true
-date: 2023-10-15T17:29:35.188Z
+date: 2023-10-15T17:29:39.905Z
 tags: game, ua
 editor: markdown
 dateCreated: 2023-10-15T17:29:35.188Z

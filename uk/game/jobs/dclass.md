@@ -2,7 +2,7 @@
 title: D-клас
 description: Пояснює знання класу D і те, що вони повинні робити в грі.
 published: true
-date: 2023-10-15T17:13:22.547Z
+date: 2023-10-15T17:13:27.153Z
 tags: ua
 editor: markdown
 dateCreated: 2023-10-15T17:13:22.547Z

@@ -2,7 +2,7 @@
 title: Команда разработчиков
 description: Люди, создающие игру
 published: true
-date: 2023-10-15T14:43:52.402Z
+date: 2023-10-18T07:21:07.251Z
 tags: ru, игра, благодарность, разработчики
 editor: markdown
 dateCreated: 2023-10-15T14:12:32.990Z
@@ -12,15 +12,15 @@ dateCreated: 2023-10-15T14:12:32.990Z
 {.links-list}
 
 # Команда разработчиков
-## Ведущий разработчик
+## <font color="#3498db">Ведущий разработчик</font>
 - **Xandromeda** *(@itsxandromeda)*
-## Комьюнити-менеджер 
+## <font color="#256dff">Комьюнити-менеджер</font>
 - **Anders** *(@anders_25706)*
 - **Deepfried Chips** *(@chipsproto)*
 - **itzslain**
-## Руководитель проекта
+## <font color="#6c5dff">Руководитель проекта</font>
 - **Saitama** *(@skaneprime)*
-## Основной разработчик
+## <font color="#1c61f3">Основной разработчик</font>
 - **Anders** *(@anders_25706)*
 - **GrOm_Amg**
 - **lanylow**
@@ -28,12 +28,12 @@ dateCreated: 2023-10-15T14:12:32.990Z
 - **thelifeworm**
 - **Wendy's** *(@wendys.com)*
 - **Xandromeda** *(@itsxadromeda)*
-## Сетевой инженер
+## <font color="#206694">Сетевой инженер</font>
 - **Deepfried Chips** *(@chipsproto)*
 - **Recon Cuddly** *(@penguinehis)*
-## Игровой дизайнер
+## <font color="#006dff">Игровой дизайнер</font>
 - **Dailuz24**
 - **itzslain**
 - **XtrithX**
-## Художник-постановщик
+## <font color="#a940f2">Художник-постановщик</font>
 - **Vin** *(@vin_oficial)*

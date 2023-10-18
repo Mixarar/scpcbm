@@ -2,7 +2,7 @@
 title: Requirements
 description: Page about requirements
 published: true
-date: 2023-10-15T14:14:13.435Z
+date: 2023-10-15T14:14:17.971Z
 tags: en, install
 editor: markdown
 dateCreated: 2023-10-08T21:22:59.565Z

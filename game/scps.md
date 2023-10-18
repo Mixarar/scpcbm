@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-18T05:53:56.584Z
+date: 2023-10-18T13:15:09.381Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -53,3 +53,20 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 {.links-list} 
 - [SCP-1025 *Encyclopedia of Diseases.*](/en/game/scps/1025)
 {.links-list} 
+- [SCP-1048 *Builder bear.*](/en/game/scps/1048)
+{.links-list}
+- [SCP-1123 *Atrocity Skul*](/en/game/scps/1123)
+{.links-list} 
+- [SCP-1162 *Hole to another place.*](/en/game/scps/1162)
+{.links-list} 
+- [SCP-1499 *The Gasmask*](/en/game/scps/1499)
+{.links-list} 
+- [SCP-420-J *weed*](/en/game/scps/420-j)
+{.links-list} 
+- [SCP-DUCKs *Duckies*](/en/game/scps/ducks)
+{.links-list}
+- [SCP-682 *The Hard to Destroy Reptile*](/en/game/scps/682)
+{.links-list}
+
+~ made by Zav
+~ Edited by Griefer

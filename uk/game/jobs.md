@@ -2,7 +2,7 @@
 title: Ролі
 description: Ця сторінка пояснює типи команд, з якими ви можете бути/зустрічатися протягом гри.
 published: true
-date: 2023-10-17T19:08:59.259Z
+date: 2023-10-17T19:09:03.876Z
 tags: ua, scps
 editor: markdown
 dateCreated: 2023-10-15T17:07:35.921Z

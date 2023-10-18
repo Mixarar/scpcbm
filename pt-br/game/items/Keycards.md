@@ -2,7 +2,7 @@
 title: Cartões de Acesso
 description: Todos os Cartões de Acesso do jogo
 published: true
-date: 2023-10-17T20:55:12.299Z
+date: 2023-10-17T20:55:17.122Z
 tags: game, item, pt-br, keycard
 editor: markdown
 dateCreated: 2023-10-17T20:55:12.299Z

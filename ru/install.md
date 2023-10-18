@@ -2,7 +2,7 @@
 title: Гайд по установке
 description: 
 published: true
-date: 2023-10-15T14:57:01.779Z
+date: 2023-10-15T14:57:06.530Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:48:21.528Z

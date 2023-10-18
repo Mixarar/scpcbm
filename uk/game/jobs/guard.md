@@ -2,7 +2,7 @@
 title: Охоронець
 description: Охоронні знання та використання в грі.
 published: true
-date: 2023-10-15T17:18:49.589Z
+date: 2023-10-15T17:18:54.179Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T17:18:49.589Z

@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-17T15:45:41.676Z
+date: 2023-10-18T11:57:15.177Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -51,4 +51,7 @@ Everything that hosters might need for their server.
 # Credits
 - [:man_teacher:Developers*People from Fusion Creators Studio*](/en/credits/devs)
 {.links-list}
-- [:man_office_worker:Wiki-Editors*People that making Wiki*](/en/credits/edits)
+- [:man_office_worker:Wiki-Contributors*People that making Wiki*](/en/credits/edits)
+{.links-list}
+- [:man_technologist: Beta-Testers*People that testing game*](/en/credits/testers)
+{.links-list}

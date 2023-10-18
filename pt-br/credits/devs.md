@@ -2,7 +2,7 @@
 title: Desenvolvedores
 description: Lista dos criadores do jogo
 published: true
-date: 2023-10-15T17:23:45.747Z
+date: 2023-10-15T17:23:50.562Z
 tags: game, pt-br, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T17:22:26.128Z

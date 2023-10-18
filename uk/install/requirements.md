@@ -2,7 +2,7 @@
 title: Системні вимоги
 description: 
 published: true
-date: 2023-10-15T14:26:16.566Z
+date: 2023-10-15T14:26:21.385Z
 tags: ua
 editor: markdown
 dateCreated: 2023-10-14T15:39:54.110Z

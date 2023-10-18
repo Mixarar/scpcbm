@@ -2,8 +2,8 @@
 title: Гра
 description: Загальна інформація про гру.
 published: true
-date: 2023-10-17T15:12:08.164Z
-tags: game, info, ua
+date: 2023-10-17T15:12:12.900Z
+tags: ua, game, info
 editor: markdown
 dateCreated: 2023-10-17T15:11:33.572Z
 ---

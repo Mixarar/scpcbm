@@ -2,7 +2,7 @@
 title: Вікі-редактори
 description: Люди, які створювали цю вікі.
 published: true
-date: 2023-10-17T17:17:40.293Z
+date: 2023-10-17T17:17:45.081Z
 tags: ua, wikiedtior
 editor: markdown
 dateCreated: 2023-10-16T18:07:13.031Z

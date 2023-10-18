@@ -2,7 +2,7 @@
 title: Вчені
 description: Наукові знання та використання в грі.
 published: true
-date: 2023-10-15T17:27:15.712Z
+date: 2023-10-15T17:27:20.323Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T17:16:55.839Z

@@ -2,7 +2,7 @@
 title: Кімнати
 description: 
 published: true
-date: 2023-10-15T14:05:18.575Z
+date: 2023-10-15T14:06:59.479Z
 tags: game, ua, room
 editor: markdown
 dateCreated: 2023-10-15T09:31:15.120Z

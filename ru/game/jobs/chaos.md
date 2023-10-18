@@ -2,7 +2,7 @@
 title: Повстанцы Хаоса
 description: Объяснение лора повстанцев хаоса и их предназначение.
 published: true
-date: 2023-10-15T19:09:40.418Z
+date: 2023-10-15T19:09:44.985Z
 tags: ru, хаос
 editor: markdown
 dateCreated: 2023-10-14T18:14:16.647Z

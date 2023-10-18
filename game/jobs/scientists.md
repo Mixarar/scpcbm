@@ -2,7 +2,7 @@
 title: Scientist
 description: Scientist lore and use in the game.
 published: true
-date: 2023-10-15T15:20:19.456Z
+date: 2023-10-18T10:44:24.586Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:27:58.154Z
@@ -11,7 +11,7 @@ dateCreated: 2023-10-08T23:27:58.154Z
 - [:arrow_backward: Back *Go back to the roles homepage.*](/en/game/jobs#roles)
 {.links-list}
 # Scientist
-![scientist.png](/images/roles/scientist.png)
+![scientist.png](/images/roles/scientist.png){.align-left}
 **Name**: `Scientist`
 **Category**: `SCP Foundation`
 **Health**: `100`

@@ -2,7 +2,7 @@
 title: Посібник з Markdown
 description: Вичерпний посібник із Markdown, який підтримується на нашій вікі.
 published: true
-date: 2023-10-17T15:03:38.898Z
+date: 2023-10-17T15:03:44.418Z
 tags: ua
 editor: markdown
 dateCreated: 2023-10-17T15:03:38.898Z
