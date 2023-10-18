@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-18T13:15:09.381Z
+date: 2023-10-18T14:37:35.187Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -55,7 +55,7 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 {.links-list} 
 - [SCP-1048 *Builder bear.*](/en/game/scps/1048)
 {.links-list}
-- [SCP-1123 *Atrocity Skul*](/en/game/scps/1123)
+- [SCP-1123 *Atrocity Skull*](/en/game/scps/1123)
 {.links-list} 
 - [SCP-1162 *Hole to another place.*](/en/game/scps/1162)
 {.links-list} 
