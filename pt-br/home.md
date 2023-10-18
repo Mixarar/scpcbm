@@ -2,7 +2,7 @@
 title: Início
 description: Página inicial da wiki
 published: true
-date: 2023-10-18T16:49:36.885Z
+date: 2023-10-18T16:51:58.713Z
 tags: home, inicio, pt-br
 editor: markdown
 dateCreated: 2023-10-08T16:42:29.437Z
@@ -52,3 +52,6 @@ Tudo que os donos de servidores podem precisar.
 - [:man_teacher:Desenvolvedores*Pessoas do Fusion Creators Studio*](/credits/devs)
 {.links-list}
 - [:man_office_worker:Editores da Wiki*Pessoas que trabalharam na Wiki*](/credits/edits)
+{.links-list}
+- [:man_technologist: Testadores Beta*Pessoas que estão testando o jogo*](/credits/testers)
+{.links-list}
