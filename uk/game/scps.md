@@ -2,7 +2,7 @@
 title: Список SCP
 description: 
 published: true
-date: 2023-10-18T05:22:19.646Z
+date: 2023-10-18T05:23:40.495Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T09:49:17.485Z
@@ -37,4 +37,10 @@ dateCreated: 2023-10-15T09:49:17.485Z
 - [SCP-205 *Лампа.*](/en/game/scps/205)
 {.links-list}
 - [SCP-294 *Кавоварка.*](/en/game/scps/294)
+{.links-list}
+- [SCP-372 *Периферійний перемикач.*](/uk/game/scps/372)
+{.links-list}
+- [SCP-427 *Медальйон Лавкрафта*](/uk/game/scps/427)
+{.links-list}
+- [SCP-500 *Панацея.*](/uk/game/scps/500)
 {.links-list}
