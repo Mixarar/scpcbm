@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-18T05:12:19.356Z
+date: 2023-10-18T05:13:56.787Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -41,5 +41,5 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 {.links-list}
 - [SCP-372 *The Peripheral Jumper.*](/en/game/scps/372)
 {.links-list}
-- [SCP-427](/en/game/scps/427)
+- [SCP-427  *The Lovecraftian Locket*](/en/game/scps/427)
 {.links-list}
