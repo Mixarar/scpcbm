@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-18T15:53:13.939Z
+date: 2023-10-18T15:56:38.673Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -32,12 +32,12 @@ Wiki about the game itself, everything you might want to check out.
 ## Single Player/Co-op
 - [:wrench: Game Mechanics *All about most game mechanics.*](/en/game/mechanics)
 - [:pizza: Items *All of the game items catalogued in here.*](/en/game/items)
-- [:warning: SCPs *Everything known about SCPs*](/en/game/scps)
+- [:warning: SCPs *Everything known about SCP's.*](/en/game/scps)
 - [:door: Rooms *Just about rooms and locations.*](/en/game/rooms)
 {.links-list}
 
 ## Breach Mode/Multiplayer
-- [:gun:Weapons *Most Weapons from multiplayer and SCP-914 Crafts.*](/en/game/weapons)
+- [:gun:Weapons *All about most weapons in game.*](/en/game/weapons)
 - [:construction_worker: Roles *People's jobs, playable SCPs and everything about them.*](/en/game/jobs)
 {.links-list}
 
