@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-18T05:48:39.437Z
+date: 2023-10-18T05:53:56.584Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -50,4 +50,6 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 - [SCP-939 *With many voices*](/en/game/scps/939)
 {.links-list} 
 - [SCP-970 *The end never ends*](/en/game/scps/970)
+{.links-list} 
+- [SCP-1025 *Encyclopedia of Diseases.*](/en/game/scps/1025)
 {.links-list} 
