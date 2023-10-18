@@ -2,7 +2,7 @@
 title: Домашня сторінка
 description: Домашня сторінка вікі
 published: true
-date: 2023-10-18T16:45:28.039Z
+date: 2023-10-18T16:48:14.089Z
 tags: home, ua
 editor: markdown
 dateCreated: 2023-10-14T15:04:57.448Z
@@ -33,14 +33,14 @@ dateCreated: 2023-10-14T15:04:57.448Z
 
 Тут знаходится уся інформація про фонд SCP! 
 Починаючи від кожної кімнати до повних описів всіх SCP об'єктів
-- [:wrench: Game Mechanics *All about most game mechanics.*](/en/game/mechanics)
+- [:wrench: Ігрова механіка *Все про більшість ігрових механік.*](/uk/game/mechanics)
 - [:pizza: Предмети *Тут зібрана вся інформація про предмети*](/uk/game/items)
 - [:door: Локації *Тут зібрана вся інформація про локацію фонду*](/uk/game/rooms)
 - [:warning: Об'єкти SCP *Тут зібрана вся інформація про об'єкти, що знаходяться у фонді*](/uk/game/scps)
 {.links-list}
 
 ## Breach Mode/Multiplayer
-- [:gun:Weapons *All about most weapons in game.*](/uk/game/weapons)
+- [:gun: Зброя *Все про більшість видів зброї в грі.*](/uk/game/weapons)
 - [:construction_worker: Ролі *Тут зібрана вся інформація про ролі у фонді*](/uk/game/jobs)
 {.links-list}
 
