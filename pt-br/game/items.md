@@ -2,13 +2,13 @@
 title: Itens
 description: Lista de itens
 published: true
-date: 2023-10-17T21:13:01.573Z
+date: 2023-10-18T16:50:14.049Z
 tags: game, item, pt-br
 editor: markdown
 dateCreated: 2023-10-15T20:11:11.564Z
 ---
 
-- [:arrow_backward: Voltar *Voltar para a página inicial.*](/home#single-playerco-op)
+- [:arrow_backward: Voltar *Voltar para a página inicial.*](/home#single-playercooperativo)
 {.links-list}
 # Itens
 Em SCP: Containment Breach Multiplayer, existem diferentes tipos de itens que você pode criar/encontrar no jogo. Nesta página, você encontrará links para cada item, e poderá ver o que cada um deles faz.
