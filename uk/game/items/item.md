@@ -2,13 +2,13 @@
 title: Ключ-карти
 description: 
 published: true
-date: 2023-10-18T19:50:16.096Z
+date: 2023-10-18T19:50:48.668Z
 tags: item, ua, keycard
 editor: markdown
 dateCreated: 2023-10-15T10:23:17.510Z
 ---
 
-- [:arrow_backward: Назад *Повернутися на сторінку предметів.](/en/game/items#items)
+- [:arrow_backward: Назад *Повернутися на сторінку предметів.](/uk/game/items#items)
 
 {.links-list}
 # Ключ-карти
