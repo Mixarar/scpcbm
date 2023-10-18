@@ -2,12 +2,14 @@
 title: Weapons
 description: All weapons and their characheristics
 published: true
-date: 2023-10-18T20:17:24.765Z
+date: 2023-10-18T20:18:34.752Z
 tags: en, game, weapon, multiplayer, breach
 editor: markdown
 dateCreated: 2023-10-18T20:16:48.515Z
 ---
 
+- [:arrow_backward: Back *Go back to the weapons page.*](/en/game/weapons#weapons)
+{.links-list}
 # Weapons and Characheristics.
 <details>
 
