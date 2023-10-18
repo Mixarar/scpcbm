@@ -2,7 +2,7 @@
 title: Список SCP
 description: 
 published: true
-date: 2023-10-18T04:43:11.015Z
+date: 2023-10-18T04:51:16.358Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T09:49:17.485Z
@@ -21,4 +21,20 @@ dateCreated: 2023-10-15T09:49:17.485Z
 - [SCP-106 *Старий.* ](/uk/game/scp106)
 {.links-list}
 - [SCP-966 *Вбивця сну.* ](/uk/game/scp966)
+{.links-list}
+- [SCP-914 *Годинниковий механізм.* ](/uk/game/scp914)
+{.links-list}
+- [SCP-035 *Комедійна маска.*](/uk/game/scps/035)
+{.links-list}
+- [SCP-012 *Музична нота*.](/uk/game/scps/012)
+{.links-list}
+- [SCP-066 *Іграшка Erics.*](/en/game/scps/066)
+{.links-list}
+- [SCP-008 *Зомбі-вірус*](/en/game/scps/008)
+{.links-list}
+- [SCP-079 *ПК.*](/en/game/scps/079)
+{.links-list}
+- [SCP-205 *Лампа.*](/en/game/scps/205)
+{.links-list}
+- [SCP-294 *The Coffee Machine.*](/en/game/scps/294)
 {.links-list}
