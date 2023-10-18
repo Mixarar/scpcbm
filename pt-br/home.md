@@ -2,7 +2,7 @@
 title: Início
 description: Página inicial da wiki
 published: true
-date: 2023-10-15T20:16:12.974Z
+date: 2023-10-18T16:49:36.885Z
 tags: home, inicio, pt-br
 editor: markdown
 dateCreated: 2023-10-08T16:42:29.437Z
@@ -28,8 +28,8 @@ Informações sobre o jogo em si, tudo que você pode querer saber.
 - [:books: História *A história do jogo. O que, onde, como e porque.*](/game/plot)
 {.links-list}
 
-## Single Player/Co-op
-
+## Single Player/Cooperativo
+- [:wrench: Mecânicas do Jogo *Tudo sobre a maioria das mecânicas do jogo.*](/game/mechanics)
 - [:pizza: Itens *Todos os itens do jogo estão catalogados aqui.*](/game/items)
 - [:warning: SCPs *Tudo que sabemos sobre os SCPs*](/game/scps)
 - [:door: Salas *Informações sobre as salas e localizações.*](/game/rooms)
@@ -37,7 +37,7 @@ Informações sobre o jogo em si, tudo que você pode querer saber.
 
 
 ## Modo Breach/Multijogador
-
+- [:gun:Armas *Tudo sobre a maioria das armas do jogo.*](/game/weapons)
 - [:construction_worker: Cargos *Os trabalhos das pessoas, os SCPs jogáveis e tudo sobre eles.*](/game/jobs)
 {.links-list}
 
