@@ -2,7 +2,7 @@
 title: Cartões de Acesso
 description: Todos os Cartões de Acesso do jogo
 published: true
-date: 2023-10-17T20:55:17.122Z
+date: 2023-10-18T16:39:13.252Z
 tags: game, item, pt-br, keycard
 editor: markdown
 dateCreated: 2023-10-17T20:55:12.299Z
@@ -26,12 +26,12 @@ dateCreated: 2023-10-17T20:55:12.299Z
 O cartão de acesso de nível 1 é o de menor nível. **Ele pode abrir:** *a primeira porta que leva à câmara de teste leve*
 
 **Este cartão também pode ser criado ao colocar** uma moeda no SCP-914 na configuração "Fino".
-###### LEVEL 2 KEYCARD
-![keycard2.png](/images/items/keycard2.png){.align-left}**Name**: `Level 2 keycard`
-**Location**: `The basic office;The small testing chamber.`
-**Level 2 keycards can be used to open the doors:** *to SCP-895's  chamber and SCP-914's chamber.*
+###### CARTÃO DE ACESSO NÍVEL 2
+![keycard2.png](/images/items/keycard2.png){.align-left}**Name**: `Cartão de Acesso Nível 2`
+**Localização**: `O escritório básico; A câmara de teste leve.`
+**Cartões de Acesso Nível 2 podem ser usados para abrir as portas:** *da câmara do SCP-895 e da câmarada do SCP-914.*
 
-**The keycard can also be created** using SCP-914 by putting a level 1 keycard in it on the "Fine" setting, or a master card or quarter on the "Very Fine" setting.
+**Este cartão também pode ser criado** usando o SCP-914 e colocando um cartão de acesso nível 1 nele na configuração "Fino" ou ao colocoar um MasterCard ou uma moeda na configuração "Muito Fino".
 ###### LEVEL 3 KEYCARD
 ![keycard3.png](/images/items/keycard3.png){.align-left}**Name**: `Level 3 keycard`
 **Location**: `SCP-895'S chamber.`
