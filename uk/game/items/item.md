@@ -2,13 +2,15 @@
 title: Ключ-карти
 description: 
 published: true
-date: 2023-10-15T10:39:20.358Z
+date: 2023-10-18T19:50:16.096Z
 tags: item, ua, keycard
 editor: markdown
 dateCreated: 2023-10-15T10:23:17.510Z
 ---
 
+- [:arrow_backward: Назад *Повернутися на сторінку предметів.](/en/game/items#items)
 
+{.links-list}
 # Ключ-карти
 ![all_keycards.png](/images/items/all_keycards.png){.align-left}**Назва**: `Ключі`
 **Категорія**: `Елементи`
@@ -31,7 +33,7 @@ dateCreated: 2023-10-15T10:23:17.510Z
 
 **Картку-ключ також можна створити** за допомогою SCP-914, помістивши в неї картку-ключ 1 рівня з налаштуванням «Добре» або головну картку чи квартал із налаштуванням «Дуже добре».
 ###### КАРТА-КЛЮЧ 3 РІВНЯ
-**Картки-ключі 3-го рівня можна використовувати для відкриття:**![keycard3.png](/images/items/keycard3.png){.align-right}
+**Картки-ключі 3-го рівня можна використовувати для відкриття:**![keycard3.png](/images/items/key3.png =175x){.align-left}
 
 - Головні двері в камеру SCP-012.
 - Камера SCP-079.
