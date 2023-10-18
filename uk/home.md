@@ -2,7 +2,7 @@
 title: Домашня сторінка
 description: Домашня сторінка вікі
 published: true
-date: 2023-10-18T16:48:14.089Z
+date: 2023-10-18T16:50:21.933Z
 tags: home, ua
 editor: markdown
 dateCreated: 2023-10-14T15:04:57.448Z
