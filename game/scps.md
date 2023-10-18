@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-18T16:29:35.719Z
+date: 2023-10-18T16:47:29.991Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -15,17 +15,17 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 
 - [:peanuts:SCP-173 *The Sculpture.* ](/en/game/scps/173)
 {.links-list}
-- [SCP-049 *The Plague Doctor.* ](/en/game/scps/049)
+- [:dove:SCP-049 *The Plague Doctor.* ](/en/game/scps/049)
 {.links-list}
-- [SCP-096 *The Shy-Guy.* ](/en/game/scps/096)
+- [:sob: SCP-096 *The Shy-Guy.* ](/en/game/scps/096)
 {.links-list}
-- [SCP-079 *The PC.*](/en/game/scps/079)
+- [:desktop_computer: SCP-079 *The PC.*](/en/game/scps/079)
 {.links-list}
-- [SCP-966 *The sleep killers.*](/en/game/scps/966)
+- [:alien:SCP-966 *The sleep killers.*](/en/game/scps/966)
 {.links-list}
-- [SCP-372 *The Peripheral Jumper.*](/en/game/scps/372)
+- [:nauseated_face:SCP-372 *The Peripheral Jumper.*](/en/game/scps/372)
 {.links-list}
-- [SCP-066 *Erics Toy.*](/en/game/scps/066)
+- [:knot:SCP-066 *Erics Toy.*](/en/game/scps/066)
 {.links-list}
 - [SCP-106 *The old man.* ](/en/game/scps/106)
 {.links-list}
@@ -45,7 +45,7 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 {.links-list}
 - [SCP-012 *The musical note*.](/en/game/scps/012)
 {.links-list}
-- [SCP-420-J *weed*](/en/game/scps/420-j)
+- [🚬SCP-420-J *weed*](/en/game/scps/420-j)
 {.links-list}
 - [SCP-1499 *The Gasmask*](/en/game/scps/1499)
 {.links-list} 
@@ -70,3 +70,4 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 
 ~ made by Zav
 ~ Edited by Griefer
+:microbe:
