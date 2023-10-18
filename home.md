@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-18T11:57:15.177Z
+date: 2023-10-18T15:38:57.564Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -30,7 +30,7 @@ Wiki about the game itself, everything you might want to check out.
 {.links-list}
 
 ## Single Player/Co-op
-
+- [:wrench: Game Mechanics *All about most game mechanics.*](/en/game/items)
 - [:pizza: Items *All of the game items catalogued in here.*](/en/game/items)
 - [:warning: SCPs *Everything known about SCPs*](/en/game/scps)
 - [:door: Rooms *Just about rooms and locations.*](/en/game/rooms)
