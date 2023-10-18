@@ -2,7 +2,7 @@
 title: Домашня сторінка
 description: Домашня сторінка вікі
 published: true
-date: 2023-10-18T16:50:21.933Z
+date: 2023-10-18T16:58:58.824Z
 tags: home, ua
 editor: markdown
 dateCreated: 2023-10-14T15:04:57.448Z
@@ -39,7 +39,7 @@ dateCreated: 2023-10-14T15:04:57.448Z
 - [:warning: Об'єкти SCP *Тут зібрана вся інформація про об'єкти, що знаходяться у фонді*](/uk/game/scps)
 {.links-list}
 
-## Breach Mode/Multiplayer
+## Режим Порушення/Мультіплеєр
 - [:gun: Зброя *Все про більшість видів зброї в грі.*](/uk/game/weapons)
 - [:construction_worker: Ролі *Тут зібрана вся інформація про ролі у фонді*](/uk/game/jobs)
 {.links-list}
