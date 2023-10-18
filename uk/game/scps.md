@@ -2,7 +2,7 @@
 title: Список SCP
 description: 
 published: true
-date: 2023-10-18T04:51:16.358Z
+date: 2023-10-18T05:22:19.646Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T09:49:17.485Z
@@ -36,5 +36,5 @@ dateCreated: 2023-10-15T09:49:17.485Z
 {.links-list}
 - [SCP-205 *Лампа.*](/en/game/scps/205)
 {.links-list}
-- [SCP-294 *The Coffee Machine.*](/en/game/scps/294)
+- [SCP-294 *Кавоварка.*](/en/game/scps/294)
 {.links-list}
