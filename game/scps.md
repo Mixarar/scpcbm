@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-18T03:15:49.421Z
+date: 2023-10-18T03:17:05.093Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -29,5 +29,5 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 {.links-list}
 - [SCP-012 *The musical note*.](/en/game/scps/012)
 {.links-list}
-- [SCP-008 *Erics Toy.*](/en/game/scps/008)
+- [SCP-066 *Erics Toy.*](/en/game/scps/066)
 {.links-list}
