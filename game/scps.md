@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-18T02:55:14.885Z
+date: 2023-10-18T03:06:20.067Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
