@@ -2,7 +2,7 @@
 title: Список SCP
 description: 
 published: true
-date: 2023-10-15T16:57:54.545Z
+date: 2023-10-18T04:43:11.015Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T09:49:17.485Z
@@ -19,4 +19,6 @@ dateCreated: 2023-10-15T09:49:17.485Z
 - [SCP-049 *Чумний лікар.* ](/uk/game/scp049)
 {.links-list}
 - [SCP-106 *Старий.* ](/uk/game/scp106)
+{.links-list}
+- [SCP-966 *Вбивця сну.* ](/uk/game/scp966)
 {.links-list}
