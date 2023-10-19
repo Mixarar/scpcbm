@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-19T07:30:08.553Z
+date: 2023-10-19T07:30:46.081Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -47,7 +47,6 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 - [SCP-205 *The Lamp.*](/en/game/scps/205)
 - [SCP-008 *Zombie virus*](/en/game/scps/008)
 - [SCP-1123 *Atrocity Skull*](/en/game/scps/1123)
-- [SCP-500 *The Panacea.*](/en/game/scps/500)
 - [SCP-420-J *weed*](/en/game/scps/420-j)
 - [SCP-012 *The musical note*.](/en/game/scps/012)
 - [SCP-427  *The Lovecraftian Locket*](/en/game/scps/427)
