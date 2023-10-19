@@ -2,13 +2,13 @@
 title: wallet 
 description: inventory
 published: true
-date: 2023-10-19T12:56:01.104Z
+date: 2023-10-19T12:56:43.068Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-19T12:56:01.104Z
 ---
 
-- [:arrow_backward: Back *Go back to the home page.*](/en/home#single-playerco-op)
+- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
 {.links-list}
 # Wallet
 ![invwallet.webp](/images/items/invwallet.webp){.align-left}{.align-left}In the game "SCP - Containment Breach," the wallet is an item that can be found in various locations within the game's facility. The wallet is a useful item for several reasons:
