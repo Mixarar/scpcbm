@@ -2,7 +2,7 @@
 title: Weapon Crafts
 description: how to make this or this in SCP-914
 published: true
-date: 2023-10-19T12:05:39.423Z
+date: 2023-10-19T12:17:45.091Z
 tags: en, game, weapon, craft
 editor: markdown
 dateCreated: 2023-10-18T16:59:28.395Z
@@ -20,9 +20,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 
 
 
-
-
-
+<audio controls src="/images/roles/endinga1_(1).mp3"></audio>
 
 
 
