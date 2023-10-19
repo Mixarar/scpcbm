@@ -2,7 +2,7 @@
 title: Developers
 description: Fusion Creators Studio Team
 published: true
-date: 2023-10-19T10:02:18.159Z
+date: 2023-10-19T10:03:59.233Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
@@ -39,11 +39,6 @@ dateCreated: 2023-10-15T11:52:10.637Z
 ## <font color="#e91e63">GAME CONTRIBUTORS</font>
 - **Virtual** *(@virtual7802)*
 ## <font color="#ceb120">GAME CREDITS</font>
-<style type="text/css"> 
-  .verticalLine {border-left: medium solid #ffffff;} 
-</style> 
-<div class="verticalLine"> 
-
 ⠀*Lead Developer:* **ItsXandromeda**
 
 ⠀*Developers:* **Anders**
