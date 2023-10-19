@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-19T06:38:13.943Z
+date: 2023-10-19T06:39:49.202Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -100,12 +100,4 @@ In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are so
 ## E̷̬͓̫̳̹̱͇̟̊̋̍̎̀̑͋̅̚̕͠r̶̬͕̰̞̫̞̠̲̞̆̇͂͗̓̌̑͊̿̈́̐͝͠ͅͅr̶̨̬̺͕̤͉̭̊̈́͒̉̉̑̐o̴̧̢̱̺̣̟̣̰̖̟̲̯͆͑͒͂̿̈́̎̽͊̑̎̚͘͜͝r̵̓̃̑͋̿̅̓͠͝ͅ
 
 - [SCP-990 *t̷͌̊ḧ̴͆i̴͆̇s̴̈́͂ ̸̎̈p̷̐̒l̸͌ace ͔ẃ̷̈i̶͌̾l̸̓̎l̵̗̆ ̶̋burn*](/en/game/scps/990)
-{.links-list}
-
-
-
-
-
-
-
-~ made by Zav
+{.links-list} 
