@@ -2,7 +2,7 @@
 title: Список SCP
 description: Усі SCP, які зараз присутні в грі, знаходяться на цій сторінці.
 published: true
-date: 2023-10-19T11:28:34.662Z
+date: 2023-10-19T12:29:38.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T09:49:17.485Z
@@ -14,15 +14,15 @@ dateCreated: 2023-10-15T09:49:17.485Z
 У SCP CONTAINMENT BREACH є багато SCPS всередині закладу! ось " деякі з Scps
 - [SCP-173 *Скульптура.* ](/uk/game/scps/173)
 {.links-list}
-- [SCP-096 *Сором'язливий хлопець.* ](/uk/game/scp096)
+- [SCP-096 *Сором'язливий хлопець.* ](/uk/game/scps/096)
 {.links-list}
-- [SCP-049 *Чумний лікар.* ](/uk/game/scp049)
+- [SCP-049 *Чумний лікар.* ](/uk/game/scps/049)
 {.links-list}
-- [SCP-106 *Старий.* ](/uk/game/scp106)
+- [SCP-106 *Старий.* ](/uk/game/scps/106)
 {.links-list}
-- [SCP-966 *Вбивця сну.* ](/uk/game/scp966)
+- [SCP-966 *Вбивця сну.* ](/uk/game/scps/966)
 {.links-list}
-- [SCP-914 *Годинниковий механізм.* ](/uk/game/scp914)
+- [SCP-914 *Годинниковий механізм.* ](/uk/game/scps/914)
 {.links-list}
 - [SCP-035 *Комедійна маска.*](/uk/game/scps/035)
 {.links-list}
