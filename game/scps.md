@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-18T16:53:28.237Z
+date: 2023-10-19T06:07:15.515Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -13,17 +13,17 @@ dateCreated: 2023-10-12T19:24:17.893Z
 # SCP's
 In **SCP Contaiment Breach** there is Many SCPS inside the facility! here are some of the **SCP's**
 
-- [:peanuts:SCP-173 *The Sculpture.* ](/en/game/scps/173)
+- [SCP-173 *The Sculpture.* ](/en/game/scps/173)
 {.links-list}
-- [:dove:SCP-049 *The Plague Doctor.* ](/en/game/scps/049)
+- [SCP-049 *The Plague Doctor.* ](/en/game/scps/049)
 {.links-list}
-- [:sob: SCP-096 *The Shy-Guy.* ](/en/game/scps/096)
+- [ SCP-096 *The Shy-Guy.* ](/en/game/scps/096)
 {.links-list}
-- [:desktop_computer: SCP-079 *The PC.*](/en/game/scps/079)
+- [SCP-079 *The PC.*](/en/game/scps/079)
 {.links-list}
-- [:alien:SCP-966 *The sleep killers.*](/en/game/scps/966)
+- [SCP-966 *The sleep killers.*](/en/game/scps/966)
 {.links-list}
-- [:nauseated_face:SCP-372 *The Peripheral Jumper.*](/en/game/scps/372)
+- [SCP-372 *The Peripheral Jumper.*](/en/game/scps/372)
 {.links-list}
 - [SCP-066 *Erics Toy.*](/en/game/scps/066)
 {.links-list}
