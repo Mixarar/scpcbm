@@ -2,7 +2,7 @@
 title: Список SCP
 description: Усі SCP, які зараз присутні в грі, знаходяться на цій сторінці.
 published: true
-date: 2023-10-19T12:29:38.044Z
+date: 2023-10-19T20:13:29.793Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T09:49:17.485Z
@@ -28,15 +28,15 @@ dateCreated: 2023-10-15T09:49:17.485Z
 {.links-list}
 - [SCP-012 *Музична нота*.](/uk/game/scps/012)
 {.links-list}
-- [SCP-066 *Іграшка Erics.*](/en/game/scps/066)
+- [SCP-066 *Іграшка Erics.*](/uk/game/scps/066)
 {.links-list}
-- [SCP-008 *Зомбі-вірус*](/en/game/scps/008)
+- [SCP-008 *Зомбі-вірус*](/uk/game/scps/008)
 {.links-list}
-- [SCP-079 *ПК.*](/en/game/scps/079)
+- [SCP-079 *ПК.*](/uk/game/scps/079)
 {.links-list}
-- [SCP-205 *Лампа.*](/en/game/scps/205)
+- [SCP-205 *Лампа.*](/uk/game/scps/205)
 {.links-list}
-- [SCP-294 *Кавоварка.*](/en/game/scps/294)
+- [SCP-294 *Кавоварка.*](/uk/game/scps/294)
 {.links-list}
 - [SCP-372 *Периферійний перемикач.*](/uk/game/scps/372)
 {.links-list}

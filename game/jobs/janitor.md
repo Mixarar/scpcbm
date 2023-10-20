@@ -2,7 +2,7 @@
 title: Janitor
 description: Janitor lore and use in the game.
 published: true
-date: 2023-10-19T07:32:48.326Z
+date: 2023-10-19T07:32:52.887Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T16:58:38.037Z

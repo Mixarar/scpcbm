@@ -2,7 +2,7 @@
 title: Зброя
 description: Все про зброю в грі.
 published: true
-date: 2023-10-18T16:50:47.640Z
+date: 2023-10-18T20:16:55.372Z
 tags: game, ua, weapon
 editor: markdown
 dateCreated: 2023-10-18T16:50:47.640Z

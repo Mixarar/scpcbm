@@ -2,7 +2,7 @@
 title: Game
 description: The general info about the game.
 published: true
-date: 2023-10-19T08:18:28.374Z
+date: 2023-10-19T08:18:33.042Z
 tags: en, game, info
 editor: markdown
 dateCreated: 2023-10-08T13:52:57.702Z

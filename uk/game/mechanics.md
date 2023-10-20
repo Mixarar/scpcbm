@@ -2,7 +2,7 @@
 title: Ігрова механіка
 description: Більшість механік з гри.
 published: true
-date: 2023-10-18T16:54:10.833Z
+date: 2023-10-18T16:54:15.409Z
 tags: game, ua
 editor: markdown
 dateCreated: 2023-10-18T16:54:10.833Z

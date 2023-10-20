@@ -2,7 +2,7 @@
 title: Game Mechanics
 description: Most mechanics from game.
 published: true
-date: 2023-10-18T15:49:43.122Z
+date: 2023-10-18T15:49:47.689Z
 tags: en, game, mechanics
 editor: markdown
 dateCreated: 2023-10-18T15:40:44.242Z

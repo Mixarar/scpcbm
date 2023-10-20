@@ -2,7 +2,7 @@
 title: Início
 description: Página inicial da wiki
 published: true
-date: 2023-10-18T16:51:58.713Z
+date: 2023-10-18T16:52:03.706Z
 tags: home, inicio, pt-br
 editor: markdown
 dateCreated: 2023-10-08T16:42:29.437Z

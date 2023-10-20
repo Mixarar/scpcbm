@@ -1,9 +1,9 @@
 ---
-title: wallet 
-description: inventory
+title: Wallet
+description: Wallets thats can contain cards and coins.
 published: true
-date: 2023-10-19T12:56:43.068Z
-tags: 
+date: 2023-10-19T22:29:09.851Z
+tags: en, game, items
 editor: markdown
 dateCreated: 2023-10-19T12:56:01.104Z
 ---
@@ -11,7 +11,7 @@ dateCreated: 2023-10-19T12:56:01.104Z
 - [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
 {.links-list}
 # Wallet
-![invwallet.webp](/images/items/invwallet.webp){.align-left}{.align-left}In the game "SCP - Containment Breach," the wallet is an item that can be found in various locations within the game's facility. The wallet is a useful item for several reasons:
+![wallet.png](/images/items/wallet.png =410x273){.align-left}In the game "SCP - Containment Breach," the wallet is an item that can be found in various locations within the game's facility. The wallet is a useful item for several reasons:
 
 Storage: The wallet can be used to store and carry certain items, such as keycards, documents, and other small objects. This is helpful because you have a limited inventory space, and the wallet allows you to carry more items with you.
 

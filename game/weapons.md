@@ -2,7 +2,7 @@
 title: Weapons
 description: All about weapons in game.
 published: true
-date: 2023-10-18T16:56:10.117Z
+date: 2023-10-18T20:16:55.372Z
 tags: en, game, weapon
 editor: markdown
 dateCreated: 2023-10-18T15:59:31.580Z

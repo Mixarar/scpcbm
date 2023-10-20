@@ -2,7 +2,7 @@
 title: Items
 description: Items page
 published: true
-date: 2023-10-19T12:50:23.966Z
+date: 2023-10-20T05:27:17.732Z
 tags: en, game, item
 editor: markdown
 dateCreated: 2023-10-08T15:34:31.889Z
@@ -15,7 +15,7 @@ In SCP: Contaiment Breach Multiplayer, there are different types of items which 
 
 ---
 - [:credit_card: Keycards *Level 1 through 5 keycards including omni.*](/en/game/items/Keycards)
-- [☢️ Gas Mask *All Gas Mask variants.*](/en/game/items/gas-mask)
-- [🩹 First Aid Kit *All First Aid Kit variants.*](/en/game/items/first-aid-kit)
-- [💼 Wallet *Extra slots*](/en/game/items/Wallet)
+- [:biohazard: Gas Mask *All Gas Mask variants.*](/en/game/items/gas-mask)
+- [:pill: First Aid Kit *All First Aid Kit variants.*](/en/game/items/first-aid-kit)
+- [:briefcase: Wallet *Extra slots.*](/en/game/items/Wallet)
 {.links-list}

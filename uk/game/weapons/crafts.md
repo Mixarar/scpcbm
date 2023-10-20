@@ -2,7 +2,7 @@
 title: Озброєння в SCP-914.
 description: 
 published: true
-date: 2023-10-19T04:57:28.087Z
+date: 2023-10-19T04:57:33.235Z
 tags: game, ua, craft
 editor: markdown
 dateCreated: 2023-10-19T04:57:28.087Z

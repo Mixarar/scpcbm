@@ -2,7 +2,7 @@
 title: Wiki-Contributors
 description: All human who working on this site[For free =(]
 published: true
-date: 2023-10-18T12:02:34.096Z
+date: 2023-10-19T16:13:26.157Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -12,13 +12,13 @@ dateCreated: 2023-10-15T11:54:53.780Z
 {.links-list}
 # Contributors of Wiki
 ## <font color="#00247d">Eng</font><font color="#ffffff">lish</font> <font color="#d1132c">Wiki</font> <font color="#ffffff">Edit</font><font color="#08249f"></font><font color="#00247d">ors</font>
-- **Griefer** *(@6i9u)*
+- **Griefer** *(@6i9u)* - [Keycards](https://wiki.scpcbm.com/en/game/items/Keycards)
 - **Db478**
 - **Sparky** *(@dr.sparkrosalene)*
-- **ItzSlain**
-- **Mixarar**
-- **Mr. Kennedy** *(@mr.kennedy4231)*
-- **Zav** *(@zavpw)*
+- **ItzSlain** 
+- **Mixarar** - [Wiki](https://wiki.scpcbm.com/)
+- **Mr. Kennedy** *(@mr.kennedy4231)* - [Gas-Mask](https://wiki.scpcbm.com/en/game/items/gas-mask)
+- **Zav** *(@zavpw)* - [SCP's List](https://wiki.scpcbm.com/en/game/scps)
 ## <font color="#ececec">Russian</font> <font color="#08249f">Wiki</font> <font color="#d01303">Translators</font>
 - **begugla** *(@begugla_game228)*
 - **! ! 𝕏𝕕𝕚-𝔽𝕚𝕫𝕏⫸** *(@di_fiz_1936)*
@@ -26,7 +26,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 - **⫷𝕂𝕒𝕫𝕒𝕙-𝕋𝕖𝕝𝕖𝕜𝕠𝕞⫸** *(@kazahtelekom)*
 - **I am MasterFighter** *(@masterfighter.)*
 - **Чуказябра** *(@mirakiru)*
-- **thelifeworm**
+- **thelifeworm** -  [Ru-Wiki](https://wiki.scpcbm.com/ru/home)
 - **ivaiva** *(@wyrxcc)*
 - **зевуля[astro3]** *(@zevulya)*
 ## <font color="#0402b6">Ukrainian Wi</font><font color="#fce100">ki Translators</font>
