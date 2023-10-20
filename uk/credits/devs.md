@@ -2,7 +2,7 @@
 title: Розробники
 description: Команда Fusion Creators Studio.
 published: true
-date: 2023-10-17T17:45:46.819Z
+date: 2023-10-20T07:04:27.749Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T14:17:12.126Z
@@ -18,7 +18,7 @@ dateCreated: 2023-10-15T14:17:12.126Z
 - **Deepfried Chips** *(@chipsproto)*
 - **itzslain**
 ## <font color="#6c5dff">КЕРІВНИК ПРОЕКТУ</font>
-- **Saitama** *(@skaneprime)*
+
 ## <font color="#1c61f3">ОСНОВНИЙ РОЗРОБНИК</font>
 - **Андерс** *(@anders_25706)*
 - **GrOm_Amg**
