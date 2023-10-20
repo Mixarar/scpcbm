@@ -1,8 +1,8 @@
 ---
-title: Wiki-Contributors
-description: All human who working on this site[For free =(]
+title: Wiki-Editors
+description: All human who working on this site
 published: true
-date: 2023-10-20T13:57:44.469Z
+date: 2023-10-20T14:53:23.088Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -10,7 +10,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 
 - [:arrow_backward: Back *Go back to the home page.*](/en/home#credits)
 {.links-list}
-# Contributors of Wiki
+# Editors of Wiki
 ## <font color="#00247d">Eng</font><font color="#ffffff">lish</font> <font color="#d1132c">Wiki</font> <font color="#ffffff">Edit</font><font color="#08249f"></font><font color="#00247d">ors</font>
 - **Griefer** *(@6i9u)* - [Keycards](https://wiki.scpcbm.com/en/game/items/Keycards)
 - **Db478**
