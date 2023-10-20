@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-20T10:04:40.583Z
+date: 2023-10-20T10:09:09.890Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -20,6 +20,27 @@ DR.Benjerman and His Mind did a Test on █████████ Without prem
 ## Ingame
 The player wakes up As Benjerman In a Cell, the player is Escorted to SCP-173s Chamber and you can hear scientists talk about SCP-079s Chamber not opening, When you arrive to SCP-173s Chamber You can see 2 Class-D personnal waiting for you, When the Testing begins The chamber doors Seems to be Not Closing due SCP-079 having controls over the systems and the lights flicker and SCP-173 Escapes his chamber leading to an Keter-Euclid Containment Breach
 ## Audio
+- "For some reason, he passed by 079's chamber, and now the doors aren't working."
+[indecipherable]
+
+- "Well, at least they weren't working when I last passed by."
+[indecipherable]
+
+- "Skinner?"
+[indecipherable]
+
+- "Hmm, I don't recall knowing him. Was he ever stationed at this sector?"
+[indecipherable]
+
+- "Yeah, he picked up a security agent and a junior researcher on the way."
+[indecipherable]
+
+- "Kid was taking papers to his supervisor. Shit sucks."
+[indecipherable]
+
+- "It shook up Dr. L. pretty badly. He hasn't left his office, says he's been hearing things."
+[indecipherable]
+### After The breach
 - Attention, all personnel, report to Gate [distortion] ...immediately.
 ## Endings
 Currently, there are 4 endings that the player can reach. Each ending plays a unique audio recording or radio transmission on the end screen between personnel discussing events that took place after the game ended.
