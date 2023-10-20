@@ -2,7 +2,7 @@
 title: Cartões de Acesso
 description: Todos os Cartões de Acesso do jogo
 published: true
-date: 2023-10-18T16:39:18.134Z
+date: 2023-10-20T15:58:53.457Z
 tags: game, item, pt-br, keycard
 editor: markdown
 dateCreated: 2023-10-17T20:55:12.299Z
@@ -29,27 +29,27 @@ O cartão de acesso de nível 1 é o de menor nível. **Ele pode abrir:** *a pri
 ###### CARTÃO DE ACESSO NÍVEL 2
 ![keycard2.png](/images/items/keycard2.png){.align-left}**Name**: `Cartão de Acesso Nível 2`
 **Localização**: `O escritório básico; A câmara de teste leve.`
-**Cartões de Acesso Nível 2 podem ser usados para abrir as portas:** *da câmara do SCP-895 e da câmarada do SCP-914.*
+**Cartões de Acesso Nível 2 podem ser usados para abrir as portas:** *da câmara do SCP-895 e da câmara do SCP-914.*
 
 **Este cartão também pode ser criado** usando o SCP-914 e colocando um cartão de acesso nível 1 nele na configuração "Fino" ou ao colocoar um MasterCard ou uma moeda na configuração "Muito Fino".
-###### LEVEL 3 KEYCARD
-![keycard3.png](/images/items/keycard3.png){.align-left}**Name**: `Level 3 keycard`
-**Location**: `SCP-895'S chamber.`
+###### CARTÃO DE ACESSO NÍVEL 3
+![keycard3.png](/images/items/keycard3.png){.align-left}**Name**: `Cartão de Acesso Nível 3`
+**Localização**: `Câmara de Contenção do SCP-895.`
 ⠀
 ⠀
 ⠀
-**Level 3 keycards can be used to open:**
-- *The main door in SCP-012's chamber.*
-- *SCP-079's chamber.*
-- *SCP-205's chamber.*
-- *SCP-966's chamber.*
-- *All the doors in the SCP storage chamber.*
-- *The first door in Containment Room 5.*
-- *The surveillance Room.*
-- *All the doors in the server hub.*
-- *The checkpoint room between the Light Containment Zone and Heavy Containment Zone.*
+**Cartões de Acesso Nível 2 podem ser usados para abrir:**
+- *A porta principal da câmara de contenção do SCP-012.*
+- *Câmara de Contenção do SCP-079.*
+- *Câmara de Contenção do SCP-205.*
+- *Câmara de Contenção do SCP-966.*
+- *Todas as portas da câmara de armazenamento de SCPs.*
+- *A primeira porta da Sala de Contenção 5.*
+- *A Sala de Vigilância.*
+- *Todas as portas na sala dos servidores*
+- *As fronteiras entre a Zona de Contenção Leve e a Zona de Contenção Pesada.*
 
-**It can also be created** by putting a level 2 keycard into SCP-914 on the "Fine" setting.
+**Este cartão também pode ser criado** colocando um cartão de acesso nível 2 dentro do SCP-914 na configuração "Fino".
 ###### LEVEL 4 KEYCARD
 ![keycard4.png](/images/items/keycard4.png){.align-left}**Name**: `Level 4 keycard`
 **Location**: `SCP-049's chamber.`
