@@ -2,7 +2,7 @@
 title: Weapons
 description: All weapons and their characheristics
 published: true
-date: 2023-10-20T16:02:38.031Z
+date: 2023-10-20T17:15:43.084Z
 tags: en, game, weapon, multiplayer, breach
 editor: markdown
 dateCreated: 2023-10-18T20:16:48.515Z
@@ -13,18 +13,46 @@ dateCreated: 2023-10-18T20:16:48.515Z
 # Weapons and Characheristics.
 ## Melee And Pistols
 ![knife.png](/images/items/inventoryicons/knife.png){.align-left}**Name**: `Knife`
-**Head-Damage**: `41`
-**Body-Damage**: `28`
-**Legs-Damage**: `1`
+**Damage**: `25-35`
 ⠀
 ⠀
 ![usp.png](/images/items/inventoryicons/usp.png){.align-left}**Name** `Usp`
-**Head-Damage**: `18`
-**Body-Damage**: `14`
-**Legs-Damage**: `1`
+**Damage**: `14-20`
 ⠀
 ⠀
-![deagle.png](/images/items/inventoryicons/deagle.png){.align-left}**Name** `Usp`
-**Head-Damage**: `1`
-**Body-Damage**: `1`
-**Legs-Damage**: `1`
+![deagle.png](/images/items/inventoryicons/deagle.png){.align-left}**Name** `Deagle`
+**Damage**: `22-27`
+⠀
+## Sub-Machine Weapons
+![mp5-sd.png](/images/items/inventoryicons/mp5-sd.png){.align-left}**Name** `Mp5-sd`
+**Damage**: `17-21`
+⠀
+⠀
+![p90.png](/images/items/inventoryicons/p90.png){.align-left}**Name** `P90`
+**Damage**: `15-21`
+⠀
+⠀
+## Heavy Weapons
+![m4a4.png](/images/items/inventoryicons/m4a4.png){.align-left}**Name** `M4A4`
+**Damage**: `21-25`
+⠀
+⠀
+![HK-G36.png](/images/items/inventoryicons/scar.png){.align-left}**Name** `HK-G36`
+**Damage**: `20-25`
+⠀
+⠀
+![SPAS12.png](/images/items/inventoryicons/spas-12.png){.align-left}**Name** `SPAS-12`
+**Damage**: `50-70`
+⠀
+⠀
+![minigun.png](/images/items/inventoryicons/minigun.png){.align-left}**Name** `Minigun`
+**Damage**: `20-26`
+⠀
+## Special Weapons
+⠀
+![rpg.png](/images/items/inventoryicons/rpg.png){.align-left}**Name** `RPG`
+**Damage**: `96-97`
+⠀
+⠀
+![grenade.png](/images/items/inventoryicons/grenade.png){.align-left}**Name** `Grenade`
+**Damage**: `100`
