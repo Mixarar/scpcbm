@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-20T10:17:42.571Z
+date: 2023-10-20T10:38:09.154Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -17,8 +17,10 @@ dateCreated: 2023-10-12T19:21:13.823Z
 In the depths in the darkness Multiple Keter and euclid Facilities Were Attacked, Scps were relocated to multiple sites but it was found out by the Terrirosts multiple times, SCPs Were relocated to SITE-19 Canada In middle of no where, Chaos insurgency sent DR.Maynard And his partner Agent.Skinner To Reap the Facility, After few days Agent skinner Released SCP-106 when his Partner left to get his Coffe in the cafeteria, After SCP-106 was released DR.Maynard Rushed to SCP-079s Chamber and Released SCP-079, DR███ Tried to open the doors to SCP-079 but it was locked, DR.███ Called the ██████ Crew to Break down the door. 
 ## Main character
 DR.Benjerman and His Mind did a Test on █████████ Without premmision but he got Detected and got Demoted to Class-D personnal but he got Amnestic-Class-B so he wouldnt remember anything, age, Name, Where he lived.
+![7b7dc7baea42ee01b8f077fff33ab0bd098d9c02r1-2048-1281v2_uhq-removebg-preview_(1).png](/images/logos/7b7dc7baea42ee01b8f077fff33ab0bd098d9c02r1-2048-1281v2_uhq-removebg-preview_(1).png)
 ## Ingame
 The player wakes up As Benjerman In a Cell, the player is Escorted to SCP-173s Chamber and you can hear scientists talk about SCP-079s Chamber not opening, When you arrive to SCP-173s Chamber You can see 2 Class-D personnal waiting for you, When the Testing begins The chamber doors Seems to be Not Closing due SCP-079 having controls over the systems and the lights flicker and SCP-173 Escapes his chamber leading to an Keter-Euclid Containment Breach
+![d-9341_cell.webp](/images/rooms/d-9341_cell.webp)
 ## Audio
 - "For some reason, he passed by 079's chamber, and now the doors aren't working."
 [indecipherable]
@@ -44,6 +46,8 @@ The player wakes up As Benjerman In a Cell, the player is Escorted to SCP-173s C
 <audio controls src="/audios/dialogue/conversation.mp3"></audio>
 ### After The breach
 - Attention, all personnel, report to Gate [distortion] ...immediately.
+
+<audio controls src="/audios/dialogue/breach.mp3"></audio>
 ## Endings
 Currently, there are 4 endings that the player can reach. Each ending plays a unique audio recording or radio transmission on the end screen between personnel discussing events that took place after the game ended.
 
@@ -60,6 +64,8 @@ Upon getting halfway through the tunnel, three Chaos Insurgency operatives warp 
 - "Are you saying that the tunnel collapsed on you?"
 - "No! It didn't collapse. It seemed like an anomalous event. Come see for yourself, and send someone to get us out of here!"
 
+<audio controls src="/audios/dialogue/tunnel.mp3"></audio>
+
 ## Gate A-2
 If D-9341 contains SCP-106 before exiting through Gate A, then the MTF units will immediately engage him and command him to halt, before announcing they have found a Class-D. After being taken by the MTF units, the game will then end.
 
@@ -67,6 +73,8 @@ The end screen plays a recording of a testing log in which a scientist discusses
 
 ## Ending Audio
 "Testing log ███. Subject █-████. Subject demonstrates extraordinary luck and complete mastery of even the most fatal of circumstances and an uncanny ability to predict even the most unpredictable of hazards, almost as if it has performed these impossible tasks several times before. Further testing is required to determine whether the subject should receive SCP classification."
+
+<audio controls src="/audios/dialogue/scp_class0d.mp3"></audio>
 
 ## Gate B
 Upon entering Gate B, a voice over the intercom will announce that SCP-682 has broken out of the facility in that area and that they will be detonating the alpha warheads in 90 seconds.
@@ -80,6 +88,9 @@ The end screen plays a radio transmission of an operative from helicopter OH-6 r
 - "OH-6 to CH-1, no sign of the target. I think we should send an MTF-[another voice is heard  
    yelling "Incoming!", followed by SCP-682's roar.]"
 - "CH-1 to OH-6 do you copy?"
+
+<audio controls src="/audios/dialogue/endingb2.mp3"></audio>
+
  ## Gate B-2
 If D-9341 has turned off the Alpha Warheads in the Warhead Silo, the nuclear detonation will not occur and the intercom will order all MTF units to head back to the gate to handle SCP-682. Following the announcement, an unidentified MTF group (presumably Cloud Nine), or another Apache will locate D-9341 and terminate them, ending the game with a transmission clarifying that a stray Class-D has been terminated.
 
@@ -87,6 +98,9 @@ If D-9341 has turned off the Alpha Warheads in the Warhead Silo, the nuclear det
 - "Sir, we found a dead Class-D on the walkway outside Gate B. He's got multiple gun shot wounds in his chest. I'd assume he was shot when we were fighting SCP-682."
 - "I'd like to know how the hell did a Class-D get past the gate. Deliver me the security tapes from all the cameras near the gate and find out who was stationed there, before and during 682's escape attempt."
 - "Roger that sir."
+
+<audio controls src="/audios/dialogue/endingb3.mp3"></audio>
+
 ## After event
 
 It is unknown as to what happens after any of the endings, but judging by the fact that quotes from personnel who are cleaning up the facility are seen whenever the player dies, it is assumed that the containment breach was eventually resolved.
