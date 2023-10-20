@@ -2,7 +2,7 @@
 title: Developers
 description: Fusion Creators Studio Team
 published: true
-date: 2023-10-19T15:29:20.673Z
+date: 2023-10-20T06:30:27.147Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
@@ -17,8 +17,6 @@ dateCreated: 2023-10-15T11:52:10.637Z
 - **Anders** *(@anders_25706)*
 - **Deepfried Chips** *(@chipsproto)*
 - **itzslain**
-## <font color="#6c5dff">PROJECT MANAGER</font>
-- **Saitama** *(@skaneprime)*
 ## <font color="#1c61f3">CORE DEVELOPER</font>
 - **Anders** *(@anders_25706)*
 - **GrOm_Amg**
