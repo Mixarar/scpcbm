@@ -2,7 +2,7 @@
 title: Wallet
 description: Wallets thats can contain cards and coins.
 published: true
-date: 2023-10-19T22:29:09.851Z
+date: 2023-10-20T09:14:32.717Z
 tags: en, game, items
 editor: markdown
 dateCreated: 2023-10-19T12:56:01.104Z
