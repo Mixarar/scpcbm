@@ -2,7 +2,7 @@
 title: Wiki-Contributors
 description: All human who working on this site[For free =(]
 published: true
-date: 2023-10-20T11:42:55.141Z
+date: 2023-10-20T13:57:44.469Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -18,7 +18,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 - **ItzSlain** 
 - **Mixarar** - [Wiki](https://wiki.scpcbm.com/)
 - **Mr. Kennedy** *(@mr.kennedy4231)* - [Gas-Mask](https://wiki.scpcbm.com/en/game/items/gas-mask)
-- **Zav** *(@zavpw)* - [SCP's List](https://wiki.scpcbm.com/en/game/scps) / [Roles](https://wiki.scpcbm.com/en/game/jobs) / - [Plot](https://wiki.scpcbm.com/en/game/plot)
+- **Zav** *(@zavpw)* - [SCP's List](https://wiki.scpcbm.com/en/game/scps) / [Roles](https://wiki.scpcbm.com/en/game/jobs) /  [Plot](https://wiki.scpcbm.com/en/game/plot)
 ## <font color="#ececec">Russian</font> <font color="#08249f">Wiki</font> <font color="#d01303">Translators</font>
 - **begugla** *(@begugla_game228)*
 - **! ! 𝕏𝕕𝕚-𝔽𝕚𝕫𝕏⫸** *(@di_fiz_1936)*
