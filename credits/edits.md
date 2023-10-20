@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: All human who working on this site
 published: true
-date: 2023-10-20T14:53:23.088Z
+date: 2023-10-20T16:12:08.459Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -16,7 +16,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 - **Db478**
 - **Sparky** *(@dr.sparkrosalene)*
 - **ItzSlain** 
-- **Mixarar** - [Wiki](https://wiki.scpcbm.com/)
+- **Mixarar** - [Wiki](https://wiki.scpcbm.com/home)
 - **Mr. Kennedy** *(@mr.kennedy4231)* - [Gas-Mask](https://wiki.scpcbm.com/en/game/items/gas-mask)
 - **Zav** *(@zavpw)* - [SCP's List](https://wiki.scpcbm.com/en/game/scps) / [Roles](https://wiki.scpcbm.com/en/game/jobs) /  [Plot](https://wiki.scpcbm.com/en/game/plot)
 ## <font color="#ececec">Russian</font> <font color="#08249f">Wiki</font> <font color="#d01303">Translators</font>
