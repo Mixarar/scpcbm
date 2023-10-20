@@ -2,7 +2,7 @@
 title: Cartões de Acesso
 description: Todos os Cartões de Acesso do jogo
 published: true
-date: 2023-10-20T15:58:53.457Z
+date: 2023-10-20T16:48:08.338Z
 tags: game, item, pt-br, keycard
 editor: markdown
 dateCreated: 2023-10-17T20:55:12.299Z
@@ -38,7 +38,7 @@ O cartão de acesso de nível 1 é o de menor nível. **Ele pode abrir:** *a pri
 ⠀
 ⠀
 ⠀
-**Cartões de Acesso Nível 2 podem ser usados para abrir:**
+**Cartões de Acesso Nível 3 podem ser usados para abrir:**
 - *A porta principal da câmara de contenção do SCP-012.*
 - *Câmara de Contenção do SCP-079.*
 - *Câmara de Contenção do SCP-205.*
@@ -50,19 +50,19 @@ O cartão de acesso de nível 1 é o de menor nível. **Ele pode abrir:** *a pri
 - *As fronteiras entre a Zona de Contenção Leve e a Zona de Contenção Pesada.*
 
 **Este cartão também pode ser criado** colocando um cartão de acesso nível 2 dentro do SCP-914 na configuração "Fino".
-###### LEVEL 4 KEYCARD
-![keycard4.png](/images/items/keycard4.png){.align-left}**Name**: `Level 4 keycard`
-**Location**: `SCP-049's chamber.`
+###### CARTÃO DE ACESSO NÍVEL 4
+![keycard4.png](/images/items/keycard4.png){.align-left}**Name**: `Cartão de Acesso Nível 4`
+**Localização**: `Câmara de Contenção do SCP-049.`
 ⠀
 ⠀
 ⠀
-**Level 4 keycards can be used to open:**
-- *The head office.*
-- *SCP-106's chamber.*
-- *The two doors to the lower area of SCP-106's chamber.*
-- *Both doors in SCP-008's chamber.*
+**Cartões de Acesso Nível 4 podem ser usados para abrir:**
+- *O escritório principal.*
+- *Câmara de Contenção do SCP-106.*
+- *As duas portas que levam à área inferior da Câmara de Contenção do SCP-106.*
+- *Ambas as portas da Câmara de Contenção do SCP-008.*
 
-**The keycard can be created** by putting a level 3 keycard into SCP-914 on the "Fine" setting with small chance.
+**Este cartão também pode ser criado** colocando um cartão de acesso nível 3 dentro do SCP-914 na configuração "Fino", com uma pequena chance de sucesso.
 ###### LEVEL 5 KEYCARD
 ![keycard5.png](/images/items/keycard5.png){.align-left}**Name**: `Level 5 keycard`
 **Location**: `SCP-106's chamber.`
