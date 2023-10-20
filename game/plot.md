@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-19T12:14:14.172Z
+date: 2023-10-20T10:02:43.965Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -13,8 +13,14 @@ dateCreated: 2023-10-12T19:21:13.823Z
 > THIS PAGE CONTAINS SPOILERS
 {.is-warning}
 # Plot
-
-In the Shadows A Class-D stray Wonders around the complex facility all alone, No friends no Assistance, Before becoming an Class-D he used to be Level 4 senior Researcher, Hes Angry and ambitious mind wanted him to do a Test without any Permission, Leading to his demotion, In the Shadows The chaos insurgency attacked Multiple Keter-euclid SCP sites and the SCPS were relocated to SITEe-19 Once the chaos Heard this they planned to Release every Scp in the foundation, Doctor Maynard and his Partner Breached into The facility without any one knowing, Dr maynards Partner Released SCP-106 Distracting everyone, DR-maynard Rushed to SCP-079s chamber after his Partner released 106, DR maynard Talked to SCP-079 Releasing him, DR-███ tried to open the chambers of SCP-079 but it was locked by SCP-079 DR-███ tried to Break down the Chambers doors but it was too late. Class-D you play as Wakes up In light containment zone Not knowing what happaned and why is he here, Your Cell doors opens by Agent ulgrin, Your escorted to SCP-173 chambers to Clean his Little mess, But the doors controls was in controls of SCP-079 Leading to an Containment Breach, You see Multiple SCPs on your way to Escape But it was locked, Nine tailed fox Units arrived but they are trying to shoot you on sight, But your no harm to them but you hear the intercoms say your An target, Your all alone, Everyone trying to kill you, There is no Hope, But all of an sudden when you disable the Remote door controls SCP-079 is no longer in power, and you remember from 035 "For sake of my freedom i have an reason to believe SCP-079 has control of the systems, Best bet is to appeal to it self." You rush to SCP-079s Chambers and SCP-079 does a deal, You need to Activate the Remote door control system, When you did the Deal you can escape In Gate-B and Gate-A 
+## Backstory
+In the depths in the darkness Multiple Keter and euclid Facilities Were Attacked, Scps were relocated to multiple sites but it was found out by the Terrirosts multiple times, SCPs Were relocated to SITE-19 Canada In middle of no where, Chaos insurgency sent DR.Maynard And his partner Agent.Skinner To Reap the Facility, After few days Agent skinner Released SCP-106 when his Partner left to get his Coffe in the cafeteria, After SCP-106 was released DR.Maynard Rushed to SCP-079s Chamber and Released SCP-079, DR███ Tried to open the doors to SCP-079 but it was locked, DR.███ Called the ██████ Crew to Break down the door. 
+## Main character
+DR.Benjerman and His Mind did a Test on █████████ Without premmision but he got Detected and got Demoted to Class-D personnal but he got Amnestic-Class-B so he wouldnt remember anything, age, Name, Where he lived.
+## Ingame
+The player wakes up As Benjerman In a Cell, the player is Escorted to SCP-173s Chamber and you can hear scientists talk about SCP-079s Chamber not opening, When you arrive to SCP-173s Chamber You can see 2 Class-D personnal waiting for you, When the Testing begins The chamber doors Seems to be Not Closing due SCP-079 having controls over the systems and the lights flicker and SCP-173 Escapes his chamber leading to an Keter-Euclid Containment Breach
+## Audio
+- Attention, all personnel, report to Gate [distortion] ...immediately.
 ## Endings
 Currently, there are 4 endings that the player can reach. Each ending plays a unique audio recording or radio transmission on the end screen between personnel discussing events that took place after the game ended.
 
