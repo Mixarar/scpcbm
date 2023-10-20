@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-20T10:09:09.890Z
+date: 2023-10-20T10:12:04.301Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -40,6 +40,11 @@ The player wakes up As Benjerman In a Cell, the player is Escorted to SCP-173s C
 
 - "It shook up Dr. L. pretty badly. He hasn't left his office, says he's been hearing things."
 [indecipherable]
+### SCP-173 Test
+- "Attention, all Class-D personnel, please enter the containment chamber."
+- "Please approach SCP-173 for testing."
+- "Uh, there seems to be a problem with the door control system. The door isn't responding to any of our attempts to close it, so please maintain direct eye contact with SCP-173, and—"
+[microphone cuts out]
 ### After The breach
 - Attention, all personnel, report to Gate [distortion] ...immediately.
 ## Endings
