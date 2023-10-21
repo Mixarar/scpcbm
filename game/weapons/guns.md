@@ -2,7 +2,7 @@
 title: Weapons
 description: All weapons and their characheristics
 published: true
-date: 2023-10-20T17:15:43.084Z
+date: 2023-10-21T13:54:06.726Z
 tags: en, game, weapon, multiplayer, breach
 editor: markdown
 dateCreated: 2023-10-18T20:16:48.515Z
@@ -56,3 +56,7 @@ dateCreated: 2023-10-18T20:16:48.515Z
 ⠀
 ![grenade.png](/images/items/inventoryicons/grenade.png){.align-left}**Name** `Grenade`
 **Damage**: `100`
+⠀
+⠀
+![microhid.png](/images/items/inventoryicons/microhid.png){.align-left}**Name** `Micro-H.I.D`
+**Damage**: `nice`
