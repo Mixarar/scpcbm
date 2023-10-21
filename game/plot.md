@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T13:55:21.606Z
+date: 2023-10-21T13:55:39.229Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -14,7 +14,7 @@ dateCreated: 2023-10-12T19:21:13.823Z
 {.is-warning}
 # Plot
 ## pre game events
-After multiple ![docir106.webp](/images/documents/docir106.webp =340x){.align-left}   SCP Foundation's facilities {.align-right} and sectors were attacked by the Chaos insurgency, the SCP Foundation relocated a portion of escaped SCPs to Site-██, in which the game takes place.
+After multiple ![docir106.webp](/images/documents/docir106.webp =300x){.align-left}   SCP Foundation's facilities {.align-right} and sectors were attacked by the Chaos insurgency, the SCP Foundation relocated a portion of escaped SCPs to Site-██, in which the game takes place.
 
  Undercover agents from the Chaos Insurgency are responsible for the massive containment breach at Site-██, most notable being Agent Skinner and Dr. Maynard. 
 
