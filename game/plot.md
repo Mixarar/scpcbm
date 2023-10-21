@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T14:25:08.499Z
+date: 2023-10-21T14:53:30.766Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -27,7 +27,7 @@ On an undisclosed date at 9:00 AM, Agent Skinner and Agent Carey started their m
 
 
 ## Main character
-DR.Benjamin oliver walker and His Mind did a Test on █████████ Without permission but he got Detected and got Demoted to Class-D personal but he got Amnestic-Class-B so he wouldn`t remember anything, age, Name, Where he lived.
+Dr. Benjamin Oliver Walker was a Level 4 Senior Researcher in the SCP foundation. After the Foundation became aware of his unauthorized research on an anomalous phenomenon dubbed "The Spiral Gestalt", a disciplinary hearing was held by the Internal Tribunal Department. Benjamin was found quilty, demoted to a Class-D and given the designaton D-9341.
 ![imbenjamin.png](/images/documents/imbenjamin.png)
 ## Ingame
 The player wakes up As Benjamin In a Cell, the player is Escorted to SCP-173s Chamber and you can hear scientists talk about SCP-079s Chamber not opening, When you arrive to SCP-173s Chamber You can see 2 Class-D personal waiting for you, When the Testing begins The chamber doors Seems to be Not Closing due SCP-079 having controls over the systems and the lights flicker and SCP-173 Escapes his chamber leading to an Keter-Euclid Containment Breach
@@ -86,8 +86,10 @@ The end screen plays a recording of a testing log in which a scientist discusses
 "Testing log ███. Subject █-████. Subject demonstrates extraordinary luck and complete mastery of even the most fatal of circumstances and an uncanny ability to predict even the most unpredictable of hazards, almost as if it has performed these impossible tasks several times before. Further testing is required to determine whether the subject should receive SCP classification."
 
 <audio controls src="/audios/dialogue/scp_class0d.mp3"></audio>
-
+this ending at gate A confirms that Benjamin gained anomalous abilities sometime before the breach began, allowing him to survive. It is very likely that his research on the "Spiral Gestalt" was, to some degree, successful, which resulted in him gaining anomalous abilities. 
 ![gate-a-gmod.jpg](/images/rooms/gate-a-gmod.jpg)
+
+ 
 
 ## Gate B
 Upon entering Gate B, a voice over the intercom will announce that SCP-682 has broken out of the facility in that area and that they will be detonating the alpha warheads in 90 seconds.
