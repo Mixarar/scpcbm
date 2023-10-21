@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T13:37:24.552Z
+date: 2023-10-21T13:43:21.954Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -14,21 +14,7 @@ dateCreated: 2023-10-12T19:21:13.823Z
 {.is-warning}
 # Plot
 ## pre game events
-Before the events of the game take place, ![docir106.webp](/images/documents/docir106.webp){.align-right} several of the Foundation's sites and sectors were attacked, which caused several Euclid and Keter SCPs to be temporarily relocated to an unspecified site until repairs on the previous facilities are completed. Not much is known about this site aside from the fact that it was previously used as a research facility, making it unable to handle the quantity of SCPs it currently possesses. Shortly after, Mobile Task Force Epsilon-11 ("Nine-Tailed Fox") was established in order to protect this site and handle containment breaches.[Notable MTFs Document]Sometime after this, Dr. Maynard and Security Agent Skinner both join the unspecified site. They are working undercover as Chaos Insurgency operatives while posing as Foundation members in order to trigger a containment breach. At this point Dr. Maynard and the Engineering and Technical Services Department initiate a concept called the Modular Site Project. This project is intended to be a redesign of both the facility's layout and its security systems in order to r accommodate the workload and containment chambers of the newly relocated SCPs. Throughout SCP - Containment Breach, several computer monitors can be found pointing out problems and security risks caused by the Modular Site Project, which leads to the presumption that Dr. Maynard started the project in order to make the site more vulnerable to containment breaches.[Hooper Monitor] [Office Monitor] 
-
-
-On an unknown date at 9:00, Agent Carey and Security Agent Skinner begin their morning shift of monitoring SCP-106's containment chamber. Between that time and 9:21, Carey leaves to go get coffee from the cafeteria.[Incident Report SCP-106-0204]
-
-
-While Carey is gone, Agent Skinner uses this opportunity to release SCP-106 from containment. He sets off the site-wide alarm and informs Security Chief Franklin of the breach. Skinner then sends a message to Dr. Maynard saying, "It's out.", referring to SCP-106. He then presumably flees the site while its staff are dealing with the breach.[Dr. Maynard's Monitor]
-
-
-Dr. Maynard replies, "Proceeding." and heads down to Heavy Containment Zone where he slips into the control room of SCP-079's containment chamber. He then gives SCP-079 access to every major system in the site. When 079 questions Dr. Maynard about this, he responds "You're free now. Free to give the ones who imprisoned you what they deserve." Maynard then flees the containment chamber.[SCP-079's Control Room Monitor]
-
-
-SCP-106 is eventually re-contained with a lure subject and Agent Carey is disciplined for having left his post. The site then presumes that Agent Skinner was abducted by SCP-106.
-
-Half an hour later Researcher Ferguson notices that the blast doors in SCP-079's containment chamber have begun to malfunction. The site assumes that this was caused by SCP-106 having damaged its blast doors, as it had traverse SCP-079's chamber during the breach. Unbeknownst to the rest of the site SCP-079 is actually keeping the blast doors shut.
+After multiple SCP Foundation's facilities and sectors were attacked by the Chaos insurgency, the SCP Foundation relocated a portion of escaped SCPs to Site-██, in which the game takes place. Undercover agents from the Chaos Insurgency are responsible for the massive containment breach at Site-██, most notable being Agent Skinner and Dr. Maynard. On an undisclosed date at 9:00 AM, Agent Skinner and Agent Carey started their morning shift at SCP 106's containment chamber. After Agent Carey went to get coffee from Cafeteria B, Agent Skinner released SCP 106 and notified Dr. Maynard via the S-Com Software. Dr. Maynard then proceeded to SCP 079's containment chamber and gave SCP 079 control over every major system inside of Site-██ while the security team was busy dealing with recontainment of SCP 106. Dr. Maynard was most likely sent to the pocket dimension by SCP 106 in a hallway outside SCP 079's containment chamber. When the breach was dealt with, and cleaning crews were dispatched to fix damage caused by SCP 106, Researcher Ferguson noticed that the blast door leading to SCP 079 can not be opened manually or via the control panel. A team of three technicians was sent to check the door. After concluding that the problem is not caused by a fault in the door control system, they started disassembling the door. Soon after this, SCP 079 opened the majority of containment chamber's in the facility, causing a major containment breach.
 ## Main character
 DR.Benjamin oliver walker and His Mind did a Test on █████████ Without permission but he got Detected and got Demoted to Class-D personal but he got Amnestic-Class-B so he wouldn`t remember anything, age, Name, Where he lived.
 ![7b7dc7baea42ee01b8f077fff33ab0bd098d9c02r1-2048-1281v2_uhq-removebg-preview_(1).png](/images/logos/7b7dc7baea42ee01b8f077fff33ab0bd098d9c02r1-2048-1281v2_uhq-removebg-preview_(1).png)
