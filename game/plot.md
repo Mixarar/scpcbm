@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T13:34:20.194Z
+date: 2023-10-21T13:37:24.552Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -14,8 +14,8 @@ dateCreated: 2023-10-12T19:21:13.823Z
 {.is-warning}
 # Plot
 ## pre game events
-Before the events of the game take place, several of the Foundation's sites and sectors were attacked, which caused several Euclid and Keter SCPs to be temporarily relocated to an unspecified site until repairs on the previous facilities are completed. Not much is known about this site aside from the fact that it was previously used as a research facility, making it unable to handle the quantity of SCPs it currently possesses. Shortly after, Mobile Task Force Epsilon-11 ("Nine-Tailed Fox") was established in order to protect this site and handle containment breaches.[Notable MTFs Document]Sometime after this, Dr. Maynard and Security Agent Skinner both join the unspecified site. They are working undercover as Chaos Insurgency operatives while posing as Foundation members in order to trigger a containment breach. At this point Dr. Maynard and the Engineering and Technical Services Department initiate a concept called the Modular Site Project. This project is intended to be a redesign of both the facility's layout and its security systems in order to accommodate the workload and containment chambers of the newly relocated SCPs. Throughout SCP - Containment Breach, several computer monitors can be found pointing out problems and security risks caused by the Modular Site Project, which leads to the presumption that Dr. Maynard started the project in order to make the site more vulnerable to containment breaches.[Hooper Monitor] [Office Monitor] 
-![docir106.webp](/images/documents/docir106.webp){.align-right}
+Before the events of the game take place, ![docir106.webp](/images/documents/docir106.webp){.align-right} several of the Foundation's sites and sectors were attacked, which caused several Euclid and Keter SCPs to be temporarily relocated to an unspecified site until repairs on the previous facilities are completed. Not much is known about this site aside from the fact that it was previously used as a research facility, making it unable to handle the quantity of SCPs it currently possesses. Shortly after, Mobile Task Force Epsilon-11 ("Nine-Tailed Fox") was established in order to protect this site and handle containment breaches.[Notable MTFs Document]Sometime after this, Dr. Maynard and Security Agent Skinner both join the unspecified site. They are working undercover as Chaos Insurgency operatives while posing as Foundation members in order to trigger a containment breach. At this point Dr. Maynard and the Engineering and Technical Services Department initiate a concept called the Modular Site Project. This project is intended to be a redesign of both the facility's layout and its security systems in order to r accommodate the workload and containment chambers of the newly relocated SCPs. Throughout SCP - Containment Breach, several computer monitors can be found pointing out problems and security risks caused by the Modular Site Project, which leads to the presumption that Dr. Maynard started the project in order to make the site more vulnerable to containment breaches.[Hooper Monitor] [Office Monitor] 
+
 
 On an unknown date at 9:00, Agent Carey and Security Agent Skinner begin their morning shift of monitoring SCP-106's containment chamber. Between that time and 9:21, Carey leaves to go get coffee from the cafeteria.[Incident Report SCP-106-0204]
 
