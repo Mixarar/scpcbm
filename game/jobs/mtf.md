@@ -2,7 +2,7 @@
 title: MTF
 description: MTF lore and use in game.
 published: true
-date: 2023-10-19T14:57:59.205Z
+date: 2023-10-21T07:48:45.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:35:51.658Z
@@ -22,4 +22,6 @@ In the SCP Foundation universe, the Nine-Tailed Fox, also known as Mobile Task F
 
 The Nine-Tailed Fox is a highly trained and well-equipped force, primarily dealing with the retrieval and containment of Euclid and Keter-class SCP objects, as well as responding to containment breaches. Their members are selected from various military, paramilitary,and security organizations and undergo rigorous training to handle paranormal threats.
 ## In Game
-Mobile Task Force "Nine tailed fox" Spawns in Surface Zone of GATE-B and they Need to Contain Every SCP in the Facility, they must Escort Foundation civilians out Such as Scientist, Janitor, Clerks, Class-D ( CLass-D is optional) they need to shoot armed Class-D personnal, They need to Shoot the SCPs to win the game! when you escort Personnal out They can join your Team, 
+Mobile Task Force "Nine tailed fox" Spawns in Surface Zone of GATE-B and they Need to Contain Every SCP in the Facility, they must Escort Foundation civilians out Such as Scientist, Janitor, Clerks, Class-D ( CLass-D is optional) they need to shoot armed Class-D personnal, They need to Shoot the SCPs to win the game! when you escort Personnal out They can join your Team, |
+
+Make papa Proud And shoot the SCPs Dammit stop being cow███.
