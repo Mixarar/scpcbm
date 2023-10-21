@@ -2,14 +2,14 @@
 title: clipboard
 description: Extra slots
 published: true
-date: 2023-10-21T18:52:11.624Z
+date: 2023-10-21T19:14:12.941Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-21T18:52:11.624Z
 ---
 
 # Clipboard
-In the game “SCP - Containment Breach”, the clipboard is an equippable item that can be found in the storeroom and sometimes in the archive room. It can be used to store certain items within itself.
+![clipboard.png](/images/items/clipboard.png){.align-left}In the game “SCP - Containment Breach”, the clipboard is an equippable item that can be found in the storeroom and sometimes in the archive room. It can be used to store certain items within itself.
 
 Storage: The clipboard can be used to store documents, notes, master cards, access keycards and Emily Ross’ badge. It can only hold up to 10 items at once. This is helpful during gameplay, because the player might not have any place left in his inventory for less useful items.
 
