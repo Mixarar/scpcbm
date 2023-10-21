@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T13:53:14.652Z
+date: 2023-10-21T13:53:40.666Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -23,6 +23,9 @@ On an undisclosed date at 9:00 AM, Agent Skinner and Agent Carey started their m
  When the breach was dealt with, and cleaning crews were dispatched to fix damage caused by SCP 106, Researcher Ferguson noticed that the blast door leading to SCP 079 can not be opened manually or via the control panel.
 
  A team of three technicians was sent to check the door. After concluding that the problem is not caused by a fault in the door control system, they started disassembling the door. Soon after this, SCP 079 opened the majority of containment chamber's in the facility, causing a major containment breach.
+
+
+
 ## Main character
 DR.Benjamin oliver walker and His Mind did a Test on █████████ Without permission but he got Detected and got Demoted to Class-D personal but he got Amnestic-Class-B so he wouldn`t remember anything, age, Name, Where he lived.
 ![7b7dc7baea42ee01b8f077fff33ab0bd098d9c02r1-2048-1281v2_uhq-removebg-preview_(1).png](/images/logos/7b7dc7baea42ee01b8f077fff33ab0bd098d9c02r1-2048-1281v2_uhq-removebg-preview_(1).png)
