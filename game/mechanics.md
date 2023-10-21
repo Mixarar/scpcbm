@@ -2,7 +2,7 @@
 title: Game Mechanics
 description: Most mechanics from game.
 published: true
-date: 2023-10-21T14:08:11.539Z
+date: 2023-10-21T17:26:39.225Z
 tags: en, game, mechanics
 editor: markdown
 dateCreated: 2023-10-18T15:40:44.242Z
@@ -14,28 +14,24 @@ dateCreated: 2023-10-18T15:40:44.242Z
 In SCP: Contaiment Breach Multiplayer, there are different types of mechanics which you can encounter throughout the game. In this page, you will see links to each mechanic, and you'll be able to see what they do.
 ## 
 ![cams.jpg](/images/rooms/cams.jpg)
-- Exploration: The game is set in a procedurally generated facility with various rooms, hallways, and containment chambers. You must explore to find key items and progress through the game.
+- Exploration: The game is set in a complex Facility With thousands of Doors and the facility it self is a Maze.
 
-- Inventory: You can carry items in your inventory, such as key cards, batteries, and first aid kits. These items are crucial for progressing and surviving encounters with SCPs.
+- Inventory: You can Carry items such as Keycards and Guns With 20 slots to survive and Go deeper into the facility.
 
-- SCP Objects: The facility contains various SCP objects, each with unique and dangerous properties. Some SCPs, like SCP-173 (the "Peanut"), will attack you if you break eye contact, while others may cause hallucinations or mind-affecting effects.
+- SCP Objects: SCPs Objective is to  kill everyone in the Facility including the player.
 
-- Blink Mechanic: To survive encounters with SCP-173, you must periodically blink. If you don't blink, SCP-173 will move closer to you. This adds tension and an element of timing to the gameplay.
+- Blink Mechanic: The players blinks Every few secends when SCP-173 shows up you can avoid him by not blinking. He will kill you When your not looking.
 
-- Key Cards: Key cards are essential for accessing different areas of the facility. You must find or steal key cards from dead personnel or storage areas.
+- Key Cards: Keycards are part Of the security of the facility You need to optain them, they scattared trough out the facility.
 
-- Health and Stamina: Your character has limited health and stamina. You must manage these resources, avoid dangerous situations, and heal yourself when injured.
+- Health and Stamina: The player has an Limited Stamina and Health you can heal your self by using an Medkits And for stamina you can regained by walking or by crouching
 
-- Saving: SCP: CB uses manual saving. You must find save points throughout the facility, making saving your progress a strategic decision.
+- Saving: (singleplayer) The player can Save and when the player dies he cant load the previous save but saving isnt there in Keter diffuclity
 
-- Security Personnel: The facility is also guarded by armed security personnel who are under orders to contain breaches. You must avoid them or find ways to incapacitate them to progress.
+- Puzzles and Objectives: (singleplayer) to escape you need Figure out some Puzzles inside the facility as such visiting Certain scps Such As SCP-079
 
-- Puzzles and Objectives: To escape, you'll need to solve puzzles and complete specific objectives. These can involve finding specific items, accessing locked areas, or interacting with various objects.
+- Random Events: (Singleplayer) SCP: CB features random events and scripted sequences that can catch you off guard and increase the game's tension.
 
-- Random Events: SCP: CB features random events and scripted sequences that can catch you off guard and increase the game's tension.
+- Atmosphere and Horror: In SCP: CB The atmosphere is dark and greedy with its ambience to make you scared when an Jumpscare apears.
 
-- Permadeath: If your character dies, you'll need to reload a previous save, which makes death a significant setback.
-
-- Atmosphere and Horror: The game is known for its dark and eerie atmosphere, jump scares, and psychological horror elements. It relies heavily on building tension and fear.
-
-`SCP: CB is a challenging and frightening game that relies on exploration, resource management, and the avoidance of deadly SCPs. It has gained a strong following in the SCP community and horror game enthusiasts for its unique take on the SCP Foundation lore.`
+- SCP containment breach is a horror game That is based on its SCP wikis, The game Horror comes from the SCPs or Its Atmosphere and its horror.
