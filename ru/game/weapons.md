@@ -2,7 +2,7 @@
 title: Оружие
 description: Все об оружии в игре
 published: true
-date: 2023-10-21T15:59:11.206Z
+date: 2023-10-21T16:13:37.691Z
 tags: ru, игра, оружие
 editor: markdown
 dateCreated: 2023-10-21T15:58:08.336Z
