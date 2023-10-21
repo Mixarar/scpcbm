@@ -2,7 +2,7 @@
 title: Зброя
 description: Вся зброя та її характеристики
 published: true
-date: 2023-10-21T17:13:21.786Z
+date: 2023-10-21T17:15:13.779Z
 tags: game, ua, weapon, breach
 editor: markdown
 dateCreated: 2023-10-21T05:54:15.409Z
@@ -55,8 +55,7 @@ dateCreated: 2023-10-21T05:54:15.409Z
 ![grenade.png](/images/items/inventoryicons/grenade.png){.align-left}**Назва** `Граната`
 **Пошкодження**: `100`
 
-!(/images/items/inventoryicons/microhid.png){.align-left}
 
-**Назва**: `Micro-H.I.D`
-
+![microhid.png](/images/items/inventoryicons/microhid.png){.align-left}**Назва**: `Micro-H.I.D`
 **Пошкодження**: `Великі пошкодження`
+
