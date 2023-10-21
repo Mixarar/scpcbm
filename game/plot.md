@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-20T16:10:58.465Z
+date: 2023-10-21T11:52:23.347Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -76,6 +76,8 @@ The end screen plays a recording of a testing log in which a scientist discusses
 
 <audio controls src="/audios/dialogue/scp_class0d.mp3"></audio>
 
+![gate-a-gmod.jpg](/images/rooms/gate-a-gmod.jpg)
+
 ## Gate B
 Upon entering Gate B, a voice over the intercom will announce that SCP-682 has broken out of the facility in that area and that they will be detonating the alpha warheads in 90 seconds.
 
@@ -100,6 +102,8 @@ If D-9341 has turned off the Alpha Warheads in the Warhead Silo, the nuclear det
 - "Roger that sir."
 
 <audio controls src="/audios/dialogue/endingb3.mp3"></audio>
+
+![gate-b.jpg](/images/rooms/gate-b.jpg)
 
 ## After event
 
