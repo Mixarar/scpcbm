@@ -1,8 +1,8 @@
 ---
 title: ITEMNAME page
 description: A short description about the item
-published: true
-date: 2023-10-14T13:55:46.586Z
+published: false
+date: 2023-10-21T09:14:50.997Z
 tags: en, game, item
 editor: markdown
 dateCreated: 2023-10-08T15:08:17.529Z
