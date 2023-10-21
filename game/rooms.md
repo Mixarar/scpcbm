@@ -2,7 +2,7 @@
 title: Rooms List
 description: Wiki page with all rooms inside of the game, and their detailed description.
 published: true
-date: 2023-10-15T15:14:57.743Z
+date: 2023-10-21T18:42:22.696Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:22:58.377Z
@@ -12,4 +12,6 @@ dateCreated: 2023-10-12T19:22:58.377Z
 {.links-list}
 # Rooms
 - [:gear:SCP-914*a large clockwork device.*](/en/game/rooms/scp914)
+{.links-list}
+- [:pizza: Cafeteria *Lunch break*](/en/game/rooms/cafeteria)
 {.links-list}
