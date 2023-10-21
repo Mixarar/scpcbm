@@ -2,7 +2,7 @@
 title: Оружие
 description: Все виды оружия и их характеристики
 published: true
-date: 2023-10-21T16:11:56.622Z
+date: 2023-10-21T16:13:14.362Z
 tags: ru, игра, оружие, мультиплеер
 editor: markdown
 dateCreated: 2023-10-21T16:11:56.622Z
@@ -69,7 +69,7 @@ dateCreated: 2023-10-21T16:11:56.622Z
 ![rpg.png](/images/items/inventoryicons/rpg.png){.align-left}**Название**: `RPG`
 **Урон**: `96-97`
 **Патрон**: `1/5`
-**Урон с бронежилетом**:`1`
+**Скорострельность**:`1`
 ⠀
 
 ![grenade.png](/images/items/inventoryicons/grenade.png){.align-left}**Название**: `Граната`
