@@ -2,7 +2,7 @@
 title: Chaos Insurgency
 description: Chaos lore and use in the game.
 published: true
-date: 2023-10-21T17:12:56.888Z
+date: 2023-10-21T17:14:50.741Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:37:53.990Z
@@ -31,4 +31,4 @@ In the midst of chaos, communication is paramount. Thus, each Chaos Soldier carr
 
 The lore of the Chaos Insurgency is one of rebellion, of individuals who have looked into the abyss and chosen to wield its power. It is a story of those who have turned their back on the Foundation, seeking to rewrite the rules of this enigmatic universe. In the end, whether they are agents of anarchy or harbingers of change, the Chaos Soldiers are a force that cannot be ignored. They are the embodiment of chaos, a living, breathing testament to the unpredictability of the SCP universe.
 ## In Game
-Chaos Insurgents spawn on the road at Gate-A. Their job is to terminate Nine Tailed Fox Operatives, surviving foundation personnel and SCPs, as well as to escort Class-D personnel to the Gate-A exit. 
+Chaos Insurgents spawn on the road at Gate-A. Their job is to terminate Nine Tailed Fox Operatives, surviving foundation employees and SCPs, as well as to escort Class-D personnel to the Gate-A exit. 
