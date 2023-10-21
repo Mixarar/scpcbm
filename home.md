@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-20T14:52:40.176Z
+date: 2023-10-21T09:32:06.253Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -37,7 +37,7 @@ Wiki about the game itself, everything you might want to check out.
 {.links-list}
 
 ## Breach Mode/Multiplayer
-- [:gun:Weapons *All about most weapons in game.*](/en/game/weapons)
+- [:gun: Weapons *All about most weapons in game.*](/en/game/weapons)
 - [:construction_worker: Roles *People's jobs, playable SCPs and everything about them.*](/en/game/jobs)
 {.links-list}
 
@@ -49,9 +49,9 @@ Everything that hosters might need for their server.
 {.links-list}
 
 # Credits
-- [:man_teacher:Developers*People from Fusion Creators Studio*](/en/credits/devs)
+- [:man_teacher: Developers*People from Fusion Creators Studio*](/en/credits/devs)
 {.links-list}
-- [:man_office_worker:Wiki-Editors*People that making Wiki*](/en/credits/edits)
+- [:man_office_worker: Wiki-Editors*People that making Wiki*](/en/credits/edits)
 {.links-list}
 - [:man_technologist: Beta-Testers*People that testing game*](/en/credits/testers)
 {.links-list}
