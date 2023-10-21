@@ -2,7 +2,7 @@
 title: Game Mechanics
 description: Most mechanics from game.
 published: true
-date: 2023-10-21T13:01:21.767Z
+date: 2023-10-21T13:03:00.988Z
 tags: en, game, mechanics
 editor: markdown
 dateCreated: 2023-10-18T15:40:44.242Z
@@ -13,6 +13,7 @@ dateCreated: 2023-10-18T15:40:44.242Z
 # Game Mechanics
 In SCP: Contaiment Breach Multiplayer, there are different types of mechanics which you can encounter throughout the game. In this page, you will see links to each mechanic, and you'll be able to see what they do.
 ## 
+![cams.jpg](/images/rooms/cams.jpg)
 - Exploration: The game is set in a procedurally generated facility with various rooms, hallways, and containment chambers. You must explore to find key items and progress through the game.
 
 - Inventory: You can carry items in your inventory, such as key cards, batteries, and first aid kits. These items are crucial for progressing and surviving encounters with SCPs.
@@ -37,4 +38,4 @@ In SCP: Contaiment Breach Multiplayer, there are different types of mechanics wh
 
 - Atmosphere and Horror: The game is known for its dark and eerie atmosphere, jump scares, and psychological horror elements. It relies heavily on building tension and fear.
 
-- SCP: CB is a challenging and frightening game that relies on exploration, resource management, and the avoidance of deadly SCPs. It has gained a strong following in the SCP community and horror game enthusiasts for its unique take on the SCP Foundation lore.
+- (/images/rooms/cams.jpg)SCP: CB is a challenging and frightening game that relies on exploration, resource management, and the avoidance of deadly SCPs. It has gained a strong following in the SCP community and horror game enthusiasts for its unique take on the SCP Foundation lore.
