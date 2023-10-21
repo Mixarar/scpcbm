@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T13:56:02.573Z
+date: 2023-10-21T13:56:54.740Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -31,7 +31,7 @@ DR.Benjamin oliver walker and His Mind did a Test on █████████
 ![7b7dc7baea42ee01b8f077fff33ab0bd098d9c02r1-2048-1281v2_uhq-removebg-preview_(1).png](/images/logos/7b7dc7baea42ee01b8f077fff33ab0bd098d9c02r1-2048-1281v2_uhq-removebg-preview_(1).png)
 ## Ingame
 The player wakes up As Benjamin In a Cell, the player is Escorted to SCP-173s Chamber and you can hear scientists talk about SCP-079s Chamber not opening, When you arrive to SCP-173s Chamber You can see 2 Class-D personal waiting for you, When the Testing begins The chamber doors Seems to be Not Closing due SCP-079 having controls over the systems and the lights flicker and SCP-173 Escapes his chamber leading to an Keter-Euclid Containment Breach
-![d-9341_cell.webp](/images/rooms/d-9341_cell.webp)
+![d-9341_cell.webp](/images/rooms/d-9341_cell.webp =500x)
 ## Audio
 - "For some reason, he passed by 079's chamber, and now the doors aren't working."
 [indecipherable]
