@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-21T14:03:38.772Z
+date: 2023-10-21T16:43:51.215Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -102,7 +102,7 @@ In **SCP Containment Breach** there is Many SCPS inside the facility! here are s
 {.links-list}
 - [SCP-420-J *weed*](/en/game/scps/420-j)
 ## Sentient SCP`s
-- [SCP-079 *The PC.*](/en/game/scps/079)
+- [SCP-079 *Old Ai*](/en/game/scps/079)
 {.links-list}
 - [SCP-372 *The Peripheral Jumper.*](/en/game/scps/372)
 {.links-list}
