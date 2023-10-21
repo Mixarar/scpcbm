@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T16:55:22.015Z
+date: 2023-10-21T16:55:49.206Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -124,7 +124,7 @@ It is unknown as to what happens after any of the endings, but judging by the fa
 In the second ending at Gate A, it is safe to asume the scientist is referring to the players ability to respawn. This will most likely result with the player obtaining a SCP status, although it is unknown how/if he will be contained.
 
 ## Others
-It's really scary to think that in a situation like this, your chances of survival would be one in a million. ~ Zav
+It's really scary to think that in a situation like this, your chances of survival would be one in a krillion. ~ Zav
 
 
 
