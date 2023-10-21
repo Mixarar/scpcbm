@@ -2,12 +2,14 @@
 title: clipboard
 description: Extra slots
 published: true
-date: 2023-10-21T19:14:12.941Z
+date: 2023-10-21T19:15:02.695Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-21T18:52:11.624Z
 ---
 
+- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
+{.links-list}
 # Clipboard
 ![clipboard.png](/images/items/clipboard.png){.align-left}In the game “SCP - Containment Breach”, the clipboard is an equippable item that can be found in the storeroom and sometimes in the archive room. It can be used to store certain items within itself.
 
