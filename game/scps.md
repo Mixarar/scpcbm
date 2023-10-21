@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-21T16:43:51.215Z
+date: 2023-10-21T16:45:06.939Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -42,8 +42,6 @@ In **SCP Containment Breach** there is Many SCPS inside the facility! here are s
 {.links-list}
 - [SCP-500 *The Panacea.*](/en/game/scps/500)
 {.links-list}
-- [SCP-420-J *weed*](/en/game/scps/420-j)
-{.links-list}
 - [SCP-DUCKs *Anomalous Ducks*](/en/game/scps/ducks)
 {.links-list}
 - [SCP-205 *The Lamp.*](/en/game/scps/205)
@@ -56,6 +54,8 @@ In **SCP Containment Breach** there is Many SCPS inside the facility! here are s
 - [SCP-914 *The clockwork.*](/en/game/scps/914)
 - [SCP-294 *The The Coffee Machine.*](/en/game/scps/294)
 - [SCP-970 *The end never ends*](/en/game/scps/970)
+- [SCP-079 *Old Ai*](/en/game/scps/079)
+{.links-list}
 
 ## Hostile SCP`s 
 
@@ -66,6 +66,8 @@ In **SCP Containment Breach** there is Many SCPS inside the facility! here are s
 - [ SCP-096 *The Shy-Guy.* ](/en/game/scps/096)
 {.links-list}
 - [SCP-966 *The sleep killers.*](/en/game/scps/966)
+{.links-list}
+- [SCP-079 *Old Ai*](/en/game/scps/079)
 {.links-list}
 - [SCP-066 *Erics Toy.*](/en/game/scps/066)
 {.links-list}
