@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T15:16:10.092Z
+date: 2023-10-21T15:20:54.533Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -86,7 +86,7 @@ The end screen plays a recording of a testing log in which a scientist discusses
 "Testing log ███. Subject █-████. Subject demonstrates extraordinary luck and complete mastery of even the most fatal of circumstances and an uncanny ability to predict even the most unpredictable of hazards, almost as if it has performed these impossible tasks several times before. Further testing is required to determine whether the subject should receive SCP classification."
 
 <audio controls src="/audios/dialogue/scp_class0d.mp3"></audio>
-this ending at gate A confirms that Benjamin gained anomalous abilities sometime before the breach began, allowing him to survive. It is very likely that his research on the "Spiral Gestalt" was, to some degree, successful, which resulted in him gaining anomalous abilities. 
+this ending  confirms that Benjamin gained anomalous abilities sometime before the breach began, allowing him to survive. It is very likely that his research on the "Spiral Gestalt" was, to some degree, successful, which resulted in him gaining anomalous abilities. 
 ![gate-a-gmod.jpg](/images/rooms/gate-a-gmod.jpg)
 
  
