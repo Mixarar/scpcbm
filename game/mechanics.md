@@ -2,7 +2,7 @@
 title: Game Mechanics
 description: Most mechanics from game.
 published: true
-date: 2023-10-21T17:35:12.859Z
+date: 2023-10-21T18:14:19.776Z
 tags: en, game, mechanics
 editor: markdown
 dateCreated: 2023-10-18T15:40:44.242Z
@@ -13,6 +13,5 @@ dateCreated: 2023-10-18T15:40:44.242Z
 # Game Mechanics
 In SCP: Contaiment Breach Multiplayer, there are different types of mechanics which you can encounter throughout the game. In this page, you will see links to each mechanic, and you'll be able to see what they do.
 ## 
-![cams.jpg](/images/rooms/cams.jpg)
-- [Exploration *Map/seed/maze*](/en/game/mechanics/Exploration)
+- [Exploration *Map/seed/maze.*](/en/game/mechanics/Exploration)
 {.links-list}
