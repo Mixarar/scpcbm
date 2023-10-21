@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T11:52:23.347Z
+date: 2023-10-21T12:49:04.157Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -104,7 +104,6 @@ If D-9341 has turned off the Alpha Warheads in the Warhead Silo, the nuclear det
 <audio controls src="/audios/dialogue/endingb3.mp3"></audio>
 
 ![gate-b.jpg](/images/rooms/gate-b.jpg)
-
 ## After event
 
 It is unknown as to what happens after any of the endings, but judging by the fact that quotes from personnel who are cleaning up the facility are seen whenever the player dies, it is assumed that the containment breach was eventually resolved.
