@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-10-19T14:53:46.902Z
+date: 2023-10-21T13:59:30.721Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -146,3 +146,5 @@ In **SCP Containment Breach** there is Many SCPS inside the facility! here are s
 
 - [Error*t̷͌̊ḧ̴͆i̴͆̇s̴̈́͂ ̸̎̈p̷̐̒l̸͌ace ͔ẃ̷̈i̶͌̾l̸̓̎l̵̗̆ ̶̋burn*](/en/game/scps/990)
 {.links-list} 
+- [REDACTED *kisser*](/en/README)
+{.links-list}
