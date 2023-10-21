@@ -2,7 +2,7 @@
 title: Home
 description: Home page of the wiki
 published: true
-date: 2023-10-21T09:32:06.253Z
+date: 2023-10-21T13:51:54.204Z
 tags: home, en
 editor: markdown
 dateCreated: 2023-10-08T12:37:51.212Z
@@ -37,7 +37,7 @@ Wiki about the game itself, everything you might want to check out.
 {.links-list}
 
 ## Breach Mode/Multiplayer
-- [:gun: Weapons *All about most weapons in game.*](/en/game/weapons)
+- [![gunemoji-v3.png](/images/templates/gunemoji-v3.png =24x){.align-left}Weapons *All about most weapons in game.*](/en/game/weapons)
 - [:construction_worker: Roles *People's jobs, playable SCPs and everything about them.*](/en/game/jobs)
 {.links-list}
 
