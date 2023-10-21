@@ -2,7 +2,7 @@
 title: Game Mechanics
 description: Most mechanics from game.
 published: true
-date: 2023-10-21T13:08:22.949Z
+date: 2023-10-21T13:08:34.875Z
 tags: en, game, mechanics
 editor: markdown
 dateCreated: 2023-10-18T15:40:44.242Z
@@ -38,4 +38,4 @@ In SCP: Contaiment Breach Multiplayer, there are different types of mechanics wh
 
 - Atmosphere and Horror: The game is known for its dark and eerie atmosphere, jump scares, and psychological horror elements. It relies heavily on building tension and fear.
 
-- SCP: CB is a challenging and frightening game that relies on exploration, resource management, and the avoidance of deadly SCPs. It has gained a strong following in the SCP community and horror game enthusiasts for its unique take on the SCP Foundation lore.
+SCP: CB is a challenging and frightening game that relies on exploration, resource management, and the avoidance of deadly SCPs. It has gained a strong following in the SCP community and horror game enthusiasts for its unique take on the SCP Foundation lore.
