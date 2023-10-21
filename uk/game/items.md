@@ -2,7 +2,7 @@
 title: Предмети 
 description: 
 published: true
-date: 2023-10-17T19:09:56.306Z
+date: 2023-10-21T06:03:16.202Z
 tags: game, ua
 editor: markdown
 dateCreated: 2023-10-15T10:19:56.739Z
@@ -18,6 +18,8 @@ dateCreated: 2023-10-15T10:19:56.739Z
 - [:arrow_backward: Протигаз *Всі варіанти протигазу.*](/uk/game/items/gas-mask)
 {.links-list}
 - [:hospital: Аптечка *Усі варіанти аптечок.*](/uk/game/items/first-aid-kit)
+{.links-list}
+- [:briefcase: Wallet *Додаткові слоти.*](/uk/game/items/Wallet)
 {.links-list}
 
 > Примітка: Ця сторінка недостатньо розроблена і може бути повністю змінена, як і інші сторінки.
