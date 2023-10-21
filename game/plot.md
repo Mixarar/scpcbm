@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T12:53:09.541Z
+date: 2023-10-21T12:54:20.482Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -14,12 +14,12 @@ dateCreated: 2023-10-12T19:21:13.823Z
 {.is-warning}
 # Plot
 ## Backstory
-In the depths in the darkness Multiple Keter and euclid Facilities Were Attacked, Scps were relocated to multiple sites but it was found out by the Terrorists multiple times, SCPs Were relocated to SITE-19 Canada In middle of no where, Chaos insurgency sent DR.Maynard And his partner Agent.Skinner To Reap the Facility, After few days Agent skinner Released SCP-106 when his Partner left to get his Coffe in the cafeteria, After SCP-106 was released DR.Maynard Rushed to SCP-079s Chamber and Released SCP-079, DR███ Tried to open the doors to SCP-079 but it was locked, DR.███ Called the ██████ Crew to Break down the door. 
+In the depths in the darkness Multiple Keter and euclid Facilities Were Attacked, Scps were relocated to multiple sites but it was found out by the Terrorists multiple times, SCPs Were relocated to SITE-19 Canada In middle of no where, Chaos insurgency sent DR.Maynard And his partner Agent.Skinner To Reap the Facility, After few days Agent skinner Released SCP-106 when his Partner left to get his Coffe in the cafeteria, After SCP-106 was released DR.Maynard Rushed to SCP-079s Chamber and Released SCP-079, Dr Researcher Ferguson Tried to open the doors to SCP-079 but it was locked, Ferguson Called the ██████ Crew to Break down the door. 
 ## Main character
 DR.Benjermin oliver walker and His Mind did a Test on █████████ Without permission but he got Detected and got Demoted to Class-D personal but he got Amnestic-Class-B so he wouldn`t remember anything, age, Name, Where he lived.
 ![7b7dc7baea42ee01b8f077fff33ab0bd098d9c02r1-2048-1281v2_uhq-removebg-preview_(1).png](/images/logos/7b7dc7baea42ee01b8f077fff33ab0bd098d9c02r1-2048-1281v2_uhq-removebg-preview_(1).png)
 ## Ingame
-The player wakes up As Benjerman In a Cell, the player is Escorted to SCP-173s Chamber and you can hear scientists talk about SCP-079s Chamber not opening, When you arrive to SCP-173s Chamber You can see 2 Class-D personal waiting for you, When the Testing begins The chamber doors Seems to be Not Closing due SCP-079 having controls over the systems and the lights flicker and SCP-173 Escapes his chamber leading to an Keter-Euclid Containment Breach
+The player wakes up As Benjermin In a Cell, the player is Escorted to SCP-173s Chamber and you can hear scientists talk about SCP-079s Chamber not opening, When you arrive to SCP-173s Chamber You can see 2 Class-D personal waiting for you, When the Testing begins The chamber doors Seems to be Not Closing due SCP-079 having controls over the systems and the lights flicker and SCP-173 Escapes his chamber leading to an Keter-Euclid Containment Breach
 ![d-9341_cell.webp](/images/rooms/d-9341_cell.webp)
 ## Audio
 - "For some reason, he passed by 079's chamber, and now the doors aren't working."
