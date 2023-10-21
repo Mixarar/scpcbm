@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T16:39:26.951Z
+date: 2023-10-21T16:49:28.961Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -87,7 +87,7 @@ The end screen plays a recording of a testing log in which a scientist discusses
 
 <audio controls src="/audios/dialogue/scp_class0d.mp3"></audio>
 this ending  confirms that Benjamin gained anomalous abilities sometime before the breach began, allowing him to survive. It is very likely that his research on the "Spiral Gestalt" was, to some degree, successful, which resulted in him gaining anomalous abilities. 
-![gate-a-gmod.jpg](/images/rooms/gate-a-gmod.jpg)
+![gate-a_last_i_promise_uwu.png](/images/rooms/gate-a_last_i_promise_uwu.png)
 
  
 
