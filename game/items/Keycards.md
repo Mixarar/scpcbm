@@ -2,7 +2,7 @@
 title: Keycards
 description: All levels keycards
 published: true
-date: 2023-10-18T14:18:41.891Z
+date: 2023-10-22T20:06:02.846Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -33,7 +33,7 @@ dateCreated: 2023-10-14T17:59:30.191Z
 
 ###### <font color="#985901">LEVEL</font> <font color="#9a9a9a">3</font> <font color="#985901">KEYCARD</font>
 ![keycard3.png](/images/items/key3.png =175x){.align-left}**Name**: `Level 3 keycard`
-**Location**: `SCP-895'S chamber.`
+**Location**: `SCP-895'S chamber;elevator machine room.`
 *Most useful Keycard in Light Contaiment Zone,
 Have a big chance to become Master Card while upgrading in SCP-914.*
 ⠀
