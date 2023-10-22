@@ -2,7 +2,7 @@
 title: Items
 description: Items page
 published: true
-date: 2023-10-22T04:28:05.578Z
+date: 2023-10-22T20:13:43.885Z
 tags: en, game, item
 editor: markdown
 dateCreated: 2023-10-08T15:34:31.889Z
@@ -20,4 +20,5 @@ In SCP: Contaiment Breach Multiplayer, there are different types of items which 
 - [:briefcase: Wallet *Extra slots.*](/en/game/items/Wallet)
 - [:clipboard: clipboard *Extra slots.*](/en/game/items/clipboard)
 - [🥽 Night vision goggles *NVG*](/en/game/items/nvg)
+- [🗺️ SNAV *SNAV and its variants*](/en/game/items/snav)
 {.links-list}
