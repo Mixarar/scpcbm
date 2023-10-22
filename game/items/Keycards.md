@@ -2,7 +2,7 @@
 title: Keycards
 description: All levels keycards
 published: true
-date: 2023-10-22T20:06:02.846Z
+date: 2023-10-22T20:18:36.189Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -69,7 +69,7 @@ Have a big chance to become Master Card while upgrading in SCP-914.*
 **The keycard can be created** *by putting a level 3 keycard into SCP-914 on the "Fine" setting with small chance.*
 ###### <font color="#9b0201">LEVEL</font> <font color="#9a9a9a">5</font> <font color="#9b0201">KEYCARD</font>
 ![keycard5.png](/images/items/key5.png =175x){.align-left}**Name**: `Level 5 keycard`
-**Location**: `SCP-106's chamber.`
+**Location**: `SCP-106's chamber;Head Office.`
 *The level 5 keycard is the highest keycard that can be obtained. Both this, and the Omni card, can access any rooms requiring a keycard.*
 ⠀
 ⠀
