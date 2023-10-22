@@ -2,7 +2,7 @@
 title: Ключ-карты
 description: Все уровни доступа ключ карт
 published: true
-date: 2023-10-22T20:55:22.375Z
+date: 2023-10-22T21:23:41.545Z
 tags: ru, игра, предмет, карта
 editor: markdown
 dateCreated: 2023-10-21T12:13:08.517Z
@@ -70,21 +70,21 @@ dateCreated: 2023-10-21T12:13:08.517Z
 ###### <font color="#9b0201">КЛЮЧ-КАРТА</font> <font color="#9a9a9a">5</font> <font color="#9b0201">ДОПУСКА</font>
 ![keycard5.png](/images/items/key5.png =175x){.align-left}**Название**: `Ключ-карта 5 допуска`
 **Местонахождение**: `Камера SCP-106.`
-*The level 5 keycard is the highest keycard that can be obtained. Both this, and the Omni card, can access any rooms requiring a keycard.*
+*Ключ-карта 5 уровня допуска это самая высшая ключ карта что может быть создана, включая и Omni ключ-карту, могут открыть любую дверь.*
 ⠀
 ⠀
-**Level 5 keycards can be used to exclusively open:**
+**Эксклюзивно может открыть:**
 
-- *SCP-035's chamber.*
-- *The door to the elevator leading to the warhead room as well as the door leading into the small control room inside.*
-- *The checkpoint room between the Heavy Containment Zone and Entrance Zone.*
-- *The blast door to reach Gate A.*
+- *Камера SCP-035.*
+- *Комната ядерной боеголовки.*
+- *Чекпоинт между тяжелой зоной содержания и входной зоной.*
+- *Большая дверь на Выход А.*
 
-**The keycard can be created** *by putting a level 4 keycard into SCP-914 on the "Fine" setting.*
+**Ключ-карта может быть создана** *если положить ключ-карту 4 уровня допуска в SCP-914 на "Тонко".*
 ###### <font color="#02029b">OMNI</font> <font color="#9a9a9a">КЛЮЧ-КАРТА</font>
-![keycard6.png](/images/items/key6.png =175x){.align-left}**Name**: `Omni Keycard`
-**Location**: `none`
-The Omni keycard is a blue and white keycard with no text in the  centre of the keycard unlike the levels 1 to 5 keycard
-**can access anything requiring a keycard**, *making it equivalent to a level 5 keycard.*  
-**can only be obtained** *via placing a level 5 keycard into SCP-914 on the "Fine" setting 
-or with any level keycard on the "Very Fine" setting, though this has a chance of creating a MasterCard instead.*
+![keycard6.png](/images/items/key6.png =175x){.align-left}**Название**: `Omni ключ-карта`
+**Местонахождение**: `нету`
+Omni ключ-карта это синя-белая ключ-карта без текста в центре как у других ключ-карт от 1 до 5 уровня допуска
+**Может открыть все что требует ключ-карту**, *что делает ее\ эквивалентным карточке-ключу 5-го уровня.*  
+**может быть получена только** *если положить ключ-карту 5 уровня допуска в SCP-914 на "Тонко".
+либо с любым уровнем допуска на "Очень тонко", но вместо этого она скорей превратится в Банковскую карту.*
