@@ -2,7 +2,7 @@
 title: Гайд по установке
 description: 
 published: true
-date: 2023-10-15T14:57:06.530Z
+date: 2023-10-22T04:20:45.613Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:48:21.528Z
@@ -38,7 +38,7 @@ dateCreated: 2023-10-14T10:48:21.528Z
 - Больше что-то
 - Лорем Ипсум
 
-## Steps to install the server:
+## Шаги по установке сервера:
 1. Откройте ваше [**приложение Steam**](https://store.steampowered.com/about/).
 2. Зайдите в свою библиотеку.
 3. В поиске библиотеки введите SCP: Coalition Decidated Server
