@@ -2,7 +2,7 @@
 title: Ключ-карты
 description: Все уровни доступа ключ карт
 published: true
-date: 2023-10-21T22:54:34.683Z
+date: 2023-10-22T20:51:42.967Z
 tags: ru, игра, предмет, карта
 editor: markdown
 dateCreated: 2023-10-21T12:13:08.517Z
@@ -68,8 +68,8 @@ dateCreated: 2023-10-21T12:13:08.517Z
 
 **Ключ-карта может быть создана** *если положить ключ-карту третьего уровня допуска в SCP-914 на "Тонко" с небольшим шансом.*
 ###### <font color="#9b0201">КЛЮЧ-КАРТА</font> <font color="#9a9a9a">5</font> <font color="#9b0201">ДОПУСКА</font>
-![keycard5.png](/images/items/key5.png =175x){.align-left}**Name**: `Level 5 keycard`
-**Location**: `SCP-106's chamber.`
+![keycard5.png](/images/items/key5.png =175x){.align-left}**Название**: `Ключ-карта 5 допуска`
+**Местонахождение**: `Камера SCP-106.`
 *The level 5 keycard is the highest keycard that can be obtained. Both this, and the Omni card, can access any rooms requiring a keycard.*
 ⠀
 ⠀
