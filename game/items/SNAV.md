@@ -2,7 +2,7 @@
 title: S-NAV 300
 description: Navigator
 published: true
-date: 2023-10-23T13:30:37.329Z
+date: 2023-10-23T13:31:44.939Z
 tags: en, game, items, snav
 editor: markdown
 dateCreated: 2023-10-22T20:14:56.465Z
@@ -11,8 +11,7 @@ dateCreated: 2023-10-22T20:14:56.465Z
 - [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
 {.links-list}
 # S-Nav 300
-![snav.png](/images/items/snav.png =410x273){.align-left}
-The S-Nav 300 Navigator is a tool that can be used to better navigate through the facility. It can be found at Light Testing Chamber 2B and the archive room in the Light Containment Zone. It can be used in order to better navigate the facility. As you are walking through the facility, this device will draw a simple map of all rooms you have passed. It requires 9V Batteries to function. One battery is enough to power the navigator for approximately 4-5 minutes.
+![snav.png](/images/items/snav.png =410x273){.align-left}The S-Nav 300 Navigator is a tool that can be used to better navigate through the facility. It can be found at Light Testing Chamber 2B and the archive room in the Light Containment Zone. It can be used in order to better navigate the facility. As you are walking through the facility, this device will draw a simple map of all rooms you have passed. It requires 9V Batteries to function. One battery is enough to power the navigator for approximately 4-5 minutes.
 ⠀
 ⠀
 ⠀
