@@ -2,7 +2,7 @@
 title: Markdown Guide
 description: A comprehensive guide on markdown that is supported on our wiki.
 published: true
-date: 2023-10-16T20:24:40.548Z
+date: 2023-10-23T22:08:56.236Z
 tags: en
 editor: markdown
 dateCreated: 2023-10-15T16:53:41.075Z
@@ -153,18 +153,18 @@ This text is separated with a horizontal line
 separate dividing line.
 ```
 
-# hiperlinks
+# hyperlinks
 
-## Hiperlinks {.tabset}
+## Hyperlinks {.tabset}
 
 ### Preview
 
-The hiperlinks can be embedded as [text](sintaxe/markdown) and as image [![image with 16x16 pixels](/images/roles/classd.png =16x)](sintaxe/markdown).
+The hyperlinks can be embedded as [text](sintaxe/markdown) and as image [![image with 16x16 pixels](/images/roles/classd.png =16x)](sintaxe/markdown).
 
 ### Source code
 
 ```markdown
-The hiperlinks can be embedded as [text](sintaxe/markdown) and as image [![image with 16x16 pixels](/images/roles/classd.png =16x)](sintaxe/markdown).
+The hyperlinks can be embedded as [text](sintaxe/markdown) and as image [![image with 16x16 pixels](/images/roles/classd.png =16x)](sintaxe/markdown).
 ```
 
 # list (todo list)
@@ -225,9 +225,9 @@ Here is a example of a grid list:
 {.grid-list}
 
 Here is a example of a list formated especially for hyperlinks:
-- [A hiperlink *with description*](sintaxe/markdown)
-- [Another hiperlink *with aditional description*](sintaxe/markdown)
-- [And another hiperlink *also with description*](sintaxe/markdown)
+- [A hyperlink *with description*](sintaxe/markdown)
+- [Another hyperlink *with aditional description*](sintaxe/markdown)
+- [And another hyperlink *also with description*](sintaxe/markdown)
 {.links-list}
 
 ### Source code
@@ -245,9 +245,9 @@ Here is a example of a grid list:
 {.grid-list}
 
 Here is a example of a list formated especially for hyperlinks:
-- [A hiperlink *with description*](sintaxe/markdown)
-- [Another hiperlink *with aditional description*](sintaxe/markdown)
-- [And another hiperlink *also with description*](sintaxe/markdown)
+- [A hyperlink *with description*](sintaxe/markdown)
+- [Another hyperlink *with aditional description*](sintaxe/markdown)
+- [And another hyperlink *also with description*](sintaxe/markdown)
 {.links-list}
 ```
 
