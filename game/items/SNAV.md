@@ -2,7 +2,7 @@
 title: S-NAV 300
 description: Navigator
 published: true
-date: 2023-10-23T13:41:21.067Z
+date: 2023-10-23T13:41:35.411Z
 tags: en, game, items, snav
 editor: markdown
 dateCreated: 2023-10-22T20:14:56.465Z
@@ -17,6 +17,7 @@ dateCreated: 2023-10-22T20:14:56.465Z
 ⠀
 ## S-Nav 310
 ![snav.png](/images/items/snav.png =410x273){.align-left}can be made by putting an S-Nav 300 Navigator in SCP-914 “The Clockworks” on the setting “Fine”. This navigator displays the whole layout of the facility, regardless of whether you have been there or not.
+⠀
 ⠀
 ⠀
 ⠀
