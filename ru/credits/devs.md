@@ -2,7 +2,7 @@
 title: Команда разработчиков
 description: Люди, создающие игру
 published: true
-date: 2023-10-18T07:21:07.251Z
+date: 2023-10-23T08:07:49.873Z
 tags: ru, игра, благодарность, разработчики
 editor: markdown
 dateCreated: 2023-10-15T14:12:32.990Z
@@ -18,8 +18,6 @@ dateCreated: 2023-10-15T14:12:32.990Z
 - **Anders** *(@anders_25706)*
 - **Deepfried Chips** *(@chipsproto)*
 - **itzslain**
-## <font color="#6c5dff">Руководитель проекта</font>
-- **Saitama** *(@skaneprime)*
 ## <font color="#1c61f3">Основной разработчик</font>
 - **Anders** *(@anders_25706)*
 - **GrOm_Amg**
