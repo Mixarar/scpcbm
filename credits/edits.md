@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: All human who working on this site
 published: true
-date: 2023-10-23T06:19:14.368Z
+date: 2023-10-23T11:58:56.954Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -15,6 +15,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 - **Mixarar** - [Wiki](https://wiki.scpcbm.com/home)
 - **Griefer** *(@6i9u)* - [Keycards](https://wiki.scpcbm.com/en/game/items/Keycards) / [Weapons](/en/game/weapons) / [Credits](/en/home#credits) / [SCP-914](/en/game/rooms/scp914)
 - **Zav** *(@zavpw)* - [SCP's List](https://wiki.scpcbm.com/en/game/scps) / [Roles](https://wiki.scpcbm.com/en/game/jobs) /  [Plot](https://wiki.scpcbm.com/en/game/plot) / [Wallet](/en/game/items/Wallet)
+- **theman** *(@theman5398)*   [Plot](https://wiki.scpcbm.com/en/game/plot)
 - **Mr. Kennedy** *(@mr.kennedy4231)* - [Gas-Mask](https://wiki.scpcbm.com/en/game/items/gas-mask) / [First Aid Kit](/en/game/items/first-aid-kit)
 - **ItzSlain** 
 - **Db478**
