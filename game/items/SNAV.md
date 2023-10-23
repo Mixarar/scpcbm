@@ -2,7 +2,7 @@
 title: S-NAV 300
 description: Navigator
 published: true
-date: 2023-10-23T13:41:35.411Z
+date: 2023-10-23T13:42:00.666Z
 tags: en, game, items, snav
 editor: markdown
 dateCreated: 2023-10-22T20:14:56.465Z
@@ -27,6 +27,8 @@ dateCreated: 2023-10-22T20:14:56.465Z
 ## S-Nav Navigator Ultimate
 ![snav.png](/images/items/snav.png =410x273){.align-left}
 can be made by putting an S-Nav 300 Navigator or an S-Nav 310 Navigator in SCP-914 “The Clockworks” on the setting “Very Fine”. It’s similar to an S-Nav 310 Navigator, although it has infinite power and now displays locations of nearby SCPs, with SCP-966 being an exception.
+⠀
+⠀
 ⠀
 ⠀
 ⠀
