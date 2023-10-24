@@ -2,7 +2,7 @@
 title: Предмети 
 description: 
 published: true
-date: 2023-10-24T05:45:00.472Z
+date: 2023-10-24T05:45:48.179Z
 tags: game, ua
 editor: markdown
 dateCreated: 2023-10-15T10:19:56.739Z
@@ -19,7 +19,7 @@ dateCreated: 2023-10-15T10:19:56.739Z
 {.links-list}
 - [:hospital: Аптечка *Усі варіанти аптечок.*](/uk/game/items/first-aid-kit)
 {.links-list}
-- [:briefcase: Wallet *Додаткові слоти.*](/uk/game/items/Wallet)
+- [:briefcase: Гаманець *Додаткові слоти.*](/uk/game/items/Wallet)
 {.links-list}
 - [:clipboard: буфер обміну *Додаткові слоти.*](/uk/game/items/clipboard)
 - [🥽 Окуляри нічного бачення *NVG*](/uk/game/items/nvg)
