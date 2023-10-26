@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: All human who working on this site
 published: true
-date: 2023-10-23T11:58:56.954Z
+date: 2023-10-26T13:08:31.837Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -10,7 +10,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 
 - [:arrow_backward: Back *Go back to the home page.*](/en/home#credits)
 {.links-list}
-# Editors of Wiki
+# <font color="#f1c40f">Editors of Wiki</font>
 ## <font color="#00247d">Eng</font><font color="#ffffff">lish</font> <font color="#d1132c">Wiki</font> <font color="#ffffff">Edit</font><font color="#08249f"></font><font color="#00247d">ors</font>
 - **Mixarar** - [Wiki](https://wiki.scpcbm.com/home)
 - **Griefer** *(@6i9u)* - [Keycards](https://wiki.scpcbm.com/en/game/items/Keycards) / [Weapons](/en/game/weapons) / [Credits](/en/home#credits) / [SCP-914](/en/game/rooms/scp914)
