@@ -2,7 +2,7 @@
 title: Keycards
 description: All levels keycards
 published: true
-date: 2023-10-30T10:51:30.455Z
+date: 2023-10-30T10:58:51.546Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -18,6 +18,17 @@ dateCreated: 2023-10-14T17:59:30.191Z
  ⠀
 **Detailed description**:Keycards are a major and necessary element of the game, as being the only item in-game that can open doors with a keycard slot. Keycards can be found in various places. There are six keycard levels, from 1 to 5 including Omni.
 ###### <font color="#989701">LEVEL</font> <font color="#9a9a9a">1</font> <font color="#989701">KEYCARD</font>
+<script>
+
+	div.vc_custom_1551717903747:hover a.gif2 {
+		background: none;
+	}
+	
+	div.vc_custom_1551717903747:hover a.gif2 img {
+		visibility: visible;
+		border: 0;
+	}
+</script>
 <script>
 .gif2 {
 
