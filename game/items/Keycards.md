@@ -2,7 +2,7 @@
 title: Keycards
 description: All levels keycards
 published: true
-date: 2023-10-30T10:28:45.719Z
+date: 2023-10-30T10:29:35.550Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -19,7 +19,7 @@ dateCreated: 2023-10-14T17:59:30.191Z
 **Detailed description**:Keycards are a major and necessary element of the game, as being the only item in-game that can open doors with a keycard slot. Keycards can be found in various places. There are six keycard levels, from 1 to 5 including Omni.
 ###### <font color="#989701">LEVEL</font> <font color="#9a9a9a">1</font> <font color="#989701">KEYCARD</font>
 
-<img src="/images/items/key1.gif" onmouseover="/images/items/key1.gif" onmouseout="this.src='/images/items/key1.gif'">**Name**: `Level 1 keycard`
+<img src="/images/items/key1.gif" onmouseover="/images/items/key1.png" onmouseout="this.src='/images/items/key1.png'">**Name**: `Level 1 keycard`
 **Location**: `The storeroom;SCP-970 Room;2-level office next to a computer.`
 *The level 1 keycard is the lowest level card.* 
 **It can open:** *the first door to the [Light testing chamber 2B](https://wiki.scpcbm.com/en/game/rooms/Small)*
