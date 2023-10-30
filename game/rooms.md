@@ -2,7 +2,7 @@
 title: Rooms List
 description: Wiki page with all rooms inside of the game, and their detailed description.
 published: true
-date: 2023-10-29T12:11:02.561Z
+date: 2023-10-30T11:09:30.375Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:22:58.377Z
@@ -29,6 +29,14 @@ dateCreated: 2023-10-12T19:22:58.377Z
 - [SCP-1162s containment chamber *The Infinite Canteen*](/en/game/rooms/1162)
 {.links-list}
 ### Hallways
+- [T-shaped room](/en/game/rooms/t-shaped)
+- [Four ways room](/en/game/rooms/fourwayesroom)
+- [Storage hallway with SCP-970](/en/game/rooms/storage970)
+- [End room](/en/game/rooms/theend.)
+- [Surveillance Room](/en/game/rooms/cams)
+- [LCZ-HCZ checkpoint](/en/game/rooms/checklczhcz)
+{.links-list}
+### Corners
 - [Corner Room](/en/game/rooms/corneroom)
 - [T-shaped room](/en/game/rooms/t-shaped)
 - [Four ways room](/en/game/rooms/fourwayesroom)
@@ -65,5 +73,31 @@ dateCreated: 2023-10-12T19:22:58.377Z
 - [Four-Way Gas Catwalk](/en/game/rooms/fourwaygaswalk)
 {.links-list}
 ## Entrance zone
+- [Basic Office](/en/game/rooms/basicoffices)
+- [2-Level Office](/en/game/rooms/level2office)
+- [Head Office](/en/game/rooms/headoffice)
+- [Doctors Quarters](/en/game/rooms/doctorsquarters)
+- [Dr. Harp's Office](/en/game/rooms/drharp)
+- [Conference Quarters](/en/game/rooms/coferencequarters)
+- [Shared Conference Room](/en/game/rooms/sharedconference)
+- [Lockroom](/en/game/rooms/lockroom)
 - [ Cafeteria *Lunch break*](/en/game/rooms/cafeteria)
+- [Electrical Center](/en/game/rooms/eleccenter)
+- [Server Farm](/en/game/rooms/serverfarm)
+- [Server Hub](/en/game/rooms/serverhub)
+- [Tesla Coil Hallway](/en/game/rooms/teslacoilhallway)
+- [Toilets](/en/game/rooms/toilets)
+- [Elevator Lounge](/en/game/rooms/elevator)
+- [Medical Bay](/en/game/rooms/medicalbay)
+- [Security Gateway](/en/game/rooms/checkpoint)
+- [End Room](/en/game/rooms/theendent)
+- [SCP-096's Lockroom](/en/game/rooms/096slockroom)
+- [SCP-860's Testing Chamber](/en/game/rooms/860chamber)
+{.links-list}
+### Hallways
+- [T-Shaped Hallway](/en/game/rooms/t-shapedent)
+- [Four-Way Hallway](/en/game/rooms/fourwaysrooment)
+- [Corner Hallway](/en/game/rooms/cornerrooment)
+- [Second variation of the two-way hallway.](/en/game/rooms/twowayhallway2)
+- [Two-Way Hallway](/en/game/rooms/twowayhallway)
 {.links-list}
