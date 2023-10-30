@@ -2,7 +2,7 @@
 title: Гайд із встановлення
 description: 
 published: true
-date: 2023-10-14T16:16:53.076Z
+date: 2023-10-21T09:28:52.880Z
 tags: ua
 editor: markdown
 dateCreated: 2023-10-14T15:57:34.261Z

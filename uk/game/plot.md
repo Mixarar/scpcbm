@@ -2,7 +2,7 @@
 title: Сюжет
 description: Вікі-сторінка про сюжет гри, здебільшого коротко
 published: true
-date: 2023-10-21T05:59:19.190Z
+date: 2023-10-21T09:29:30.293Z
 tags: ua
 editor: markdown
 dateCreated: 2023-10-15T10:05:50.913Z

@@ -2,7 +2,7 @@
 title: Scientist
 description: Scientist lore and use in the game.
 published: true
-date: 2023-10-24T14:18:22.919Z
+date: 2023-10-28T10:24:56.728Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:27:58.154Z
@@ -29,14 +29,3 @@ With having a Key Card handy, Scientists have the advantage to open SCP-914 (Whi
 
 
 
-"To:AgentHarn
-
-From:AgentWilkenson
-
-Nice friggin' site. I got lost four times just trying to find the main security hub. What the hell is with this place?
-
-To:AgentWilkenson
-
-From:AgentHarn
-
-I tried to warn you. It was a “modular design theory” command cooked up. Set sections, installed as needed and where needed. It was supposed to make expansion/recovery a lot easier, but it didn't really catch on. You'll get lost a couple times, but you figure it out."

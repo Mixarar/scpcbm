@@ -2,7 +2,7 @@
 title: Список SCP
 description: Усі SCP, які зараз присутні в грі, знаходяться на цій сторінці.
 published: true
-date: 2023-10-19T20:13:29.793Z
+date: 2023-10-21T09:29:24.245Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-15T09:49:17.485Z

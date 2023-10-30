@@ -2,7 +2,7 @@
 title: Оружие
 description: Все виды оружия и их характеристики
 published: true
-date: 2023-10-21T16:13:14.362Z
+date: 2023-10-21T16:13:19.161Z
 tags: ru, игра, оружие, мультиплеер
 editor: markdown
 dateCreated: 2023-10-21T16:11:56.622Z

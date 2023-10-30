@@ -2,7 +2,7 @@
 title: Items
 description: Items page
 published: true
-date: 2023-10-22T20:20:16.380Z
+date: 2023-10-29T22:58:52.917Z
 tags: en, game, item
 editor: markdown
 dateCreated: 2023-10-08T15:34:31.889Z
@@ -16,9 +16,19 @@ In SCP: Contaiment Breach Multiplayer, there are different types of items which 
 ---
 - [:credit_card: Keycards *Level 1 through 5 keycards including omni.*](/en/game/items/Keycards)
 - [:biohazard: Gas Mask *All Gas Mask variants.*](/en/game/items/gas-mask)
-- [:pill: First Aid Kit *All First Aid Kit variants.*](/en/game/items/first-aid-kit)
+- [🏥 First Aid Kit *All First Aid Kit variants.*](/en/game/items/first-aid-kit)
 - [:briefcase: Wallet *Extra slots.*](/en/game/items/Wallet)
-- [:clipboard: clipboard *Extra slots.*](/en/game/items/clipboard)
+- [:clipboard: Clipboard *Extra slots.*](/en/game/items/clipboard)
 - [🥽 Night vision goggles *NVG*](/en/game/items/nvg)
-- [🗺️ S-NAV *S-NAV and its variants*](/en/game/items/SNAV)
+- [🗺️ S-Nav *S-Nav and it's variants*](/en/game/items/SNAV)
+- [📻 Radio Transceiver *All variants*](/en/game/items/radio)
+- [🦺 Ballistic Vest *And it's variants*](/en/game/items/ballistic-vest)
+- [🔋 Battery *All variants*](/en/game/items/battery)
+- [☣ Hazmat Suit *All variants*](/en/game/items/hazmat-suit)
+- [💉 Syringe *All variants*](/en/game/items/syringe)
+- [👁️ Eye drops *All variants*](/en/game/items/eyedrops)
+- [✋🏻✋🏿 Severed Hands *All variants*](/en/game/items/severed-hands)
+- [💵 Quarter](/en/game/items/quarter)
+- [🔑 SCP-860](/en/game/items/scp-860)
+- [💍 SCP-714](/en/game/items/scp-714)
 {.links-list}

@@ -2,7 +2,7 @@
 title: D-Класс
 description: Объяснение лора D-класса и его предназначение.
 published: true
-date: 2023-10-15T09:48:51.866Z
+date: 2023-10-21T09:28:07.773Z
 tags: ru, d-класс
 editor: markdown
 dateCreated: 2023-10-14T11:55:13.441Z

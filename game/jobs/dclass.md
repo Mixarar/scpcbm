@@ -2,7 +2,7 @@
 title: D-Class
 description: Explains the D-Class lore and what they are supposed to do in the game.
 published: true
-date: 2023-10-18T04:05:40.688Z
+date: 2023-10-21T09:26:24.292Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T16:25:35.714Z

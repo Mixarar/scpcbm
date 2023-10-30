@@ -2,7 +2,7 @@
 title: Weapons
 description: All weapons and their characheristics
 published: true
-date: 2023-10-21T15:49:01.949Z
+date: 2023-10-21T15:49:06.922Z
 tags: en, game, weapon, multiplayer, breach
 editor: markdown
 dateCreated: 2023-10-18T20:16:48.515Z

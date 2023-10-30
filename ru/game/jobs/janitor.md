@@ -2,7 +2,7 @@
 title: Уборщик
 description: Объяснение лора уборщика и его предназначение.
 published: true
-date: 2023-10-15T09:33:37.613Z
+date: 2023-10-21T09:28:12.791Z
 tags: ru, лор, уборщик
 editor: markdown
 dateCreated: 2023-10-14T12:06:31.550Z

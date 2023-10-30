@@ -2,7 +2,7 @@
 title: Exploration
 description: Map/seed/maze
 published: true
-date: 2023-10-21T17:45:15.258Z
+date: 2023-10-21T17:45:19.767Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-21T17:45:15.258Z

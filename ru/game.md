@@ -2,7 +2,7 @@
 title: Игра
 description: Общая информация об игре
 published: true
-date: 2023-10-21T16:30:48.596Z
+date: 2023-10-21T16:30:53.352Z
 tags: ru, информация, особенности
 editor: markdown
 dateCreated: 2023-10-14T10:31:37.331Z

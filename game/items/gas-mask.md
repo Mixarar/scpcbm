@@ -2,7 +2,7 @@
 title: Gas Mask
 description: Explains the Gas Mask and its many variants what they are supposed to do in the game.
 published: true
-date: 2023-10-17T18:15:37.616Z
+date: 2023-10-28T21:29:07.412Z
 tags: item, gas mask, equippable
 editor: markdown
 dateCreated: 2023-10-14T16:12:32.142Z
@@ -19,7 +19,9 @@ debuffs like coughing and faster blinking but it mayorly obscures
 your vision.
 ⠀
 ⠀
-⠀
+‎ 
+
+‎ 
 
 ## Super Gas Mask
 ![gasmask.super.wiki.fixed.png](/images/items/gasmask.super.wiki.fixed.png){.align-left}**Name**: `Super Gas Mask`
@@ -29,7 +31,9 @@ The super gas mask is a equippable item that is exclusive to SCP
 Fine or Very Fine setting. It has the same uses as the gas mask
 with the added benefit of giving you infinite stamina.
 ⠀
-⠀
+‎ 
+
+‎ 
 ⠀
 
 ## Heavy Gas Mask 

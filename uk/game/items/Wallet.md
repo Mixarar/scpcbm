@@ -2,7 +2,7 @@
 title: Гаманець
 description: Гаманці, які можуть містити картки та монети.
 published: true
-date: 2023-10-21T06:01:43.614Z
+date: 2023-10-21T06:01:48.168Z
 tags: game, ua, scps
 editor: markdown
 dateCreated: 2023-10-21T06:01:43.614Z

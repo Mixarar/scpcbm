@@ -2,13 +2,13 @@
 title: Гайд по установке
 description: 
 published: true
-date: 2023-10-22T04:20:45.613Z
+date: 2023-10-28T03:36:54.095Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:48:21.528Z
 ---
 
-- [:arrow_backward: Назад *Вернуться на главную страницу.*](/ru/home)
+- [:arrow_backward: Назад *Вернуться на главную страницу*](/ru/home)
 {.links-list}
 # :video_game: Установка Игры
 Устанавливаем игру как настоящие чемпионы.

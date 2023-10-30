@@ -2,7 +2,7 @@
 title: Зброя
 description: Вся зброя та її характеристики
 published: true
-date: 2023-10-21T17:17:08.139Z
+date: 2023-10-21T17:17:12.810Z
 tags: game, ua, weapon, breach
 editor: markdown
 dateCreated: 2023-10-21T05:54:15.409Z

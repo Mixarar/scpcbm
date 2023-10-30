@@ -2,7 +2,7 @@
 title: Chaos Insurgency
 description: Chaos lore and use in the game.
 published: true
-date: 2023-10-21T17:14:50.741Z
+date: 2023-10-21T17:14:55.485Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:37:53.990Z

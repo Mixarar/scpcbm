@@ -2,13 +2,13 @@
 title: Системные требования
 description: 
 published: true
-date: 2023-10-14T10:29:52.127Z
+date: 2023-10-28T03:36:26.286Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-14T10:15:12.851Z
 ---
 
-- [:arrow_backward: Назад *Вернуться на главную страницу.*](/ru/home)
+- [:arrow_backward: Назад *Вернуться на главную страницу*](/ru/home)
 {.links-list}
 # Системные Требования
 > Требования могут измениться с обновлениями.

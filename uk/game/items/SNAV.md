@@ -2,7 +2,7 @@
 title: S-Навігатор
 description: Навігатор
 published: true
-date: 2023-10-24T05:50:59.982Z
+date: 2023-10-24T05:51:04.744Z
 tags: game, ua, scps
 editor: markdown
 dateCreated: 2023-10-24T05:50:59.982Z

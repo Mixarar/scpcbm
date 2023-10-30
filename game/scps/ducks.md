@@ -2,7 +2,7 @@
 title: SCP-Duckies
 description: DUCKIES?!?!?!??!
 published: true
-date: 2023-10-21T14:09:46.869Z
+date: 2023-10-21T14:09:51.654Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-18T07:32:02.640Z

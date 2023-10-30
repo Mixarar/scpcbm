@@ -2,7 +2,7 @@
 title: Рецепты Оружия
 description: Как сделать оружие в SCP-914
 published: true
-date: 2023-10-22T04:06:48.804Z
+date: 2023-10-22T04:06:54.649Z
 tags: ru, игра, крафт, оружие
 editor: markdown
 dateCreated: 2023-10-21T15:51:09.869Z

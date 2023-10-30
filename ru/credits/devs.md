@@ -2,7 +2,7 @@
 title: Команда разработчиков
 description: Люди, создающие игру
 published: true
-date: 2023-10-23T08:07:49.873Z
+date: 2023-10-23T08:07:54.638Z
 tags: ru, игра, благодарность, разработчики
 editor: markdown
 dateCreated: 2023-10-15T14:12:32.990Z

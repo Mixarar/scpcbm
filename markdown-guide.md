@@ -2,7 +2,7 @@
 title: Markdown Guide
 description: A comprehensive guide on markdown that is supported on our wiki.
 published: true
-date: 2023-10-23T22:08:56.236Z
+date: 2023-10-23T22:09:01.677Z
 tags: en
 editor: markdown
 dateCreated: 2023-10-15T16:53:41.075Z

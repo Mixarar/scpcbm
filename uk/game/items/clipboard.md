@@ -2,7 +2,7 @@
 title: Буфер обміну
 description: Додаткові слоти
 published: true
-date: 2023-10-24T05:48:58.945Z
+date: 2023-10-24T05:49:03.555Z
 tags: game, ua, scps
 editor: markdown
 dateCreated: 2023-10-24T05:48:58.945Z

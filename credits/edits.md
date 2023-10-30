@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: All human who working on this site
 published: true
-date: 2023-10-26T13:08:31.837Z
+date: 2023-10-29T18:08:37.557Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -14,15 +14,15 @@ dateCreated: 2023-10-15T11:54:53.780Z
 ## <font color="#00247d">Eng</font><font color="#ffffff">lish</font> <font color="#d1132c">Wiki</font> <font color="#ffffff">Edit</font><font color="#08249f"></font><font color="#00247d">ors</font>
 - **Mixarar** - [Wiki](https://wiki.scpcbm.com/home)
 - **Griefer** *(@6i9u)* - [Keycards](https://wiki.scpcbm.com/en/game/items/Keycards) / [Weapons](/en/game/weapons) / [Credits](/en/home#credits) / [SCP-914](/en/game/rooms/scp914)
-- **Zav** *(@zavpw)* - [SCP's List](https://wiki.scpcbm.com/en/game/scps) / [Roles](https://wiki.scpcbm.com/en/game/jobs) /  [Plot](https://wiki.scpcbm.com/en/game/plot) / [Wallet](/en/game/items/Wallet)
-- **theman** *(@theman5398)*   [Plot](https://wiki.scpcbm.com/en/game/plot)
+- **Zav** *(@zavpw)* - [SCP's List](https://wiki.scpcbm.com/en/game/scps) / [Roles](https://wiki.scpcbm.com/en/game/jobs) /  [Plot](https://wiki.scpcbm.com/en/game/plot) / [Wallet](/en/game/items/Wallet) / [rooms](https://wiki.scpcbm.com/en/game/rooms)
+- **theman** *(@theman5398)*   [Plot](https://wiki.scpcbm.com/en/game/plot) / [Radio Transceiver](https://wiki.scpcbm.com/en/game/items/radio) / [Ballistic vest](https://wiki.scpcbm.com/en/game/items/ballistic-vest) / [Battery](https://wiki.scpcbm.com/en/game/items/battery) / [Hazmat Suit](https://wiki.scpcbm.com/en/game/items/hazmat-suit) / [Syringe](https://wiki.scpcbm.com/en/game/items/syringe) / [Severed Hands](https://wiki.scpcbm.com/en/game/items/severed-hands) / [Quarter](/en/game/items/quarter)
 - **Mr. Kennedy** *(@mr.kennedy4231)* - [Gas-Mask](https://wiki.scpcbm.com/en/game/items/gas-mask) / [First Aid Kit](/en/game/items/first-aid-kit)
 - **ItzSlain** 
 - **Db478**
 - **Sparky** *(@dr.sparkrosalene)*
 ## <font color="#ececec">Russian</font> <font color="#08249f">Wiki</font> <font color="#d01303">Translators</font>
 - **thelifeworm** - [Противогаз](https://wiki.scpcbm.com/ru/game/items/gas-mask) / [Благодарность](https://wiki.scpcbm.com/ru/home#благодарность) / [SCP-173](https://wiki.scpcbm.com/ru/game/scps/173) / [SCP-1162](https://wiki.scpcbm.com/ru/game/scps/1162)
-- **Griefer** *(@6i9u)*
+- **Griefer** *(@6i9u)* [Ключ-Карты](https://wiki.scpcbm.com/ru/game/items/Keycards)
 - **ivaiva** *(@wyrxcc)* [SCP-096](https://wiki.scpcbm.com/ru/game/scps/096)
 - **зевуля[astro3]** *(@zevulya)* [SCP-500](https://wiki.scpcbm.com/ru/game/scps/500)
 - **itzslain**

@@ -2,7 +2,7 @@
 title: Вики-редакторы
 description: 
 published: true
-date: 2023-10-23T08:07:17.992Z
+date: 2023-10-28T10:26:43.631Z
 tags: ru, игра, благодарность, вики-редактор
 editor: markdown
 dateCreated: 2023-10-18T07:27:08.189Z
@@ -21,7 +21,7 @@ dateCreated: 2023-10-18T07:27:08.189Z
 - **Sparky** *(@dr.sparkrosalene)*
 ## <font color="#ececec">Русские</font> <font color="#08249f">Wiki</font> <font color="#d01303">Редакторы</font>
 - **thelifeworm** - [Противогаз](https://wiki.scpcbm.com/ru/game/items/gas-mask) / [Благодарность](https://wiki.scpcbm.com/ru/home#благодарность) / [SCP-173](https://wiki.scpcbm.com/ru/game/scps/173) / [SCP-1162](https://wiki.scpcbm.com/ru/game/scps/1162)
-- **Griefer** *(@6i9u)*
+- **Griefer** *(@6i9u)* [Ключ-Карты](https://wiki.scpcbm.com/ru/game/items/Keycards)
 - **ivaiva** *(@wyrxcc)* [SCP-096](https://wiki.scpcbm.com/ru/game/scps/096)
 - **зевуля[astro3]** *(@zevulya)* [SCP-500](https://wiki.scpcbm.com/ru/game/scps/500)
 - **itzslain**
