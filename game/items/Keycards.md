@@ -2,7 +2,7 @@
 title: Keycards
 description: All levels keycards
 published: true
-date: 2023-10-30T10:58:51.546Z
+date: 2023-10-30T11:00:32.451Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -19,50 +19,16 @@ dateCreated: 2023-10-14T17:59:30.191Z
 **Detailed description**:Keycards are a major and necessary element of the game, as being the only item in-game that can open doors with a keycard slot. Keycards can be found in various places. There are six keycard levels, from 1 to 5 including Omni.
 ###### <font color="#989701">LEVEL</font> <font color="#9a9a9a">1</font> <font color="#989701">KEYCARD</font>
 <script>
-
-	div.vc_custom_1551717903747:hover a.gif2 {
-		background: none;
-	}
-	
-	div.vc_custom_1551717903747:hover a.gif2 img {
-		visibility: visible;
-		border: 0;
-	}
-</script>
-<script>
-.gif2 {
-
-display:block; /* Устанавливаем */
-
-width:88px; /* Ширина и высота картинки */
-
-height:88px;
-
-background:url('https://www.stomatologplus-vrn.ru/wp-content/uploads/2019/04/2.png') no-repeat; /* Заливаем блок статичной картинкой */
+.static {
+  position:absolute;
+  background: white;
 }
 
-/* Как видно, начальное (статическое) изображение задано как фон блока с шириной и высотой этого изображения. */
-
-a.gif2 img {
-visibility:hidden; /* Aнимация не была видна в ситуации, когда мышь не наведена */
-
-}
-
-a.gif2:hover {
-
-background:none; /* Фон (статичное изображение) не было видно при наведении мыши */
-
-}
-
-a.gif2:hover img {
-
-visibility:visible; /* При наведении анимация показывается */
-
-border:0; /* без обрамления ;) */
-
+.static:hover {
+  opacity:0;
 }
 </script>
-<center><div class="blok"><a class="gif2"><img src="/images/items/key1.gif" height="170" alt="" /></a></div></center>
+<img class="static" src="https://lh4.googleusercontent.com/-gZiu96oTuu4/Uag5oWLQHfI/AAAAAAAABSE/pl1W8n91hH0/w140-h165-no/Homer-Static.png"><img class="active" src="https://lh4.googleusercontent.com/i1RprwcvxhbN2TAMunNxS4RiNVT0DvlD9FNQCvPFuJ0=w140-h165-no">
 
 **Name**: `Level 1 keycard`
 **Location**: `The storeroom;SCP-970 Room;2-level office next to a computer.`
