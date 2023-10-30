@@ -2,7 +2,7 @@
 title: Rooms List
 description: Wiki page with all rooms inside of the game, and their detailed description.
 published: true
-date: 2023-10-30T11:09:30.375Z
+date: 2023-10-30T11:19:06.560Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:22:58.377Z

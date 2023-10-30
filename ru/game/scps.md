@@ -2,7 +2,7 @@
 title: Список SCP Объектов
 description: На этой странице представлены все SCP, присутствующие в игре на данный момент
 published: true
-date: 2023-10-28T15:07:15.868Z
+date: 2023-10-30T11:01:46.046Z
 tags: ru, игра
 editor: markdown
 dateCreated: 2023-10-15T16:23:46.178Z

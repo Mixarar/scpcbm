@@ -2,7 +2,7 @@
 title: Light Containment Zone
 description: zone of light contaiment
 published: true
-date: 2023-10-30T10:42:38.388Z
+date: 2023-10-30T10:42:43.027Z
 tags: en, game, rooms, zone
 editor: markdown
 dateCreated: 2023-10-28T12:14:52.737Z

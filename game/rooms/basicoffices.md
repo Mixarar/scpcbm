@@ -2,7 +2,7 @@
 title: Basic-office
 description: Office
 published: true
-date: 2023-10-30T11:18:59.488Z
+date: 2023-10-30T11:19:04.087Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T11:18:59.488Z
