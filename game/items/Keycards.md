@@ -2,7 +2,7 @@
 title: Keycards
 description: All levels keycards
 published: true
-date: 2023-10-30T10:51:09.086Z
+date: 2023-10-30T10:51:30.455Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -51,7 +51,8 @@ border:0; /* без обрамления ;) */
 
 }
 </script>
-<center><div class="blok"><a class="gif2"><img src="/images/items/key1.gif" alt="" /></a></div></center>
+<center><div class="blok"><a class="gif2"><img src="/images/items/key1.gif" height="170" alt="" /></a></div></center>
+
 **Name**: `Level 1 keycard`
 **Location**: `The storeroom;SCP-970 Room;2-level office next to a computer.`
 *The level 1 keycard is the lowest level card.* 
