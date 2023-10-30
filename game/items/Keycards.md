@@ -2,7 +2,7 @@
 title: Keycards
 description: All levels keycards
 published: true
-date: 2023-10-30T11:00:32.451Z
+date: 2023-10-30T11:20:11.073Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -19,16 +19,7 @@ dateCreated: 2023-10-14T17:59:30.191Z
 **Detailed description**:Keycards are a major and necessary element of the game, as being the only item in-game that can open doors with a keycard slot. Keycards can be found in various places. There are six keycard levels, from 1 to 5 including Omni.
 ###### <font color="#989701">LEVEL</font> <font color="#9a9a9a">1</font> <font color="#989701">KEYCARD</font>
 <script>
-.static {
-  position:absolute;
-  background: white;
-}
-
-.static:hover {
-  opacity:0;
-}
 </script>
-<img class="static" src="https://lh4.googleusercontent.com/-gZiu96oTuu4/Uag5oWLQHfI/AAAAAAAABSE/pl1W8n91hH0/w140-h165-no/Homer-Static.png"><img class="active" src="https://lh4.googleusercontent.com/i1RprwcvxhbN2TAMunNxS4RiNVT0DvlD9FNQCvPFuJ0=w140-h165-no">
 
 **Name**: `Level 1 keycard`
 **Location**: `The storeroom;SCP-970 Room;2-level office next to a computer.`
