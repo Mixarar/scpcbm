@@ -2,7 +2,7 @@
 title: Keycards
 description: All levels keycards
 published: true
-date: 2023-10-30T10:40:08.122Z
+date: 2023-10-30T10:51:09.086Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -19,14 +19,39 @@ dateCreated: 2023-10-14T17:59:30.191Z
 **Detailed description**:Keycards are a major and necessary element of the game, as being the only item in-game that can open doors with a keycard slot. Keycards can be found in various places. There are six keycard levels, from 1 to 5 including Omni.
 ###### <font color="#989701">LEVEL</font> <font color="#9a9a9a">1</font> <font color="#989701">KEYCARD</font>
 <script>
-jQuery(document).ready(function($) {
-  $("/images/items/key1.gif").hover(function() {
-    var src = this.src;
-    this.src = $(this).data("/images/items/key1.gif");
-    $(this).data("/images/items/key1.gif", src);
-  });
-});
+.gif2 {
+
+display:block; /* Устанавливаем */
+
+width:88px; /* Ширина и высота картинки */
+
+height:88px;
+
+background:url('https://www.stomatologplus-vrn.ru/wp-content/uploads/2019/04/2.png') no-repeat; /* Заливаем блок статичной картинкой */
+}
+
+/* Как видно, начальное (статическое) изображение задано как фон блока с шириной и высотой этого изображения. */
+
+a.gif2 img {
+visibility:hidden; /* Aнимация не была видна в ситуации, когда мышь не наведена */
+
+}
+
+a.gif2:hover {
+
+background:none; /* Фон (статичное изображение) не было видно при наведении мыши */
+
+}
+
+a.gif2:hover img {
+
+visibility:visible; /* При наведении анимация показывается */
+
+border:0; /* без обрамления ;) */
+
+}
 </script>
+<center><div class="blok"><a class="gif2"><img src="/images/items/key1.gif" alt="" /></a></div></center>
 **Name**: `Level 1 keycard`
 **Location**: `The storeroom;SCP-970 Room;2-level office next to a computer.`
 *The level 1 keycard is the lowest level card.* 
