@@ -2,7 +2,7 @@
 title: Список локаций
 description: Страница со всеми комнатами в игре и их подробным описанием.
 published: true
-date: 2023-11-01T15:45:18.570Z
+date: 2023-11-01T15:46:00.343Z
 tags: ru, игра
 editor: markdown
 dateCreated: 2023-10-15T16:06:32.697Z
@@ -34,7 +34,7 @@ dateCreated: 2023-10-15T16:06:32.697Z
 - [SCP-970](/ru/game/rooms/storage970)
 - [Тупик](/ru/game/rooms/theend)
 - [Наблюдательный пункт](/ru/game/rooms/cams)
-- [LCZ-HCZ checkpoint](/ru/game/rooms/checklczhcz)
+- [ЛЗС-ТЗС checkpoint](/ru/game/rooms/checklczhcz)
 {.links-list}
 ### Повороты
 - [Угловая комната](/ru/game/rooms/corneroom)
