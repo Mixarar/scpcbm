@@ -2,7 +2,7 @@
 title: Предметы
 description: Страница предметов
 published: true
-date: 2023-11-01T13:45:49.607Z
+date: 2023-11-01T14:57:37.713Z
 tags: ru, игра, предмет
 editor: markdown
 dateCreated: 2023-10-15T13:53:44.882Z
