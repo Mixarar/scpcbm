@@ -2,7 +2,7 @@
 title: Rooms List
 description: Wiki page with all rooms inside of the game, and their detailed description.
 published: true
-date: 2023-10-30T11:19:06.560Z
+date: 2023-10-31T14:20:43.243Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:22:58.377Z
@@ -75,13 +75,11 @@ dateCreated: 2023-10-12T19:22:58.377Z
 ## Entrance zone
 - [Basic Office](/en/game/rooms/basicoffices)
 - [2-Level Office](/en/game/rooms/level2office)
-- [Head Office](/en/game/rooms/headoffice)
+- [large office](/en/game/rooms/largeoffice)
 - [Doctors Quarters](/en/game/rooms/doctorsquarters)
-- [Dr. Harp's Office](/en/game/rooms/drharp)
 - [Conference Quarters](/en/game/rooms/coferencequarters)
 - [Shared Conference Room](/en/game/rooms/sharedconference)
-- [Lockroom](/en/game/rooms/lockroom)
-- [ Cafeteria *Lunch break*](/en/game/rooms/cafeteria)
+- [Cafeteria ](/en/game/rooms/cafeteria)
 - [Electrical Center](/en/game/rooms/eleccenter)
 - [Server Farm](/en/game/rooms/serverfarm)
 - [Server Hub](/en/game/rooms/serverhub)

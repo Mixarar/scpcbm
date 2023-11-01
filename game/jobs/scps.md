@@ -2,7 +2,7 @@
 title: SCPs
 description: SCP lore and use in the game.
 published: true
-date: 2023-10-21T09:27:17.023Z
+date: 2023-10-31T23:37:13.845Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:46:39.758Z
@@ -99,3 +99,13 @@ SCP-860-2 is a mysterious and dangerous forest that exists in a separate dimensi
 The exact nature and origins of SCP-860-2 and The Sculpture are not fully explained in SCP Foundation documentation, which is intentional as part of the organization's lore. SCP-860-2 and The Sculpture serve as a dangerous and enigmatic aspect of the SCP universe, providing a sense of mystery and danger to those who encounter them.
 ## In Game
 SCP-860 Spawns in "ENTRANCE ZONE" Inside his Chamber, He needs to Find a door To Escape, When he is Out He will need to Find the Heavy checkpoint Doors, He is has the same Speed as SCP-939 And Has the same Run Depleeshing 
+# SCP-035
+![scp-35.png](/images/roles/scp-35.png)
+**Name**: `The Possessive Mask`
+**Catergory**: `SCP` 
+**Health**:`3000` 
+**items**: `N/A`
+## Lore
+SCP-035 is a white porcelain comedy mask. Although it will occasionally change to tragedy.. when this happens, all existing visual records including pictures illustrations and videos will change to reflect its new appearance. SCP-035 constantly secretes a black substance. Anything coming into contact with this substance decays at an accelerated rate until all that is left is a puddle of the original contaminant. When SCP-035 is place on the face of a human then the human who is now referred to as SCP-035s host has its brainwaves replaced with that of the mask. However, SCP-035 hosts do not last long due to the masks corrosive secretions. SCP-035 has proven to be charismatic and intelligent personality. But psycological analysis shows the mask to possess a highly manipulative and sadistic nature. SCP-035 has been found to hunt humans often for the thrill of it. 
+## In Game
+SCP-035 Spawns in "Heavy Containment zone" Inside the chamber of SCP-513 without a host. When a Player picks up SCP-035 The player will become SCP-035 Without any items, The player must Scavange trough the facility to found items, The player can Use Keycards, Guns like a Normal human class, SCP-035 has a Major Down fall of Hp depleeding every few secends make every Secend count.

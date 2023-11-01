@@ -2,7 +2,7 @@
 title: Кімнати
 description: Вікі-сторінка з усіма кімнатами всередині гри та їх детальним описом.
 published: true
-date: 2023-10-29T17:30:45.544Z
+date: 2023-10-30T12:40:55.740Z
 tags: game, ua, room
 editor: markdown
 dateCreated: 2023-10-15T09:31:15.120Z
@@ -46,7 +46,7 @@ dateCreated: 2023-10-15T09:31:15.120Z
 {.links-list}
 - [Коридор сховища з SCP-970](/uk/game/rooms/storage970)
 {.links-list}
-- [Кінцева кімната](/uk/game/rooms/theend.)
+- [Кінцева кімната](/uk/game/rooms/theend)
 {.links-list}
 - [Кімната спостереження](/uk/game/rooms/cams)
 {.links-list}

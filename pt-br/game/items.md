@@ -2,7 +2,7 @@
 title: Itens
 description: Lista de itens
 published: true
-date: 2023-10-18T16:50:18.689Z
+date: 2023-10-31T12:06:58.555Z
 tags: game, item, pt-br
 editor: markdown
 dateCreated: 2023-10-15T20:11:11.564Z

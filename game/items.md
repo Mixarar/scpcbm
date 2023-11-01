@@ -2,7 +2,7 @@
 title: Items
 description: Items page
 published: true
-date: 2023-10-29T22:58:52.917Z
+date: 2023-10-30T14:06:47.870Z
 tags: en, game, item
 editor: markdown
 dateCreated: 2023-10-08T15:34:31.889Z
