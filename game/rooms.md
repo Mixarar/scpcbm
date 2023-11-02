@@ -2,7 +2,7 @@
 title: Rooms List
 description: Wiki page with all rooms inside of the game, and their detailed description.
 published: true
-date: 2023-10-31T14:20:43.243Z
+date: 2023-11-02T11:35:32.434Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:22:58.377Z
@@ -83,7 +83,7 @@ dateCreated: 2023-10-12T19:22:58.377Z
 - [Electrical Center](/en/game/rooms/eleccenter)
 - [Server Farm](/en/game/rooms/serverfarm)
 - [Server Hub](/en/game/rooms/serverhub)
-- [Tesla Coil Hallway](/en/game/rooms/teslacoilhallway)
+- [Tesla Coil Hallway](/en/game/rooms/tesla)
 - [Toilets](/en/game/rooms/toilets)
 - [Elevator Lounge](/en/game/rooms/elevator)
 - [Medical Bay](/en/game/rooms/medicalbay)
