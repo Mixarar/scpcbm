@@ -2,7 +2,7 @@
 title: Rooms List
 description: Wiki page with all rooms inside of the game, and their detailed description.
 published: true
-date: 2023-11-02T11:35:32.434Z
+date: 2023-11-02T11:47:26.899Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:22:58.377Z
@@ -88,7 +88,6 @@ dateCreated: 2023-10-12T19:22:58.377Z
 - [Elevator Lounge](/en/game/rooms/elevator)
 - [Medical Bay](/en/game/rooms/medicalbay)
 - [Security Gateway](/en/game/rooms/checkpoint)
-- [End Room](/en/game/rooms/theendent)
 - [SCP-096's Lockroom](/en/game/rooms/096slockroom)
 - [SCP-860's Testing Chamber](/en/game/rooms/860chamber)
 {.links-list}
