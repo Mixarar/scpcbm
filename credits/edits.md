@@ -2,7 +2,7 @@
 title: Wiki-Editors
 description: All human who working on this site
 published: true
-date: 2023-10-31T17:15:13.502Z
+date: 2023-11-03T15:55:32.990Z
 tags: en, game, credit, wikiedtior
 editor: markdown
 dateCreated: 2023-10-15T11:54:53.780Z
@@ -14,7 +14,7 @@ dateCreated: 2023-10-15T11:54:53.780Z
 ## <font color="#00247d">Eng</font><font color="#ffffff">lish</font> <font color="#d1132c">Wiki</font> <font color="#ffffff">Edit</font><font color="#08249f"></font><font color="#00247d">ors</font>
 - **Mixarar** - [Wiki](https://wiki.scpcbm.com/home)
 - **Griefer** *(@6i9u)* - [Keycards](https://wiki.scpcbm.com/en/game/items/Keycards) / [Weapons](/en/game/weapons) / [Credits](/en/home#credits) / [SCP-914](/en/game/rooms/scp914)
-- **Zav** *(@zavpw)* - [SCP's List](https://wiki.scpcbm.com/en/game/scps) / [Roles](https://wiki.scpcbm.com/en/game/jobs) /  [Plot](https://wiki.scpcbm.com/en/game/plot) / [Wallet](/en/game/items/Wallet) / [rooms](https://wiki.scpcbm.com/en/game/rooms)
+- **Zav** *(@zavpw)* - [SCP's List](https://wiki.scpcbm.com/en/game/scps) / [Roles](https://wiki.scpcbm.com/en/game/jobs) /  [Plot](https://wiki.scpcbm.com/en/game/plot) / [Wallet](/en/game/items/Wallet) / [rooms](https://wiki.scpcbm.com/en/game/rooms) / [Eye drops](https://wiki.scpcbm.com/e/en/game/items/eyedrops)
 - **theman** *(@theman5398)*   [Plot](https://wiki.scpcbm.com/en/game/plot) / [Radio Transceiver](https://wiki.scpcbm.com/en/game/items/radio) / [Ballistic vest](https://wiki.scpcbm.com/en/game/items/ballistic-vest) / [Battery](https://wiki.scpcbm.com/en/game/items/battery) / [Hazmat Suit](https://wiki.scpcbm.com/en/game/items/hazmat-suit) / [Syringe](https://wiki.scpcbm.com/en/game/items/syringe) / [Severed Hands](https://wiki.scpcbm.com/en/game/items/severed-hands) / [Quarter](/en/game/items/quarter) / [SCP-860](/en/game/items/SCP-860)
 - **Mr. Kennedy** *(@mr.kennedy4231)* - [Gas-Mask](https://wiki.scpcbm.com/en/game/items/gas-mask) / [First Aid Kit](/en/game/items/first-aid-kit)
 - **Db478**
