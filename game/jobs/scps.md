@@ -2,7 +2,7 @@
 title: SCPs
 description: SCP lore and use in the game.
 published: true
-date: 2023-11-02T13:29:30.524Z
+date: 2023-11-03T11:30:03.857Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:46:39.758Z
@@ -13,7 +13,7 @@ dateCreated: 2023-10-08T23:46:39.758Z
 
 Note: May be changed to individual links.
 # SCP-049
-![049.png](/images/roles/049.png)
+![049.png](/images/roles/049.png =200x)
 **Name**: `The Plague Doctor`
 **Category**: `SCP`
 **Health**: `5000`
@@ -23,7 +23,7 @@ SCP-049 is a tall figure standing at 1.9 meters (approximately 6 feet 3 inches) 
 ## In Game
 SCP-049 Spawns in "HEAVY CONTAINMENT ZONE" in his Very own chamber with 2 lifts, SCP-049 walks the same speed as an any human class but He cannot run, SCP-049 Can touch Human classes and make them turn into SCP-049-2 Making him your very own Soldier.
 # SCP-096
-![white_guy.png](/images/roles/white_guy.png)
+![white_guy.png](/images/roles/white_guy.png =200x)
 **Name**: `The Shy Guy`
 **Category**: `SCP`
 **Health**: `3000`
@@ -33,7 +33,7 @@ SCP-096 is a hairless, pale, and emaciated humanoid standing approximately 2.38 
 ## In Game
 SCP-096 Spawns in "HEAVY CONTAINMENT ZONE" He walks Slower than any scp, When an any human class sees his "FACE" It will be In his Charged state, SCP-096 can  Break any doors when he is angered and he will have an Red dot Leading where his Targets are.
 # SCP-106
-![106.png](/images/roles/106.png)
+![106.png](/images/roles/106.png =200x)
 **Name**: `The Old Man`
 **Category**: `SCP`
 **Health**: `5000`
@@ -43,7 +43,7 @@ SCP-106 is an elderly humanoid entity, appearing as a tall, emaciated figure wit
 ## In Game
 SCP-106 can go trough Doors without opening them, when he Touches a human class the Person will be Sent to the pocket dimension, The player will bleed to death if he doesn`t get out of the pocked dimension
 # SCP-173
-![173.png](/images/roles/173.png)
+![173.png](/images/roles/173.png =200x)
 **Name**: `Peanut`
 **Category**: `SCP`
 **Health**: `5000`
@@ -55,7 +55,7 @@ SCP-173 is a humanoid statue composed of concrete and rebar. It stands approxima
 ## In Game
 SCP-173 will Not move when an Human class sees 173. SCP-173 will move 2 rooms when a person blinks, You can 1 click kill him by snapping  his neck, SCP-173 Can Move Super fast if nobody is seeing him.
 # SCP-939
-![939.png](/images/roles/939.png)
+![939.png](/images/roles/939.png =400x)
 **Name**: `With Many Voices`
 **Category**: `SCP`
 **Health**: `3000`
