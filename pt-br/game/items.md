@@ -2,7 +2,7 @@
 title: Itens
 description: Lista de itens
 published: true
-date: 2023-10-31T12:06:58.555Z
+date: 2023-11-03T23:34:40.806Z
 tags: game, item, pt-br
 editor: markdown
 dateCreated: 2023-10-15T20:11:11.564Z
@@ -16,5 +16,5 @@ Em SCP: Containment Breach Multiplayer, existem diferentes tipos de itens que vo
 ---
 - [:credit_card: Cartões de Acesso *Cartões de Acesso do Nível 1 ao 5 incluindo o omni.*](/game/items/Keycards)
 - [:mask: Máscaras de Gás *Todas as variantes da Máscara de Gás.*](/game/items/gas-mask)
-- [:hospital: Kits de Primeiros Socorros *Todas as variantes de Kit de Primeiros Socorros.*](/game/items/first-aid-kit)
+- [:hospital: Kits Médicos *Todas as variantes do Kit Médico.*](/game/items/first-aid-kit)
 {.links-list}
