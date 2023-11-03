@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-10-21T16:55:54.143Z
+date: 2023-11-03T15:56:43.462Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -27,7 +27,7 @@ On an undisclosed date at 9:00 AM, Agent Skinner and Agent Carey started their m
 
 
 ## Main character
-Dr. Benjamin Oliver Walker was a Level 4 Senior Researcher in the SCP foundation. After the Foundation became aware of his unauthorized research on an anomalous phenomenon dubbed "Spiral Gestalt", a disciplinary hearing was held by the Internal Tribunal Department. Benjamin was found quilty, demoted to a Class-D and given the designaton D-9341.
+Dr. Benjamin Oliver Walker was a Level 4 Senior Researcher in the SCP foundation. After the Foundation became aware of his unauthorized research on an anomalous phenomenon dubbed "Spiral Gestalt", a disciplinary hearing was held by the Internal Tribunal Department. Benjamin was found quilty, demoted to a Class-D and given the designaton D-9341. The Player can find D9341s Old Badge, and a 05 Clearance Note to determine to make D9341 a class-D Inside [SCP-1162](/en/game/rooms/1162)s Chamber.
 ![imbenjamin.png](/images/documents/imbenjamin.png)
 ## Ingame
 Benjamin wakes up inside cell 3-11 at the Class-D holding area. After taking a look at the class-D orientation leaflet on the desk, he is  escorted to SCP 173's containment chamber for a test by Agent Ulgrin and an unnamed security Agent. Shortly after the test begins, Security Chief Franklin says that the blast door of SCP 173's containment chamber can not be closed because of problems with the door controls. At this point, SCP 079 has already opened the majority of containment chambers in the facility. SCP 173 kills 2 Class D and a security Agent on the balcony after lights flicker multiple times, breaks the railing and goes into the ventilation shaft. An announcement can be heard right after the breach begins: "The site is experiencing multiple keter and euclid level containment breaches, full site lockdown initiated."
