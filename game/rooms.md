@@ -2,7 +2,7 @@
 title: Rooms List
 description: Wiki page with all rooms inside of the game, and their detailed description.
 published: true
-date: 2023-11-04T12:31:45.211Z
+date: 2023-11-04T12:33:15.339Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:22:58.377Z
@@ -23,4 +23,11 @@ dateCreated: 2023-10-12T19:22:58.377Z
 {.links-list}
 
 ` Editor note. These rooms will spawn in different areas on which seed you play on.`
-![image_2023-11-04_203116907.png](/images/rooms/image_2023-11-04_203116907.png =400x){.align-left}
+![image_2023-11-04_203116907.png](/images/rooms/image_2023-11-04_203116907.png =400x)
+ㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
