@@ -2,7 +2,7 @@
 title: Xandromeda
 description: Xandro
 published: true
-date: 2023-11-04T16:50:27.298Z
+date: 2023-11-04T16:50:38.389Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T16:49:06.808Z
@@ -12,7 +12,7 @@ dateCreated: 2023-11-04T16:49:06.808Z
 {.links-list}
 # SCP-xandromeda
 ##### SCP-Xandro is a top secret SCP that is only viewed by 05 Members
-![xandro_rule_45.png](/images/documents/xandro_rule_45.png){.align-left} <big>Object Class</big>: <font color="#fa7d93"><big>FEMBOY</big></font>
+![xandro_rule_34.png](/images/documents/xandro_rule_45.png){.align-left} <big>Object Class</big>: <font color="#fa7d93"><big>FEMBOY</big></font>
 SCP-Xandro is located at SITE-Mental hospital, Personal must give Xandromeda A PC , A phone , And "Godot" game engine. SCP-Xandromeda has the power to Bend TIME and the Universe.
 ㅤ
 ㅤ
