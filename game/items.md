@@ -2,7 +2,7 @@
 title: Items
 description: Items page
 published: true
-date: 2023-11-04T22:24:20.372Z
+date: 2023-11-04T22:24:42.024Z
 tags: en, game, item
 editor: markdown
 dateCreated: 2023-10-08T15:34:31.889Z
@@ -32,5 +32,5 @@ In SCP: Contaiment Breach Multiplayer, there are different types of items which 
 - [🔑 SCP-860](/en/game/items/scp-860)
 - [💍 SCP-714](/en/game/items/scp-714)
 - [💊 SCP-500](/en/game/scps/scp-500)
-- [💀 Meme items](/en/game/scps/MemeItems)
+- [💀 Meme items](/en/game/items/MemeItems)
 {.links-list}
