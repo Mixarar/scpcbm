@@ -2,13 +2,14 @@
 title: Xandromeda
 description: Xandro
 published: true
-date: 2023-11-04T16:49:06.808Z
+date: 2023-11-04T16:49:30.021Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T16:49:06.808Z
 ---
 
-
+- [:arrow_backward: Back *Go back to the SCP's page.*](/en/game/scps#scps)
+{.links-list}
 # SCP-xandromeda
 ##### SCP-Xandro is a top secret SCP that is only viewed by 05 Members
 ![xandro_rule_45.png](/images/documents/xandro_rule_45.png){.align-left} <big>Object Class</big>: <font color="#fefe00"><big>Euclid</big></font>
