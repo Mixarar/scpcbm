@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-11-04T16:31:15.663Z
+date: 2023-11-04T16:59:33.300Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -42,6 +42,7 @@ The SCP universe has inspired numerous fan-made adaptations in widely varying fo
 - [SCP-914 *The clockwork.*](/en/game/scps/914)
 - [SCP-970 *The end never ends*](/en/game/scps/970)
 - [SCP-294 *The The Coffee Machine.*](/en/game/scps/294)
+- [SCP-990](/en/game/scps/990)
 {.links-list}
 ## Items/pickable
 - [SCP-500 *The Panacea.*](/en/game/scps/500)
@@ -50,7 +51,6 @@ The SCP universe has inspired numerous fan-made adaptations in widely varying fo
 - [SCP-714 *The jaided Ring*](/en/game/scps/714)
 {.links-list}
 ## UNKOWN
-- [SCP-990](/en/game/scps/990)
+- [XtrithX](/en/game/scps/scps)
 - [unknown](https://wiki.scpcbm.com/en/README)
-- [Xandromeda](/en/game/scps/xandromeda)
 {.links-list}
