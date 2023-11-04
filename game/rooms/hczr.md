@@ -2,7 +2,7 @@
 title: Rooms list of heavy containment zone
 description: Rooms list
 published: true
-date: 2023-11-04T12:23:10.713Z
+date: 2023-11-04T12:23:30.373Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T12:23:10.712Z
@@ -10,7 +10,7 @@ dateCreated: 2023-11-04T12:23:10.712Z
 
 - [:arrow_backward: Back *Go back to the rooms page.*](/en/game/rooms#zones)
 {.links-list}
-# Rooms list of Heavy containment zone
+# Heavy containment zone
 - [Dead ends *Evacuation Shelter*](/en/game/rooms/deadend)
 - [SCP-008's Containment Chamber *zombie plague*](/en/game/rooms/008)
 - [SCP-035's Containment Chamber *The comedy mask*](/en/game/rooms/035)
