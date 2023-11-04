@@ -2,7 +2,7 @@
 title: Itens
 description: Lista de itens
 published: true
-date: 2023-11-04T12:31:45.123Z
+date: 2023-11-04T12:32:19.546Z
 tags: game, item, pt-br
 editor: markdown
 dateCreated: 2023-10-15T20:11:11.564Z
@@ -19,7 +19,7 @@ Em SCP: Containment Breach Multiplayer, existem diferentes tipos de itens que vo
 - [:hospital: Kits Médicos *Todas as variantes do Kit Médico.*](/game/items/first-aid-kit)
 - [:briefcase: Carteira *Espaços Extras.*](/game/items/Wallet)
 - [:clipboard: Prancheta *Espaços Extras.*](/game/items/clipboard)
-- [🥽 Óculos de Visão Noturna *OVN*](/en/game/items/nvg)
+- [🥽 Óculos de Visão Noturna *OVN*](/game/items/nvg)
 - [🗺️ S-NAV *Navegador S-NAV e suas variantes*](/game/items/SNAV)
 - [📻 Transceptor de rádio *Todas as variantes*](/game/items/radio)
 - [🦺 Colete Balístico *E todas as variantes*](/game/items/ballistic-vest)
