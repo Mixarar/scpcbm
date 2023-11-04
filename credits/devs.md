@@ -2,7 +2,7 @@
 title: Developers
 description: Fusion Creators Studio Team
 published: true
-date: 2023-10-20T06:30:32.021Z
+date: 2023-11-04T20:05:11.354Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
@@ -40,17 +40,45 @@ dateCreated: 2023-10-15T11:52:10.637Z
 - **Vin** *(@vin_oficial)*
 - **The Noise** *(@jackbakerreal)*
 ## <font color="#ceb120">GAME CREDITS</font>
-⠀*Lead Developer:* **ItsXandromeda**
+Lead Developer:    ItsXandromeda
 
-⠀*Developers:* **Anders**
-⠀⠀⠀⠀⠀⠀⠀⠀⠀**Deepfried Chips**
-⠀ ⠀⠀⠀⠀⠀⠀⠀⠀**Mixarar**
-⠀*Game Designer:* **XtrithX**
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Dailuz24**
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**ItzSlain**
-⠀*Production Designer:* **Vin_Official**
+Developers:    Anders
+                Deepfried Chips
+                Mixarar
 
-⠀*Special Thanks to:* **Jabka**
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Virtual**
-⠀*Inspired to:* **SCP: Contaiment Breach - Regalis,Undertow Games
-⠀⠀⠀⠀⠀⠀⠀⠀⠀SCP: Unity - Aerie Gaming Studios, Nixon Interactive**
+Game Designers:     XtrithX
+                        Dailuz24
+                        ItzSlain
+                        The Noise
+
+Production Designer:   Vin (@vin_oficial)
+
+Game Contributors:     Yni-Viar
+                            The Noise
+
+Wiki Contributors:     Edo
+                        Dr. Spark Rosalene
+                        Griefer
+                        Zav
+
+Game Testers:    alowap (@alowap)
+                    danilOP. (@danilopf)
+                    Deno (@denopl)
+                    st_oner_top (@st_oner_top)
+                    tesla (@edem7338)
+                    TheLifeWorm (@thelifeworm)
+                    The Noise (jackbakerreal)
+                    Vin (@vin_oficial)
+                    W1nda (@w1nda)
+                    X_Nole (@x_nole)
+                    Умнейший31 (@bestfnafer31)
+                    Zav (@zav)
+                    зевуля (@zevulya)
+
+Special Thanks to:     Jabka
+                        Virtual
+                        Yni-Viar
+
+Inspired by:     SCP: Containment Breach - Regalis, Undertow Games
+                SCP Unity - Aerie Gaming Studios
+                SCP: Secret Laboratory
