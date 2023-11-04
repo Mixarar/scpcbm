@@ -2,7 +2,7 @@
 title: Xandromeda
 description: Xandro
 published: true
-date: 2023-11-04T16:50:38.389Z
+date: 2023-11-04T16:52:50.953Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T16:49:06.808Z
@@ -44,3 +44,9 @@ SCP-Xandro is located at SITE-Mental hospital, Personal must give Xandromeda A P
 
 ### 05-1
 - bruh fuck this make him keter.
+### Xandromeda
+- Neggawatt
+### 05-2 
+- the hell did he get here, Call in security personal, And researchers for further testing.
+### 05-1
+- roger.
