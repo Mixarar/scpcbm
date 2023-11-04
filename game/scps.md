@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-11-03T04:08:35.709Z
+date: 2023-11-04T16:31:15.663Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -51,5 +51,6 @@ The SCP universe has inspired numerous fan-made adaptations in widely varying fo
 {.links-list}
 ## UNKOWN
 - [SCP-990](/en/game/scps/990)
-{.links-list}
 - [unknown](https://wiki.scpcbm.com/en/README)
+- [Xandromeda](/en/game/scps/xandromeda)
+{.links-list}
