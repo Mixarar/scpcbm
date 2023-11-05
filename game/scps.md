@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-11-04T16:59:33.300Z
+date: 2023-11-05T06:11:32.687Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -51,6 +51,7 @@ The SCP universe has inspired numerous fan-made adaptations in widely varying fo
 - [SCP-714 *The jaided Ring*](/en/game/scps/714)
 {.links-list}
 ## UNKOWN
+- [xandromeda](/en/game/scps/xandromeda)
 - [XtrithX](/en/game/scps/scps)
 - [unknown](https://wiki.scpcbm.com/en/README)
 {.links-list}
