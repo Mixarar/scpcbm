@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-11-05T16:48:49.780Z
+date: 2023-11-05T16:50:09.608Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -25,7 +25,5 @@ The SCP universe has inspired numerous fan-made adaptations in widely varying fo
 - [Every SCPs *SCPs list*](/en/game/scps/every_scps)
 {.links-list}
 ### custom SCPs
-- [xandromeda](/en/game/scps/xandromeda)
-- [XtrithX](/en/game/scps/scps)
 - [This page can be only seen by 05 Council members](/en/README)
 {.links-list}
