@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-11-05T14:21:57.471Z
+date: 2023-11-05T15:25:28.313Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -27,10 +27,6 @@ On an undisclosed date at 9:00 AM, Agent Skinner and Agent Carey started their m
 ㅤㅤ
 ㅤㅤ
 ㅤㅤ
-ㅤ
-ㅤ
-ㅤㅤ
-ㅤ
 ㅤ
 ㅤ
 
