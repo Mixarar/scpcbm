@@ -2,12 +2,14 @@
 title: Console commands
 description: 
 published: true
-date: 2023-11-05T05:06:50.742Z
+date: 2023-11-05T05:07:37.443Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T05:06:50.742Z
 ---
 
+- [:arrow_backward: Back *Go back to the Mechanics page.*](/en/game/mechanics)
+{.links-list}
 # Console commands
 The in-game console can be opened with the F3 key. Laptops with a Fn key may have to use the Fn + F3 keystroke. Alt + F3 is also a solution. Commands may be entered into the console in the format <command> <parameters> followed by the return or enter key, where multiple parameters are separated by a space.
 ## Parameter Types
