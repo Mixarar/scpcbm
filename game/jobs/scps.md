@@ -2,7 +2,7 @@
 title: SCPs
 description: SCP lore and use in the game.
 published: true
-date: 2023-11-03T11:30:03.857Z
+date: 2023-11-05T16:10:44.154Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:46:39.758Z
@@ -37,7 +37,7 @@ SCP-096 Spawns in "HEAVY CONTAINMENT ZONE" He walks Slower than any scp, When an
 **Name**: `The Old Man`
 **Category**: `SCP`
 **Health**: `5000`
-**Items**: `None
+**Items**: `None`
 ## Lore
 SCP-106 is an elderly humanoid entity, appearing as a tall, emaciated figure with decaying, leathery skin and sharp, elongated fingers. It has a distinctive smile and is often seen wearing a tattered suit. SCP-106 is often described as having a disheveled and gruesome appearance.SCP-106 is known for its anomalous abilities, including the ability to phase through solid matter, such as walls and floors. It is also highly predatory and sadistic in nature, actively seeking out and capturing individuals. It prefers to target humans and will often toy with its victims by subjecting them to extreme physical and psychological torment.One of SCP-106's most chilling abilities is its ability to create a "pocket dimension" or "the pocket realm." It can transport itself and its victims to this dimension, which is a dark and maze-like space. Within this pocket dimension, SCP-106 further torments its prey, often causing severe physical and psychological trauma.
 ## In Game
@@ -90,13 +90,8 @@ SCP-966 is the Second Slowest class in the game, People cannot see SCP-966 witho
 **Health**:`3000` 
 **items**: `Level 5 Key Card`
 ## Lore
-SCP-860-2, also known as "The Sculpture," is a hostile entity and a part of the lore in the SCP Foundation universe. Its primary depiction and backstory are consistent with SCP-860, the blue key.
-
-In the SCP Foundation lore, SCP-860 is a blue key that can be used to unlock any door with a lock that requires a key, regardless of the door's age, complexity, or original key. However, when the key is used on a door and opened, it leads to an extradimensional forest, which is referred to as SCP-860-2.
-
-SCP-860-2 is a mysterious and dangerous forest that exists in a separate dimension. It is characterized by thick, ancient trees and is inhabited by various hostile entities, with The Sculpture (SCP-860-2) being one of them. The Sculpture is a shadowy, humanoid figure that lurks within the forest, and when someone enters SCP-860-2, it begins to pursue them relentlessly.
-
-The exact nature and origins of SCP-860-2 and The Sculpture are not fully explained in SCP Foundation documentation, which is intentional as part of the organization's lore. SCP-860-2 and The Sculpture serve as a dangerous and enigmatic aspect of the SCP universe, providing a sense of mystery and danger to those who encounter them.
+SCP-860-2, also unofficially referred to as "The Guardian", and "The Forest Beast", is a creature which lives in SCP-860-1.
+SCP-860-2 is a large feline creature that walks on four legs with bark-like skin and dull gray vegetation covering most of its body. It has a long, broad tail, pointed ears, and bright yellow symbols on its chest and head. In addition, its eyes are bright enough to be seen in 860-1's dense fog. It is predatory in nature and will display hostility toward anything within 860-1.
 ## In Game
 SCP-860 Spawns in "ENTRANCE ZONE" Inside his Chamber, He needs to Find a door To Escape, When he is Out He will need to Find the Heavy checkpoint Doors, He is has the same Speed as SCP-939 And Has the same Run Depleeshing 
 # SCP-035
