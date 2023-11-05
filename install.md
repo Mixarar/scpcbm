@@ -2,7 +2,7 @@
 title: Installation Guide
 description: An installation guide for dummies.
 published: true
-date: 2023-10-21T09:26:48.496Z
+date: 2023-11-05T17:20:32.323Z
 tags: en, install
 editor: markdown
 dateCreated: 2023-10-08T21:51:10.223Z
@@ -15,17 +15,17 @@ Installing the game like true champs.
 #### **Required**:
 - Account in steam
 - A working device
-- [Minimum requirements](/en/install/requirements) device or higher
+- [**Minimum requirements**](/en/install/requirements) device or higher
 
 #### **Optional**:
-- [Recommended requirements](/en/install/requirements) device or higher
+- [**Recommended requirements**](/en/install/requirements) device or higher
 
 ## Steps to install the game:
 1. Open your [**Steam app**](https://store.steampowered.com/about/).
-2. Search up [SCP: CBM](https://store.steampowered.com/app/1782380/SCP_Containment_Breach_Multiplayer/) or [SCP: Coalition](https://wiki.scpcbm.com) in search bar
+2. Search up [**SCP: CBM**](https://store.steampowered.com/app/1782380/SCP_Containment_Breach_Multiplayer/) or [**SCP: Coalition**](https://wiki.scpcbm.com) in search bar
 3. Click download/play on the store page, and enjoy!
 
-For troubleshooting please go [here](/en/home).
+For troubleshooting please go [**here**](/en/troubleshooting)
 
 # :computer: Install the Server
 Installing the server like a true giga chad.
@@ -46,4 +46,4 @@ Installing the server like a true giga chad.
 5. Configure the server to your needs.
 6. Launch the server.
 
-For troubleshooting please go [here](/en/home).
+For troubleshooting please go [**here**](/en/troubleshooting)
