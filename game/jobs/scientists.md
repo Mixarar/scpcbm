@@ -2,7 +2,7 @@
 title: Scientist
 description: Scientist lore and use in the game.
 published: true
-date: 2023-11-05T06:50:50.560Z
+date: 2023-11-05T07:29:05.915Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:27:58.154Z
@@ -40,7 +40,7 @@ With having a Key Card handy, Scientists have the advantage to open SCP-914 (Whi
 ‎ 
 
 ‎ 
-Subject: Complaint Regarding Safety Protocols and SCP Handling
+
 
 To: [Security Cheif, Lemonski]
 From: [Security cheif franklin]
