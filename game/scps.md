@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-11-05T16:50:09.608Z
+date: 2023-11-05T17:12:35.689Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -23,7 +23,4 @@ The SCP universe has inspired numerous fan-made adaptations in widely varying fo
 - [Docile SCPs *SCPs that will not harm the player*](/en/game/scps/docile)
 - [Items/pickable/usable SCPs *SCPs that the player can pick up*](/en/game/scps/items)
 - [Every SCPs *SCPs list*](/en/game/scps/every_scps)
-{.links-list}
-### custom SCPs
-- [This page can be only seen by 05 Council members](/en/README)
 {.links-list}
