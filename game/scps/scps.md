@@ -2,7 +2,7 @@
 title: XtrithX
 description: 
 published: true
-date: 2023-11-05T02:55:05.869Z
+date: 2023-11-05T02:55:45.422Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T02:55:05.869Z
@@ -12,6 +12,8 @@ dateCreated: 2023-11-05T02:55:05.869Z
 ### this following Page can be only seen by 05 members, alpha-01 Members.
 ![xtrithx.jpg](/images/rooms/xtrithx.jpg){.align-left}Object Class</big>: <font color="#f70004"><big>Keter</big></font>
 SCP-XtrithX Is a anomaly that can Make Creatures from 3d Modeling Applications, SCP- XtrihX has Created Different guns in the past, SCP- XtrithX has been caught changing the models of the keycards, Researcher Dr NNN has been doing tests on XtrithX from 8 months but no results were found. SCP xtrithx complains about the 3 Modeling app not Porting correctly. Further Testing is required to determine the subject should be Keter classification.
+‎
+‎
 ‎
 ‎
 ‎
