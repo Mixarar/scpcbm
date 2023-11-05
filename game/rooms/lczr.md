@@ -2,7 +2,7 @@
 title: Rooms list of Light containment zone
 description: Rooms list
 published: true
-date: 2023-11-04T12:25:07.778Z
+date: 2023-11-05T16:02:50.820Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T12:19:49.631Z
@@ -38,7 +38,7 @@ dateCreated: 2023-11-04T12:19:49.631Z
 - [T-shaped room *Tshape*](/en/game/rooms/t-shaped)
 - [Four ways room *fourways*](/en/game/rooms/fourwayesroom)
 - [Storage hallway with SCP-970 *Storage Rooms with 970*](/en/game/rooms/storage970)
-- [End room *End room*](/en/game/rooms/theend.)
+- [End room *End room*](/en/game/rooms/theend)
 - [Surveillance Room *security CCTV*](/en/game/rooms/cams)
 - [LCZ-HCZ checkpoint *Checkpoint*](/en/game/rooms/checklczhcz)
 {.links-list}
