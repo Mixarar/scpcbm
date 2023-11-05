@@ -2,7 +2,7 @@
 title: Keycards
 description: All levels keycards
 published: true
-date: 2023-10-30T21:58:44.078Z
+date: 2023-11-05T14:42:45.958Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
@@ -21,13 +21,20 @@ dateCreated: 2023-10-14T17:59:30.191Z
 ![key1.gif](/images/items/key1.gif =175x){.align-left}**Name**: `Level 1 keycard`
 **Location**: `The storeroom;SCP-970 Room;2-level office next to a computer.`
 *The level 1 keycard is the lowest level card.* 
-**It can open:** *the first door to the [Light testing chamber 2B](https://wiki.scpcbm.com/en/game/rooms/Small)*
 
-**The keycard can also be created by putting** a quarter into SCP-914 on the "Fine" setting.
+**Level 2 keycards can be used to open:** 
+- *the first door to the [Light testing chamber 2B](https://wiki.scpcbm.com/en/game/rooms/Small)*
+
+**The keycard can be created** by putting a quarter into SCP-914 on the "Fine" setting.
 ###### <font color="#997802">LEVEL</font> <font color="#9a9a9a">2</font> <font color="#997802">KEYCARD</font>
 ![keycard2.png](/images/items/key2.gif =175x){.align-left}**Name**: `Level 2 keycard`
 **Location**: `The basic office;The small testing chamber.`
-**Level 2 keycards can be used to open the doors:** *to SCP-895's  chamber and SCP-914's chamber.*
+⠀
+⠀
+
+**Level 2 keycards can be used to open:** 
+- *SCP-895's  chamber.* 
+- *SCP-914's chamber.*
 
 **The Keycard can be created** *using SCP-914 by putting a level 1 keycard in it on the "Fine" setting, or a master card or quarter on the "Very Fine" setting.*
 ⠀
