@@ -2,7 +2,7 @@
 title: Rooms list of Entrance zone
 description: Rooms list
 published: true
-date: 2023-11-04T12:27:02.389Z
+date: 2023-11-05T03:16:38.309Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T12:27:02.389Z
@@ -27,4 +27,5 @@ dateCreated: 2023-11-04T12:27:02.389Z
 - [Security Gateway *Checkpoint*](/en/game/rooms/checkpoint)
 - [SCP-096's Lockroom *Testing chamber*](/en/game/rooms/096slockroom)
 - [SCP-860's Testing Chamber *Testing chamber*](/en/game/rooms/860chamber)
+- [Head office *Rosewood*](/en/game/rooms/headoffice)
 {.links-list}
