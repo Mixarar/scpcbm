@@ -2,7 +2,7 @@
 title: SCPs List
 description: All of the SCPs currently present inside of the game are on this page.
 published: true
-date: 2023-11-05T14:13:23.102Z
+date: 2023-11-05T16:48:49.780Z
 tags: en, game
 editor: markdown
 dateCreated: 2023-10-12T19:24:17.893Z
@@ -19,8 +19,13 @@ The collaborative writing project operates on the wiki-like website SCP Wiki, an
 
 The SCP universe has inspired numerous fan-made adaptations in widely varying forms of media; including books, comics, video games, and animated and live-action short films.
 ## SCP that are ingame
-- [Aggresive SCPs](/en/game/scps/aggresive)
-- [Docile SCPs](/en/game/scps/docile)
-- [Items/pickable/usable SCPs](/en/game/scps/items)
-- [Every SCPs](/en/game/scps/every_scps)
+- [Aggresive SCPs *SCPs that will harm the player*](/en/game/scps/aggresive)
+- [Docile SCPs *SCPs that will not harm the player*](/en/game/scps/docile)
+- [Items/pickable/usable SCPs *SCPs that the player can pick up*](/en/game/scps/items)
+- [Every SCPs *SCPs list*](/en/game/scps/every_scps)
+{.links-list}
+### custom SCPs
+- [xandromeda](/en/game/scps/xandromeda)
+- [XtrithX](/en/game/scps/scps)
+- [This page can be only seen by 05 Council members](/en/README)
 {.links-list}
