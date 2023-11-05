@@ -2,7 +2,7 @@
 title: Items
 description: Items page
 published: true
-date: 2023-11-05T03:02:47.796Z
+date: 2023-11-05T03:03:19.980Z
 tags: en, game, item
 editor: markdown
 dateCreated: 2023-10-08T15:34:31.889Z
@@ -28,8 +28,8 @@ In SCP: Contaiment Breach Multiplayer, there are different types of items which 
 - [💉 Syringe *All variants*](/en/game/items/syringe)
 - [👁️ Eye drops *All variants*](/en/game/items/eyedrops)
 - [✋🏻✋🏿 Severed Hands *All variants*](/en/game/items/severed-hands)
-- [💵 Quarter](/en/game/items/quarter)
-- [🔑 SCP-860](/en/game/items/scp-860)
+- [💵 Quarter *coins*](/en/game/items/quarter)
+- [🔑 SCP-860 *The key/shack*](/en/game/items/scp-860)
 - [💍 SCP-714](/en/game/items/scp-714)
 - [💊 SCP-500](/en/game/scps/scp-500)
 - [💀 Meme items](/en/game/items/MemeItems)
