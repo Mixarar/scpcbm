@@ -2,7 +2,7 @@
 title: Developers
 description: Fusion Creators Studio Team
 published: true
-date: 2023-11-05T03:17:16.434Z
+date: 2023-11-05T13:39:57.440Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
@@ -40,45 +40,46 @@ dateCreated: 2023-10-15T11:52:10.637Z
 - **Vin** *(@vin_oficial)*
 - **The Noise** *(@jackbakerreal)*
 ## <font color="#ceb120">GAME CREDITS</font>
-Lead Developer:    ItsXandromeda
+⠀*Lead Developer*: **ItsXandromeda**
 
-Developers:    Anders
-                Deepfried Chips
-                Mixarar
+⠀*Developers*: **Anders**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀**Deepfried Chips**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀**Mixarar**
 
-Game Designers:     XtrithX
-                        Dailuz24
-                        ItzSlain
-                        The Noise
+⠀*Game Designers*: **XtrithX**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**Dailuz24**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**ItzSlain**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**The Noise**
 
-Production Designer:   Vin (@vin_oficial)
+⠀*Production Designer*: **Vin (@vin_oficial)**
 
-Game Contributors:     Yni-Viar
-                            The Noise
+⠀*Game Contributors*:     **Yni-Viar**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **The Noise**
 
-Wiki Contributors:     Edo
-                        Dr. Spark Rosalene
-                        Griefer
-                        Zav
+⠀*Wiki Contributors*: **Griefer**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **Zav**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **Edo**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **Theman5398**
 
-Game Testers:    alowap (@alowap)
-                    danilOP. (@danilopf)
-                    Deno (@denopl)
-                    st_oner_top (@st_oner_top)
-                    tesla (@edem7338)
-                    TheLifeWorm (@thelifeworm)
-                    The Noise (jackbakerreal)
-                    Vin (@vin_oficial)
-                    W1nda (@w1nda)
-                    X_Nole (@x_nole)
-                    Умнейший31 (@bestfnafer31)
-                    Zav (@zav)
-                    зевуля (@zevulya)
 
-Special Thanks to:     Jabka
-                        Virtual
-                        Yni-Viar
+⠀*Game Testers*: alowap (@alowap)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ danilOP. (@danilopf)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Deno (@denopl)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ st_oner_top (@st_oner_top)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ tesla (@edem7338)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ TheLifeWorm (@thelifeworm)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ The Noise (jackbakerreal)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Vin (@vin_oficial)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ W1nda (@w1nda)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ X_Nole (@x_nole)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Умнейший31 (@bestfnafer31)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Zav (@zav)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ зевуля (@zevulya)
 
-Inspired by:     SCP: Containment Breach - Regalis, Undertow Games
-                SCP Unity - Aerie Gaming Studios
-                SCP: Secret Laboratory
+⠀*Special Thanks to*: **Jabka**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **Virtual**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **Yni-Viar**
+
+⠀*Inspired by*:     **SCP: Containment Breach - Regalis, Undertow Games**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀ **SCP Unity - Aerie Gaming Studios**
+⠀⠀⠀⠀⠀⠀⠀⠀⠀ **SCP: Secret Laboratory**
