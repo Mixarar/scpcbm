@@ -2,12 +2,14 @@
 title: XtrithX
 description: 
 published: true
-date: 2023-11-05T02:55:45.422Z
+date: 2023-11-05T02:57:16.464Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T02:55:05.869Z
 ---
 
+- [:arrow_backward: Back *Go back to the SCP's page.*](/en/game/scps#scps)
+{.links-list}
 # SCP- XtrithX
 ### this following Page can be only seen by 05 members, alpha-01 Members.
 ![xtrithx.jpg](/images/rooms/xtrithx.jpg){.align-left}Object Class</big>: <font color="#f70004"><big>Keter</big></font>
