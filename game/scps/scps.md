@@ -2,7 +2,7 @@
 title: XtrithX
 description: 
 published: true
-date: 2023-11-05T02:57:16.464Z
+date: 2023-11-05T05:24:07.831Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T02:55:05.869Z
@@ -25,6 +25,10 @@ SCP-XtrithX Is a anomaly that can Make Creatures from 3d Modeling Applications, 
 ‎
 ### 05-2
 - The hell. Is he like the creater of SCPs or something.
+### 05-4 
+- SCP sounds like Gabe newell fr
+### 05-1 
+- bruh anyways
 ### 05-1 
 - no. XtrithX is far from that. we cannot stop him.
 ### 05-2
