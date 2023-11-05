@@ -2,7 +2,7 @@
 title: SCPs
 description: SCP lore and use in the game.
 published: true
-date: 2023-11-05T16:12:29.302Z
+date: 2023-11-05T16:27:32.620Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:46:39.758Z
@@ -34,7 +34,6 @@ SCP-096 Spawns in "HEAVY CONTAINMENT ZONE" He walks Slower than any scp, When an
 **Category**: `SCP`
 **Health**: `5000`
 **Items**: `None`
-## Lore
 ## In Game
 SCP-106 can go trough Doors without opening them, when he Touches a human class the Person will be Sent to the pocket dimension, The player will bleed to death if he doesn`t get out of the pocked dimension
 # SCP-173
@@ -78,6 +77,5 @@ SCP-860 Spawns in "ENTRANCE ZONE" Inside his Chamber, He needs to Find a door To
 **Catergory**: `SCP` 
 **Health**:`3000` 
 **items**: `N/A`
-manipulative and sadistic nature. SCP-035 has been found to hunt humans often for the thrill of it. 
 ## In Game
 SCP-035 Spawns in "Heavy Containment zone" Inside the chamber of SCP-513 without a host. When a Player picks up SCP-035 The player will become SCP-035 Without any items, The player must Scavange trough the facility to found items, The player can Use Keycards, Guns like a Normal human class, SCP-035 has a Major Down fall of Hp depleeding every few secends make every Secend count.
