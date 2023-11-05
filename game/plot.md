@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-11-05T14:21:29.471Z
+date: 2023-11-05T14:21:57.471Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -131,9 +131,5 @@ If D-9341 has turned off the Alpha Warheads in the Warhead Silo, the nuclear det
 It is unknown as to what happens after any of the endings, but judging by the fact that quotes from personnel who are cleaning up the facility are seen whenever the player dies, it is assumed that the containment breach was eventually resolved.
 
 In the second ending at Gate A, it is safe to asume the scientist is referring to the players ability to respawn. This will most likely result with the player obtaining a SCP status, although it is unknown how/if he will be contained.
-
-## Others
-It's really scary to think that in a situation like this, your chances of survival would be one in a krillion. ~ Zav
-
 
 
