@@ -2,7 +2,7 @@
 title: aggressive SCPs
 description: aggressive
 published: true
-date: 2023-11-05T16:37:37.738Z
+date: 2023-11-13T10:52:58.250Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T16:37:37.738Z
@@ -28,3 +28,6 @@ dateCreated: 2023-11-05T16:37:37.738Z
 - [SCP-012 *The musical note*.](/en/game/scps/012)
 - [SCP-079 *Old AI*](/en/game/scps/079)
 {.links-list}
+
+
+

@@ -2,13 +2,13 @@
 title: Eye drops
 description: Drops
 published: true
-date: 2023-10-29T13:09:47.695Z
+date: 2023-11-11T13:27:32.316Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-29T12:59:35.301Z
 ---
 
-- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
+- [:arrow_backward: Back *Go back to the other items page.*](/en/game/items/other)
 {.links-list}
 # Eye drops
 ![eye_dros.png](/images/items/eye_dros.png){.align-right}Name" `eyedrops`

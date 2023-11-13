@@ -2,13 +2,13 @@
 title: Battery
 description: All variants
 published: true
-date: 2023-10-28T19:55:11.625Z
+date: 2023-11-12T19:08:08.782Z
 tags: en, game, item, consumable
 editor: markdown
 dateCreated: 2023-10-28T19:02:24.185Z
 ---
 
-- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
+- [:arrow_backward: Back *Go back to the other items page.*](/en/game/items/other)
 {.links-list}
 # 9V Battery
 ![9vbattery.png](/images/items/9vbattery.png =200x){.align-left}**Name**: `9V Battery`
@@ -34,7 +34,7 @@ The 18V Battery can be made by putting a 9V Battery inside of SCP-914 "The Clock
 
 # Strange Battery
 ![strangebattery.png](/images/items/strangebattery.png =200x){.align-left}**Name**: `Strange Battery`
-**Category**: `UNEQUIPPABLE`
+**Category**: `DEADLY`
 
 The Strange Battery can be made by putting a 9V Battery or an 18V Battery inside of SCP-914 "The Clockworks" on the setting "Fine" or "Very fine". This Battery can not be picked up, as picking it up results in instant death from electrical shock.
 

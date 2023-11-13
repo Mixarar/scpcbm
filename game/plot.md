@@ -2,7 +2,7 @@
 title: Game Plot
 description: Wiki page about the game plot, mostly summarised
 published: true
-date: 2023-11-05T16:05:36.422Z
+date: 2023-11-12T21:10:59.926Z
 tags: en, game, plot
 editor: markdown
 dateCreated: 2023-10-12T19:21:13.823Z
@@ -10,10 +10,10 @@ dateCreated: 2023-10-12T19:21:13.823Z
 
 - [:arrow_backward: Back *Go back to the home page.*](/en/home#game-wiki)
 {.links-list}
-> THIS PAGE CONTAINS SPOILERS
+> THIS PAGE CONTAINS SPOILERS!
 {.is-warning}
 # Plot
-## pre game events
+## Pre game events
 After multiple ![docir106.webp](/images/documents/docir106.webp =400x){.align-left}   SCP Foundation's facilities  and sectors were attacked by the Chaos insurgency, the SCP Foundation relocated a portion of escaped SCPs to Site-██, in which the game takes place.
 
  Undercover agents from the Chaos Insurgency are responsible for the massive containment breach at Site-██, most notable being Agent Skinner and Dr. Maynard. 
@@ -22,13 +22,25 @@ On an undisclosed date at 9:00 AM, Agent Skinner and Agent Carey started their m
 
  When the breach was dealt with, and cleaning crews were dispatched to fix damage caused by SCP 106, Researcher Ferguson noticed that the blast door leading to SCP 079 can not be opened manually or via the control panel.
 
- A team of three technicians was sent to check the door. After concluding that the problem is not caused by a fault in the door control system, they started disassembling the door. Soon after this, SCP 079 opened the majority of containment chamber's in the facility, causing a major containment breach.
-
+ A team of three technicians was sent to check the door. After concluding that the problem is not caused by a fault in the door control system, they started disassembling the door. Soon after this, SCP 079 opened the majority of the containment chambers in the facility, causing a major containment breach.
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
 ## Main character
 Dr. Benjamin Oliver Walker was a Level 4 Senior Researcher in the SCP foundation. After the Foundation became aware of his unauthorized research on an anomalous phenomenon dubbed "Spiral Gestalt", a disciplinary hearing was held by the Internal Tribunal Department. Benjamin was found quilty, demoted to a Class-D and given the designaton D-9341. The player can find Benjamin's old Identification Badge and the document for the Disciplinary hearing DH-S-4137-17092 inside of [SCP-1162](/en/game/rooms/1162).
 ![imbenjamin.png](/images/documents/imbenjamin.png)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ## Ingame
-Benjamin wakes up inside cell 3-11 at the Class-D holding area. After taking a look at the class-D orientation leaflet on the desk, he is  escorted to SCP 173's containment chamber for a test by Agent Ulgrin and an unnamed security Agent. Shortly after the test begins, Security Chief Franklin says that the blast door of SCP 173's containment chamber can not be closed because of problems with the door controls. At this point, SCP 079 has already opened the majority of containment chambers in the facility. SCP 173 kills 2 Class D and a security Agent on the balcony after lights flicker multiple times, breaks the railing and goes into the ventilation shaft. An announcement can be heard right after the breach begins: "The site is experiencing multiple keter and euclid level containment breaches, full site lockdown initiated."
+Benjamin wakes up inside cell 3-11 at the Class-D holding area. After taking a look at the [Class-D Orientation Leaflet](/e/en/game/items/orientation-leaflet) on the desk, he is  escorted to [SCP 173](/en/game/scps/173)'s containment chamber for a test by Agent Ulgrin and an unnamed security agent. Shortly after the test begins, Security Chief Franklin says that the blast door of [SCP 173](/en/game/scps/173)'s containment chamber can not be closed because of problems with the door controls. At this point, [SCP 079](/en/game/scps/079) has already opened the majority of containment chambers in the facility. [SCP 173](/en/game/scps/173) kills 2 [Class-D Personnel](/en/game/jobs/dclass) and a security agent on the balcony after lights flicker multiple times, breaks the railing and goes into the ventilation shaft. An announcement can be heard right after the breach begins: "The site is experiencing multiple keter and euclid level containment breaches, full site lockdown initiated."
+
 ![d-9341_cell.webp](/images/rooms/d-9341_cell.webp =500x)
 ## Audio
 - "For some reason, he passed by 079's chamber, and now the doors aren't working."

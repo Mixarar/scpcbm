@@ -2,7 +2,7 @@
 title: Список локаций
 description: Страница со всеми комнатами в игре и их подробным описанием.
 published: true
-date: 2023-11-01T15:46:40.289Z
+date: 2023-11-01T15:46:45.280Z
 tags: ru, игра
 editor: markdown
 dateCreated: 2023-10-15T16:06:32.697Z

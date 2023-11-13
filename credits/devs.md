@@ -2,7 +2,7 @@
 title: Developers
 description: Fusion Creators Studio Team
 published: true
-date: 2023-11-05T17:13:49.916Z
+date: 2023-11-13T03:24:20.620Z
 tags: en, game, credit, devs
 editor: markdown
 dateCreated: 2023-10-15T11:52:10.637Z
@@ -60,8 +60,8 @@ dateCreated: 2023-10-15T11:52:10.637Z
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **Zav**
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **Edo**
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **Theman5398**
-
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       **Db478**
+        
 ⠀*Game Testers*: alowap (@alowap)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ danilOP. (@danilopf)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Deno (@denopl)
@@ -75,6 +75,7 @@ dateCreated: 2023-10-15T11:52:10.637Z
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Умнейший31 (@bestfnafer31)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Zav (@zav)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ зевуля (@zevulya)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Db478 (@db478)
 
 ⠀*Special Thanks to*: **Jabka**
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ **Virtual**

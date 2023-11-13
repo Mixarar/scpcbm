@@ -2,7 +2,7 @@
 title: Kit de Primeiros Socorros
 description: Descreve o Kit de Primeiros Socorros e todas suas variantes e o que eles fazem no jogo.
 published: true
-date: 2023-11-03T23:32:11.345Z
+date: 2023-11-03T23:32:16.103Z
 tags: pt-br, first aid kit, medkit, consumable, healing, heal
 editor: markdown
 dateCreated: 2023-11-03T23:32:11.345Z

@@ -2,13 +2,13 @@
 title: Ballistic Vest
 description: All variants
 published: true
-date: 2023-10-29T14:32:36.617Z
+date: 2023-11-11T13:28:03.336Z
 tags: en, game, item, equippable
 editor: markdown
 dateCreated: 2023-10-28T17:37:02.485Z
 ---
 
-- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
+- [:arrow_backward: Back *Go back to the other items page.*](/en/game/items/other)
 {.links-list}
 
 # Ballistic Vest
@@ -23,7 +23,7 @@ The Ballistic Vest is an equippable item that can be found at the Omega Warhead 
 **Name**: `Heavy Ballistic Vest`
 **Category**: `EQUIPPABLE`
 
-The Heavy Ballistic Vest can be made by putting a Ballistic Vest inside of SCP-914 "The Clockworks" on the setting "Fine". It provides more protection. However, it takes slightly more time to equip and once it's been equipped, 8 bars will disappear from the player's stamina meter. The following message appears when a player equips it: "You put on the vest and feel heavily encumbered.
+The Heavy Ballistic Vest can be made by putting a Ballistic Vest inside of SCP-914 "The Clockworks" on the setting "Fine". It provides more protection. However, it takes slightly more time to equip and once it's been equipped, 8 bars will disappear from the player's stamina meter. The following message appears when a player equips it: "You put on the vest and feel heavily encumbered."
 
 # Bulky Ballistic Vest
 **Name**: `Bulky Ballistic Vest`

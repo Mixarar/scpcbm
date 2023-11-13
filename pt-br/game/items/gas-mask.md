@@ -2,7 +2,7 @@
 title: Máscara de Gás
 description: Descreve a Máscara de Gás e suas variantes e o que elas fazem no jogo.
 published: true
-date: 2023-11-02T01:03:44.234Z
+date: 2023-11-02T01:03:48.956Z
 tags: item, pt-br, gas mask, equippable
 editor: markdown
 dateCreated: 2023-10-31T12:05:55.959Z

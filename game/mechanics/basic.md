@@ -2,7 +2,7 @@
 title: Basic mechanics
 description: Mech
 published: true
-date: 2023-11-03T03:51:29.570Z
+date: 2023-11-03T03:51:34.372Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-03T03:46:48.785Z

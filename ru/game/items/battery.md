@@ -2,7 +2,7 @@
 title: Батарейка
 description: Все виды
 published: true
-date: 2023-11-01T15:03:43.432Z
+date: 2023-11-01T15:03:48.124Z
 tags: ru, игра, предмет, расходуемый
 editor: markdown
 dateCreated: 2023-11-01T14:56:57.553Z

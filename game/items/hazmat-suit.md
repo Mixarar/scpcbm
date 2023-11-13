@@ -2,13 +2,13 @@
 title: Hazmat Suit
 description: And it's variants
 published: true
-date: 2023-10-28T20:41:39.958Z
+date: 2023-11-11T13:28:19.389Z
 tags: en, game, item, equippable
 editor: markdown
 dateCreated: 2023-10-28T20:33:07.592Z
 ---
 
-- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
+- [:arrow_backward: Back *Go back to the other items page.*](/en/game/items/other)
 {.links-list}
 # Hazmat Suit
 

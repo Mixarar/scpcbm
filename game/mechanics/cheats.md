@@ -2,7 +2,7 @@
 title: Console commands
 description: 
 published: true
-date: 2023-11-05T05:07:37.443Z
+date: 2023-11-13T03:18:22.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T05:06:50.742Z
@@ -72,6 +72,7 @@ Note that the parameter of a command is not checked, so it may cause errors when
   | giveachievement| Integer|Gives a achievement to player according to ID.
   |427state | Float|Set holding time of scp427, no parameter will set with max value.
   |setblinkeffect | BlinkEffect: Float|BlinkEffect will effect the speed of blink, BlinkEffectTimer will decide the duration of BlinkEffect.
+
   
 ## Npc Types
  | NPC Parameter| NPC Value|
@@ -159,7 +160,24 @@ Note that the parameter of a command is not checked, so it may cause errors when
   |key |Lost Key
   | Old Badge|Old Badge
   | Quarter|Quarter
-  
-  
-  
+  | p90|fn90
+## Roles command Role IDs:
+  | Commands| Ids| 
+|:-------------- |:-------:| 
+  |SPECTATOR |  0
+|MTF| 1
+  |GUARD|2
+|D CLASS|3
+|SCIENTIST|4
+|SCP-049|6
+|CHAOS|7
+JANITOR|8 / 9
+|SCP-939|10
+|SCP-106|11
+|SCP-966|12
+|SCP-049-2|13
+|SCP-096|14
+|SCP-860-2|15
+|SCP-035|16
+|Clerk |17
   

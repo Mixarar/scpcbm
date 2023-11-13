@@ -2,7 +2,7 @@
 title: Rooms list of heavy containment zone
 description: Rooms list
 published: true
-date: 2023-11-04T12:23:30.373Z
+date: 2023-11-04T12:23:35.179Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T12:23:10.712Z

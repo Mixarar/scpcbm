@@ -2,13 +2,13 @@
 title: SCP-420-J
 description: weed
 published: true
-date: 2023-11-05T03:09:41.434Z
+date: 2023-11-11T13:22:57.702Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T03:09:41.434Z
 ---
 
-- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
+- [:arrow_backward: Back *Go back to the SCP item page.*](/en/game/items/scp)
 {.links-list}
 # SCP-420-J
 ![scp-420-j.webp](/images/roles/scp-420-j.webp =200x){.align-left}**Name**: `scp-420-j`

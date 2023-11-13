@@ -2,7 +2,7 @@
 title: Installation Guide
 description: An installation guide for dummies.
 published: true
-date: 2023-11-05T17:20:32.323Z
+date: 2023-11-05T17:20:37.136Z
 tags: en, install
 editor: markdown
 dateCreated: 2023-10-08T21:51:10.223Z

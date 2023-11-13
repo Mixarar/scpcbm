@@ -2,7 +2,7 @@
 title: Medical bay
 description: 
 published: true
-date: 2023-11-02T11:43:10.232Z
+date: 2023-11-02T11:43:16.086Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T11:43:10.232Z

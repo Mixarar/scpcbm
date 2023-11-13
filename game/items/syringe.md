@@ -2,13 +2,13 @@
 title: Syringe
 description: All variants
 published: true
-date: 2023-10-29T17:04:16.755Z
+date: 2023-11-11T13:27:18.649Z
 tags: en, game, item, consumable
 editor: markdown
 dateCreated: 2023-10-29T14:14:14.546Z
 ---
 
-- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
+- [:arrow_backward: Back *Go back to the other items page.*](/en/game/items/other)
 {.links-list}
 # Syringe
 ![syringe.png](/images/items/syringe.png =150x){.align-right}**Name**: `Syringe`

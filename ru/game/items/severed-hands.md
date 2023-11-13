@@ -2,7 +2,7 @@
 title: Оторванная рука
 description: Все виды
 published: true
-date: 2023-11-01T15:03:12.444Z
+date: 2023-11-01T15:03:17.117Z
 tags: ru, игра, предмет, экипируемый
 editor: markdown
 dateCreated: 2023-11-01T14:46:10.703Z

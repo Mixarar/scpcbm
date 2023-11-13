@@ -2,7 +2,7 @@
 title: Четвертак
 description: 
 published: true
-date: 2023-11-01T15:04:04.055Z
+date: 2023-11-01T15:04:08.647Z
 tags: ru, игра, предмет, экипируемый
 editor: markdown
 dateCreated: 2023-11-01T13:44:33.529Z

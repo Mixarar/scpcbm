@@ -2,7 +2,7 @@
 title: SCP-096 Lock room
 description: 
 published: true
-date: 2023-11-02T11:49:52.694Z
+date: 2023-11-02T11:49:58.240Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T11:49:52.694Z

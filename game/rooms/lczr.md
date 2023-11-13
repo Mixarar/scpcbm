@@ -2,7 +2,7 @@
 title: Rooms list of Light containment zone
 description: Rooms list
 published: true
-date: 2023-11-05T16:02:50.820Z
+date: 2023-11-11T12:08:39.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T12:19:49.631Z
@@ -20,6 +20,7 @@ dateCreated: 2023-11-04T12:19:49.631Z
 - [SCP-372 containment chamber *The Peripheral Jumper*](/en/game/rooms/372)
 - [Storage Area 6 *Storage Area with 939 subjects*](/en/game/rooms/939)
 - [SCP-1162s containment chamber *The Infinite Canteen*](/en/game/rooms/1162)
+- [SCP-205's Containment Chamber *The lanterns*](/en/game/rooms/205)
 {.links-list}
 
 ## Hallways
@@ -30,6 +31,8 @@ dateCreated: 2023-11-04T12:19:49.631Z
 - [End room *Hallway*](/en/game/rooms/theend.)
 - [Surveillance Room *Security CCTV*](/en/game/rooms/cams)
 - [LCZ-HCZ checkpoint *Checkpoint*](/en/game/rooms/checklczhcz)
+- [Containment Room 5 *Containment*](/en/game/rooms/containment_room_5)
+- [SCP storage room *Containment*](/en/game/rooms/scpstorage)
 {.links-list}
 
 ## Corners

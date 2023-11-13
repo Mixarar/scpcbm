@@ -2,13 +2,13 @@
 title: Keycards
 description: All levels keycards
 published: true
-date: 2023-11-05T14:52:24.675Z
+date: 2023-11-11T13:25:41.504Z
 tags: en, game, item, keycard
 editor: markdown
 dateCreated: 2023-10-14T17:59:30.191Z
 ---
 
-- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
+- [:arrow_backward: Back *Go back to the other items page.*](/en/game/items/other)
 {.links-list}
 # Keycards
 ![all_keycards.png](/images/items/all_keycards.png =350x){.align-left}**Name**: `Keycards`

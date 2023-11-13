@@ -2,7 +2,7 @@
 title: Electrical Center
 description: Elec
 published: true
-date: 2023-11-01T11:35:56.556Z
+date: 2023-11-01T11:36:01.119Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-01T11:35:56.556Z

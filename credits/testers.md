@@ -2,7 +2,7 @@
 title: Beta-Testers
 description: People who testing game
 published: true
-date: 2023-10-31T17:09:25.260Z
+date: 2023-11-06T15:53:29.546Z
 tags: en, game, credit, testers
 editor: markdown
 dateCreated: 2023-10-18T11:53:45.297Z
@@ -41,3 +41,4 @@ dateCreated: 2023-10-18T11:53:45.297Z
 - **Cookies** *(@thesapphireruby)*
 - **Guar** *(@guar0000)*
 - **Zav** *(@zavpw)*
+- **DB4050** *(@db478)*

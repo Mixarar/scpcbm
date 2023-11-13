@@ -2,19 +2,19 @@
 title: Radio Transceiver
 description: And it's variants
 published: true
-date: 2023-10-29T11:24:35.998Z
+date: 2023-11-12T18:19:32.732Z
 tags: en, game, item, equippable
 editor: markdown
 dateCreated: 2023-10-28T14:26:55.541Z
 ---
 
-- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
+- [:arrow_backward: Back *Go back to the other items page.*](/en/game/items/other)
 {.links-list}
 # Radio Transceiver
 **Name**: `Radio Transceiver`
 **Category**: `EQUIPPABLE`
 
-![radio.png](/images/radio.png){.align-right}The Radio Transceiver is an equippable item that can be found in the storeroom, head office and inside SCP 035’s containment chamber. It requires one 9V Battery to function for approximately 6 minutes. While using the Radio Transceiver, you can use the number keys to cycle between channels 1-5.
+![radiotransceiver.png](/images/items/radiotransceiver.png =150x){.align-right}The Radio Transceiver is an equippable item that can be found in the storeroom, head office and inside SCP 035’s containment chamber. It requires one 9V Battery to function for approximately 6 minutes. While using the Radio Transceiver, you can use the number keys to cycle between channels 1-5.
 # Very Fine Radio Transceiver
 **Name**: `Very Fine Radio Transceiver`
 **Category**: `EQUIPPABLE`

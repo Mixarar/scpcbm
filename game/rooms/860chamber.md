@@ -2,7 +2,7 @@
 title: SCP-860 Testing chamber
 description: 
 published: true
-date: 2023-11-05T15:53:42.256Z
+date: 2023-11-05T15:53:46.754Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T11:53:29.982Z

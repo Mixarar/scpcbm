@@ -2,7 +2,7 @@
 title: Game Mechanics
 description: Most mechanics from game.
 published: true
-date: 2023-11-05T03:54:12.269Z
+date: 2023-11-11T12:47:56.364Z
 tags: en, game, mechanics
 editor: markdown
 dateCreated: 2023-10-18T15:40:44.242Z
@@ -13,8 +13,10 @@ dateCreated: 2023-10-18T15:40:44.242Z
 # Game Mechanics
 In SCP: Containment Breach Multiplayer, there are different types of mechanics which you can encounter throughout the game. In this page, you will see links to each mechanic, and you'll be able to see what they do.
 ## 
-- [Console Commands *Cheats*](/en/game/mechanics/cheats)
+
 - [Exploration *Map/seed/maze.*](/en/game/mechanics/Exploration)
 - [Basics *Basic mechanics of the game*](/en/game/mechanics/basic)
 - [SCP-914 *How to craft this or this thing.*](/en/game/mechanics/914)
+- [Console Commands *Cheats*](/en/game/mechanics/cheats)
+- [Monitors *All about 'em*](/en/game/mechanics/monitors)
 {.links-list}

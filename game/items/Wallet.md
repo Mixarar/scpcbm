@@ -2,17 +2,17 @@
 title: Wallet
 description: Wallets thats can contain cards and coins.
 published: true
-date: 2023-10-28T11:12:48.804Z
+date: 2023-11-12T19:04:00.680Z
 tags: en, game, items
 editor: markdown
 dateCreated: 2023-10-19T12:56:01.104Z
 ---
 
-- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
+- [:arrow_backward: Back *Go back to the other items page.*](/en/game/items/other)
 {.links-list}
 # Wallet
 ![wallet.png](/images/items/wallet.png =410x273){.align-left}**Name**: `Wallet`
-**Category**: `Items`
+**Category**: `STORAGE`
 ⠀
 **Description**:
 The wallet is an item that can be found at the lower part of the storeroom in the light сontaiment zone. The wallet is a useful item for several reasons:

@@ -2,13 +2,13 @@
 title: Gas Mask
 description: Explains the Gas Mask and its many variants what they are supposed to do in the game.
 published: true
-date: 2023-10-28T21:29:07.412Z
+date: 2023-11-11T13:28:32.352Z
 tags: item, gas mask, equippable
 editor: markdown
 dateCreated: 2023-10-14T16:12:32.142Z
 ---
 
-- [:arrow_backward: Back *Go back to the item page.*](/en/game/items#items)
+- [:arrow_backward: Back *Go back to the other items page.*](/en/game/items/other)
 {.links-list}
 # Gas Mask
 ![gasmask.wiki.png](/images/items/gasmask.wiki.png){.align-left}**Name**: `Gas Mask`

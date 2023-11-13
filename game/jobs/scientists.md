@@ -2,7 +2,7 @@
 title: Scientist
 description: Scientist lore and use in the game.
 published: true
-date: 2023-11-05T16:14:57.887Z
+date: 2023-11-05T16:15:02.539Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:27:58.154Z

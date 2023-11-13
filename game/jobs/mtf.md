@@ -2,7 +2,7 @@
 title: MTF
 description: MTF lore and use in game.
 published: true
-date: 2023-10-29T12:01:36.581Z
+date: 2023-11-06T14:06:28.173Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-08T23:35:51.658Z
@@ -22,4 +22,4 @@ In the SCP Foundation universe, the Nine-Tailed Fox, also known as Mobile Task F
 
 The Nine-Tailed Fox is a highly trained and well-equipped force, primarily dealing with the retrieval and containment of Euclid and Keter-class SCP objects, as well as responding to containment breaches. Their members are selected from various military, paramilitary and security organizations and undergo rigorous training to handle paranormal threats.
 ## In Game
-Mobile Task Force Epsilon-11 spawns in the Surface Zone of Gate-B and their job is to contain every SCP in the facility and terminate the Chaos Insurgency. They must escort foundation personnel to the Gate-B exit, such as Scientists, Janitors, Clerks and cooperative Class-D personnel (Class-D personnel must be cuffed beforehand).
+Mobile Task Force Epsilon-11 spawns in the Surface Zone of Gate-B and their job is to contain every SCP in the facility and terminate the Chaos Insurgency. They must escort foundation personnel to the Gate-B exit, such as Scientists, Janitors, Clerks and MTF units most shoot Class-D personal on sight. But you can cooperative Class-D personnel (Class-D personnel must be cuffed beforehand).

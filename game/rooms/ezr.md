@@ -2,7 +2,7 @@
 title: Rooms list of Entrance zone
 description: Rooms list
 published: true
-date: 2023-11-05T03:16:38.309Z
+date: 2023-11-05T03:16:43.017Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T12:27:02.389Z

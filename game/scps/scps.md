@@ -2,7 +2,7 @@
 title: XtrithX
 description: 
 published: true
-date: 2023-11-05T05:24:07.831Z
+date: 2023-11-05T05:24:12.645Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T02:55:05.869Z

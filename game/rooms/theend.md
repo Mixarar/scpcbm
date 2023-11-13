@@ -2,7 +2,7 @@
 title: Evacuation Shelter
 description: Shelter
 published: true
-date: 2023-11-05T16:30:28.320Z
+date: 2023-11-05T16:30:32.880Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T16:30:28.320Z

@@ -2,7 +2,7 @@
 title: Security Gateway
 description: Security Gateway
 published: true
-date: 2023-11-02T11:46:27.942Z
+date: 2023-11-02T11:46:33.493Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-02T11:46:27.942Z

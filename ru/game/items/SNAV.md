@@ -2,7 +2,7 @@
 title: S-NAV 300
 description: Навигатор
 published: true
-date: 2023-11-01T14:14:21.267Z
+date: 2023-11-01T14:14:26.007Z
 tags: ru, игра, предмет, snav
 editor: markdown
 dateCreated: 2023-11-01T14:14:21.267Z
